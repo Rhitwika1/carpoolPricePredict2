@@ -1,0 +1,1001 @@
+Car_Name,Year of buying,owner,seats,engine,max_power,torque,mileage(kmph),fuel type,fuel_unitPrice,pickup location,drop location,travelling distance(km),total_litres,fuel price,owner_name,car_number,price
+Car_0,2021,Third Owner,7,2000 CC,101 bhp,150 Nm,18,Diesel,101,Howrah,Park Street,205,9,1453,Owner_0,WB0000,1201.5
+Car_1,2018,Third Owner,7,1500 CC,144 bhp,150 Nm,23,Diesel,91,Park Street,Behala,120,12,727,Owner_1,WB0001,827.0
+Car_2,2022,Third Owner,5,1200 CC,77 bhp,150 Nm,21,CNG,92,Howrah,Dumdum,267,13,719,Owner_2,WB0002,1500.5
+Car_3,2019,First Owner,7,1200 CC,141 bhp,150 Nm,13,CNG,107,Howrah,Salt Lake,98,6,798,Owner_3,WB0003,809.0
+Car_4,2021,Second Owner,4,2000 CC,114 bhp,150 Nm,22,Diesel,90,Howrah,Behala,207,15,504,Owner_4,WB0004,1210.5
+Car_5,2017,First Owner,7,2000 CC,128 bhp,150 Nm,15,CNG,109,Park Street,Behala,291,11,1095,Owner_5,WB0005,1677.5
+Car_6,2021,Third Owner,7,1200 CC,73 bhp,150 Nm,13,Petrol,95,Dumdum,Park Street,209,5,1416,Owner_6,WB0006,1157.5
+Car_7,2022,First Owner,7,1500 CC,136 bhp,150 Nm,17,Petrol,94,Park Street,Dumdum,108,5,729,Owner_7,WB0007,749.0
+Car_8,2019,Third Owner,4,1200 CC,98 bhp,150 Nm,19,Petrol,90,Howrah,Salt Lake,36,8,1059,Owner_8,WB0008,372.0
+Car_9,2018,Third Owner,5,2000 CC,98 bhp,150 Nm,21,CNG,108,Salt Lake,Dumdum,98,14,1470,Owner_9,WB0009,827.0
+Car_10,2022,First Owner,4,1200 CC,97 bhp,150 Nm,15,Diesel,90,Behala,Park Street,155,11,998,Owner_10,WB0010,934.5
+Car_11,2022,Third Owner,5,2000 CC,146 bhp,150 Nm,16,CNG,105,Howrah,Howrah,191,6,1220,Owner_11,WB0011,1085.5
+Car_12,2017,Second Owner,5,2000 CC,148 bhp,150 Nm,15,CNG,101,Salt Lake,Behala,266,15,1040,Owner_12,WB0012,1558.0
+Car_13,2020,Third Owner,7,1200 CC,113 bhp,150 Nm,14,Diesel,97,Dumdum,Salt Lake,198,6,713,Owner_13,WB0013,1159.0
+Car_14,2019,Second Owner,5,1500 CC,73 bhp,150 Nm,16,Diesel,105,Howrah,Howrah,249,5,861,Owner_14,WB0014,1460.5
+Car_15,2016,Second Owner,4,1800 CC,78 bhp,150 Nm,20,Diesel,90,Salt Lake,Park Street,205,14,885,Owner_15,WB0015,1170.5
+Car_16,2022,Third Owner,4,1200 CC,74 bhp,150 Nm,19,Petrol,93,Howrah,Dumdum,174,6,809,Owner_16,WB0016,1038.0
+Car_17,2020,First Owner,5,1800 CC,125 bhp,150 Nm,19,CNG,99,Park Street,Behala,280,17,426,Owner_17,WB0017,1599.0
+Car_18,2016,Second Owner,7,1200 CC,119 bhp,150 Nm,19,Diesel,100,Salt Lake,Salt Lake,17,19,1452,Owner_18,WB0018,206.5
+Car_19,2019,First Owner,7,1800 CC,144 bhp,150 Nm,23,CNG,106,Park Street,Howrah,47,11,670,Owner_19,WB0019,403.5
+Car_20,2015,Second Owner,4,1500 CC,84 bhp,150 Nm,19,Petrol,96,Park Street,Howrah,123,13,1085,Owner_20,WB0020,885.5
+Car_21,2020,Third Owner,7,1500 CC,101 bhp,150 Nm,18,Petrol,101,Salt Lake,Behala,65,10,900,Owner_21,WB0021,572.5
+Car_22,2023,Third Owner,5,1200 CC,97 bhp,150 Nm,19,Diesel,96,Behala,Dumdum,147,14,784,Owner_22,WB0022,1044.5
+Car_23,2015,Second Owner,5,2000 CC,91 bhp,150 Nm,22,Diesel,101,Salt Lake,Park Street,111,6,459,Owner_23,WB0023,796.5
+Car_24,2017,Third Owner,4,1800 CC,86 bhp,150 Nm,19,CNG,104,Behala,Dumdum,186,16,619,Owner_24,WB0024,1062.0
+Car_25,2021,Second Owner,5,2000 CC,128 bhp,150 Nm,24,Diesel,91,Howrah,Dumdum,178,19,1170,Owner_25,WB0025,997.0
+Car_26,2018,Third Owner,4,2000 CC,140 bhp,150 Nm,19,CNG,103,Howrah,Dumdum,295,14,963,Owner_26,WB0026,1668.5
+Car_27,2023,First Owner,5,2000 CC,126 bhp,150 Nm,23,Diesel,102,Salt Lake,Behala,270,19,945,Owner_27,WB0027,1549.0
+Car_28,2017,Third Owner,4,1500 CC,95 bhp,150 Nm,21,CNG,93,Howrah,Behala,232,14,495,Owner_28,WB0028,1342.0
+Car_29,2019,First Owner,7,1200 CC,94 bhp,150 Nm,18,CNG,103,Dumdum,Park Street,208,17,1388,Owner_29,WB0029,1234.0
+Car_30,2017,Third Owner,5,1200 CC,79 bhp,150 Nm,23,CNG,103,Park Street,Dumdum,220,13,1227,Owner_30,WB0030,1227.0
+Car_31,2021,First Owner,5,1500 CC,114 bhp,150 Nm,12,CNG,105,Park Street,Behala,296,11,630,Owner_31,WB0031,1677.0
+Car_32,2019,Third Owner,4,1500 CC,80 bhp,150 Nm,15,Petrol,96,Behala,Park Street,189,15,1367,Owner_32,WB0032,1068.5
+Car_33,2023,First Owner,4,1200 CC,146 bhp,150 Nm,24,CNG,108,Howrah,Park Street,259,5,674,Owner_33,WB0033,1489.5
+Car_34,2021,Second Owner,5,2000 CC,122 bhp,150 Nm,24,Diesel,91,Behala,Dumdum,240,16,645,Owner_34,WB0034,1324.0
+Car_35,2016,Second Owner,4,1800 CC,141 bhp,150 Nm,15,Petrol,99,Park Street,Salt Lake,32,13,510,Owner_35,WB0035,364.0
+Car_36,2018,First Owner,5,1800 CC,137 bhp,150 Nm,16,Petrol,107,Park Street,Dumdum,57,6,633,Owner_36,WB0036,523.5
+Car_37,2023,Third Owner,7,1800 CC,97 bhp,150 Nm,21,CNG,106,Howrah,Salt Lake,118,8,816,Owner_37,WB0037,808.0
+Car_38,2016,First Owner,4,2000 CC,144 bhp,150 Nm,17,Petrol,94,Dumdum,Park Street,15,13,1077,Owner_38,WB0038,210.5
+Car_39,2023,Third Owner,5,1200 CC,134 bhp,150 Nm,15,CNG,101,Dumdum,Behala,47,8,1202,Owner_39,WB0039,492.5
+Car_40,2019,Second Owner,7,1500 CC,118 bhp,150 Nm,13,Diesel,95,Howrah,Howrah,178,7,1018,Owner_40,WB0040,983.0
+Car_41,2016,Third Owner,7,1200 CC,116 bhp,150 Nm,17,CNG,98,Howrah,Park Street,292,5,1106,Owner_41,WB0041,1655.0
+Car_42,2018,Second Owner,5,2000 CC,121 bhp,150 Nm,19,Petrol,109,Behala,Behala,212,11,1250,Owner_42,WB0042,1250.0
+Car_43,2021,Third Owner,4,1500 CC,123 bhp,150 Nm,19,Diesel,90,Howrah,Park Street,282,19,874,Owner_43,WB0043,1608.0
+Car_44,2022,Third Owner,5,2000 CC,129 bhp,150 Nm,18,CNG,104,Dumdum,Dumdum,253,10,1054,Owner_44,WB0044,1469.5
+Car_45,2017,Third Owner,7,1800 CC,126 bhp,150 Nm,17,Diesel,95,Howrah,Salt Lake,56,14,794,Owner_45,WB0045,503.0
+Car_46,2015,First Owner,5,1800 CC,116 bhp,150 Nm,13,Diesel,108,Behala,Park Street,258,8,510,Owner_46,WB0046,1426.0
+Car_47,2018,First Owner,4,2000 CC,100 bhp,150 Nm,18,Petrol,107,Behala,Behala,88,10,489,Owner_47,WB0047,690.0
+Car_48,2016,Second Owner,7,1500 CC,115 bhp,150 Nm,22,Diesel,95,Behala,Dumdum,119,10,1162,Owner_48,WB0048,784.5
+Car_49,2022,Second Owner,5,1500 CC,95 bhp,150 Nm,23,Petrol,102,Behala,Howrah,22,17,531,Owner_49,WB0049,207.0
+Car_50,2018,First Owner,4,1200 CC,74 bhp,150 Nm,16,Diesel,90,Salt Lake,Dumdum,99,8,1436,Owner_50,WB0050,835.5
+Car_51,2016,Second Owner,7,1800 CC,121 bhp,150 Nm,17,CNG,102,Howrah,Salt Lake,289,18,856,Owner_51,WB0051,1650.5
+Car_52,2020,First Owner,4,1200 CC,144 bhp,150 Nm,21,Diesel,96,Park Street,Dumdum,230,17,497,Owner_52,WB0052,1355.0
+Car_53,2020,Third Owner,7,1200 CC,123 bhp,150 Nm,19,CNG,104,Howrah,Howrah,82,10,692,Owner_53,WB0053,704.0
+Car_54,2018,Second Owner,5,2000 CC,102 bhp,150 Nm,19,CNG,101,Salt Lake,Behala,243,14,1424,Owner_54,WB0054,1368.5
+Car_55,2020,Second Owner,4,2000 CC,119 bhp,150 Nm,14,Diesel,90,Behala,Park Street,269,15,971,Owner_55,WB0055,1504.5
+Car_56,2016,First Owner,7,1200 CC,107 bhp,150 Nm,23,CNG,104,Salt Lake,Salt Lake,122,12,649,Owner_56,WB0056,882.0
+Car_57,2016,Second Owner,4,1800 CC,96 bhp,150 Nm,23,Diesel,93,Dumdum,Howrah,55,17,1051,Owner_57,WB0057,511.5
+Car_58,2018,Second Owner,4,2000 CC,84 bhp,150 Nm,18,Diesel,102,Dumdum,Salt Lake,283,7,548,Owner_58,WB0058,1595.5
+Car_59,2022,Third Owner,5,1200 CC,130 bhp,150 Nm,12,CNG,94,Howrah,Dumdum,52,8,443,Owner_59,WB0059,454.0
+Car_60,2021,Second Owner,4,1200 CC,90 bhp,150 Nm,12,CNG,91,Howrah,Salt Lake,217,14,1467,Owner_60,WB0060,1251.5
+Car_61,2023,Third Owner,7,1200 CC,115 bhp,150 Nm,18,Petrol,90,Park Street,Howrah,112,17,561,Owner_61,WB0061,742.0
+Car_62,2022,First Owner,7,1200 CC,138 bhp,150 Nm,21,CNG,105,Park Street,Park Street,133,16,652,Owner_62,WB0062,864.5
+Car_63,2019,Second Owner,7,1200 CC,75 bhp,150 Nm,20,Petrol,95,Dumdum,Park Street,19,18,531,Owner_63,WB0063,171.5
+Car_64,2016,Third Owner,7,1200 CC,107 bhp,150 Nm,18,CNG,105,Behala,Salt Lake,196,19,873,Owner_64,WB0064,1132.0
+Car_65,2019,First Owner,5,2000 CC,131 bhp,150 Nm,21,Diesel,103,Salt Lake,Behala,40,5,1105,Owner_65,WB0065,341.0
+Car_66,2022,Second Owner,4,1800 CC,131 bhp,150 Nm,16,CNG,92,Park Street,Salt Lake,165,8,1458,Owner_66,WB0066,971.5
+Car_67,2023,First Owner,5,1200 CC,147 bhp,150 Nm,19,Diesel,104,Park Street,Dumdum,69,15,674,Owner_67,WB0067,611.5
+Car_68,2023,Second Owner,4,1500 CC,143 bhp,150 Nm,13,Diesel,92,Behala,Park Street,258,14,586,Owner_68,WB0068,1462.0
+Car_69,2015,First Owner,4,2000 CC,115 bhp,150 Nm,20,Diesel,91,Behala,Park Street,279,14,1348,Owner_69,WB0069,1549.5
+Car_70,2023,First Owner,4,2000 CC,82 bhp,150 Nm,17,Petrol,90,Howrah,Park Street,226,16,642,Owner_70,WB0070,1264.0
+Car_71,2021,Third Owner,5,1200 CC,72 bhp,150 Nm,24,CNG,98,Salt Lake,Behala,11,18,663,Owner_71,WB0071,110.5
+Car_72,2023,First Owner,4,2000 CC,75 bhp,150 Nm,20,Diesel,98,Behala,Behala,33,13,921,Owner_72,WB0072,326.5
+Car_73,2022,Second Owner,5,1200 CC,77 bhp,150 Nm,13,Diesel,96,Park Street,Howrah,215,12,1362,Owner_73,WB0073,1262.5
+Car_74,2015,Second Owner,7,1800 CC,113 bhp,150 Nm,14,Petrol,92,Park Street,Salt Lake,208,15,1182,Owner_74,WB0074,1173.0
+Car_75,2022,Third Owner,7,1800 CC,102 bhp,150 Nm,23,CNG,107,Dumdum,Salt Lake,123,8,934,Owner_75,WB0075,808.5
+Car_76,2022,Second Owner,4,2000 CC,144 bhp,150 Nm,19,CNG,100,Behala,Dumdum,289,16,609,Owner_76,WB0076,1687.5
+Car_77,2017,Second Owner,5,2000 CC,146 bhp,150 Nm,12,Petrol,96,Howrah,Park Street,164,11,445,Owner_77,WB0077,959.0
+Car_78,2015,Second Owner,7,1500 CC,119 bhp,150 Nm,21,Petrol,98,Salt Lake,Behala,174,14,425,Owner_78,WB0078,1018.0
+Car_79,2022,First Owner,5,2000 CC,80 bhp,150 Nm,18,CNG,90,Howrah,Dumdum,231,7,574,Owner_79,WB0079,1354.5
+Car_80,2017,First Owner,5,1500 CC,97 bhp,150 Nm,18,Petrol,103,Park Street,Dumdum,100,13,721,Owner_80,WB0080,829.0
+Car_81,2017,Second Owner,4,1800 CC,139 bhp,150 Nm,24,CNG,109,Howrah,Behala,176,14,454,Owner_81,WB0081,973.0
+Car_82,2015,Third Owner,7,1800 CC,110 bhp,150 Nm,12,CNG,95,Park Street,Salt Lake,216,8,1067,Owner_82,WB0082,1254.0
+Car_83,2019,First Owner,4,1200 CC,85 bhp,150 Nm,20,Diesel,96,Park Street,Park Street,291,6,546,Owner_83,WB0083,1640.5
+Car_84,2021,Third Owner,4,1800 CC,137 bhp,150 Nm,19,Diesel,99,Park Street,Salt Lake,74,14,998,Owner_84,WB0084,597.0
+Car_85,2023,Second Owner,7,1500 CC,117 bhp,150 Nm,15,CNG,96,Park Street,Dumdum,13,9,419,Owner_85,WB0085,194.5
+Car_86,2021,Second Owner,7,2000 CC,125 bhp,150 Nm,21,CNG,91,Park Street,Park Street,166,6,732,Owner_86,WB0086,989.0
+Car_87,2023,First Owner,5,1200 CC,133 bhp,150 Nm,22,CNG,93,Dumdum,Howrah,258,18,1306,Owner_87,WB0087,1436.0
+Car_88,2022,Second Owner,7,1500 CC,128 bhp,150 Nm,16,CNG,106,Howrah,Dumdum,266,14,1343,Owner_88,WB0088,1520.0
+Car_89,2016,First Owner,5,2000 CC,131 bhp,150 Nm,13,CNG,90,Dumdum,Salt Lake,244,10,1310,Owner_89,WB0089,1401.0
+Car_90,2015,Second Owner,5,1200 CC,145 bhp,150 Nm,24,CNG,99,Dumdum,Salt Lake,83,15,800,Owner_90,WB0090,709.5
+Car_91,2021,Second Owner,5,1800 CC,80 bhp,150 Nm,20,Petrol,108,Behala,Salt Lake,196,14,1349,Owner_91,WB0091,1104.0
+Car_92,2021,First Owner,7,1500 CC,87 bhp,150 Nm,23,CNG,104,Behala,Behala,71,5,427,Owner_92,WB0092,599.5
+Car_93,2022,First Owner,4,2000 CC,88 bhp,150 Nm,23,Petrol,99,Behala,Dumdum,173,18,866,Owner_93,WB0093,972.5
+Car_94,2019,First Owner,5,1200 CC,124 bhp,150 Nm,17,Petrol,108,Salt Lake,Park Street,65,10,1381,Owner_94,WB0094,510.5
+Car_95,2017,Second Owner,4,1200 CC,95 bhp,150 Nm,14,CNG,101,Behala,Salt Lake,120,8,500,Owner_95,WB0095,819.0
+Car_96,2022,Second Owner,4,1800 CC,75 bhp,150 Nm,23,CNG,105,Howrah,Salt Lake,227,7,950,Owner_96,WB0096,1321.5
+Car_97,2020,Third Owner,7,2000 CC,73 bhp,150 Nm,18,Petrol,98,Dumdum,Behala,249,6,1201,Owner_97,WB0097,1434.5
+Car_98,2017,First Owner,4,1800 CC,98 bhp,150 Nm,20,Petrol,104,Howrah,Park Street,30,11,752,Owner_98,WB0098,294.0
+Car_99,2015,Second Owner,4,1800 CC,128 bhp,150 Nm,14,CNG,106,Behala,Dumdum,150,13,695,Owner_99,WB0099,980.0
+Car_100,2017,Second Owner,7,2000 CC,86 bhp,150 Nm,13,CNG,103,Salt Lake,Howrah,274,16,752,Owner_100,WB0100,1524.0
+Car_101,2019,First Owner,5,2000 CC,112 bhp,150 Nm,18,Petrol,107,Salt Lake,Behala,148,7,1307,Owner_101,WB0101,1042.0
+Car_102,2017,Third Owner,4,2000 CC,149 bhp,150 Nm,18,Petrol,91,Dumdum,Dumdum,79,10,1418,Owner_102,WB0102,678.5
+Car_103,2015,First Owner,7,1500 CC,135 bhp,150 Nm,15,Petrol,93,Howrah,Howrah,127,13,1497,Owner_103,WB0103,854.5
+Car_104,2019,Third Owner,4,2000 CC,103 bhp,150 Nm,22,Diesel,107,Park Street,Salt Lake,207,6,854,Owner_104,WB0104,1158.5
+Car_105,2021,Second Owner,4,1200 CC,77 bhp,150 Nm,20,Petrol,96,Howrah,Salt Lake,214,11,1111,Owner_105,WB0105,1238.0
+Car_106,2021,Third Owner,5,1800 CC,82 bhp,150 Nm,19,Diesel,102,Behala,Park Street,223,9,1379,Owner_106,WB0106,1235.5
+Car_107,2023,Second Owner,4,1500 CC,77 bhp,150 Nm,24,CNG,104,Park Street,Howrah,65,9,1138,Owner_107,WB0107,499.5
+Car_108,2017,First Owner,7,2000 CC,134 bhp,150 Nm,24,CNG,90,Salt Lake,Salt Lake,296,15,1376,Owner_108,WB0108,1703.0
+Car_109,2021,First Owner,4,1500 CC,112 bhp,150 Nm,12,Petrol,100,Dumdum,Salt Lake,184,11,632,Owner_109,WB0109,1020.0
+Car_110,2015,First Owner,5,2000 CC,108 bhp,150 Nm,12,CNG,99,Dumdum,Park Street,137,13,1423,Owner_110,WB0110,957.5
+Car_111,2018,Third Owner,5,1500 CC,128 bhp,150 Nm,16,CNG,94,Salt Lake,Dumdum,297,8,501,Owner_111,WB0111,1671.5
+Car_112,2018,Second Owner,7,1800 CC,113 bhp,150 Nm,17,CNG,105,Behala,Salt Lake,235,13,1352,Owner_112,WB0112,1315.5
+Car_113,2019,First Owner,5,1800 CC,78 bhp,150 Nm,14,CNG,100,Salt Lake,Behala,73,19,880,Owner_113,WB0113,580.5
+Car_114,2021,First Owner,4,1200 CC,106 bhp,150 Nm,24,Diesel,95,Behala,Behala,57,18,507,Owner_114,WB0114,487.5
+Car_115,2021,Second Owner,5,1200 CC,143 bhp,150 Nm,20,Diesel,98,Park Street,Dumdum,211,17,1372,Owner_115,WB0115,1200.5
+Car_116,2018,First Owner,7,2000 CC,105 bhp,150 Nm,23,Petrol,102,Salt Lake,Howrah,69,15,1103,Owner_116,WB0116,521.5
+Car_117,2021,Second Owner,5,1800 CC,97 bhp,150 Nm,21,Petrol,97,Behala,Park Street,266,14,734,Owner_117,WB0117,1541.0
+Car_118,2017,Second Owner,5,1500 CC,111 bhp,150 Nm,17,Petrol,103,Park Street,Behala,74,13,485,Owner_118,WB0118,604.0
+Car_119,2020,Second Owner,5,1500 CC,112 bhp,150 Nm,15,CNG,90,Salt Lake,Behala,248,17,1133,Owner_119,WB0119,1367.0
+Car_120,2016,Second Owner,7,1500 CC,111 bhp,150 Nm,23,CNG,106,Dumdum,Dumdum,298,8,1274,Owner_120,WB0120,1689.0
+Car_121,2023,Second Owner,5,1200 CC,135 bhp,150 Nm,18,Diesel,94,Salt Lake,Howrah,47,7,763,Owner_121,WB0121,450.5
+Car_122,2019,Third Owner,5,1500 CC,124 bhp,150 Nm,19,Diesel,91,Howrah,Howrah,34,6,459,Owner_122,WB0122,327.0
+Car_123,2020,First Owner,4,1200 CC,141 bhp,150 Nm,20,Petrol,98,Salt Lake,Dumdum,68,13,959,Owner_123,WB0123,517.0
+Car_124,2018,Third Owner,7,1200 CC,117 bhp,150 Nm,24,Diesel,93,Howrah,Behala,167,16,516,Owner_124,WB0124,962.5
+Car_125,2021,First Owner,5,2000 CC,91 bhp,150 Nm,22,Diesel,106,Park Street,Park Street,66,6,1273,Owner_125,WB0125,582.0
+Car_126,2023,Third Owner,7,1500 CC,96 bhp,150 Nm,17,Diesel,106,Salt Lake,Behala,57,10,1314,Owner_126,WB0126,454.5
+Car_127,2021,Second Owner,5,1500 CC,136 bhp,150 Nm,17,Diesel,107,Park Street,Howrah,65,9,1367,Owner_127,WB0127,513.5
+Car_128,2015,First Owner,5,1800 CC,82 bhp,150 Nm,19,Diesel,105,Park Street,Behala,74,18,1398,Owner_128,WB0128,619.0
+Car_129,2015,First Owner,5,2000 CC,114 bhp,150 Nm,23,Petrol,97,Behala,Park Street,277,9,443,Owner_129,WB0129,1556.5
+Car_130,2023,Third Owner,4,1800 CC,79 bhp,150 Nm,16,Petrol,100,Park Street,Salt Lake,78,8,908,Owner_130,WB0130,665.0
+Car_131,2023,Third Owner,4,2000 CC,78 bhp,150 Nm,14,Diesel,107,Park Street,Behala,225,10,1248,Owner_131,WB0131,1298.5
+Car_132,2018,First Owner,4,1500 CC,123 bhp,150 Nm,23,Petrol,99,Salt Lake,Dumdum,98,9,1316,Owner_132,WB0132,796.0
+Car_133,2023,Third Owner,7,1200 CC,96 bhp,150 Nm,14,CNG,102,Salt Lake,Salt Lake,290,15,1297,Owner_133,WB0133,1632.0
+Car_134,2017,Third Owner,7,1200 CC,103 bhp,150 Nm,24,Diesel,106,Dumdum,Dumdum,266,8,1198,Owner_134,WB0134,1488.0
+Car_135,2021,Third Owner,4,1200 CC,70 bhp,150 Nm,17,CNG,107,Behala,Dumdum,169,17,1275,Owner_135,WB0135,952.5
+Car_136,2020,Second Owner,7,1200 CC,101 bhp,150 Nm,13,Petrol,99,Park Street,Dumdum,243,13,685,Owner_136,WB0136,1374.5
+Car_137,2022,Second Owner,5,1200 CC,140 bhp,150 Nm,17,Petrol,105,Behala,Behala,140,17,1083,Owner_137,WB0137,930.0
+Car_138,2023,Third Owner,5,1800 CC,136 bhp,150 Nm,24,CNG,109,Howrah,Howrah,58,10,1218,Owner_138,WB0138,528.0
+Car_139,2019,Third Owner,5,2000 CC,89 bhp,150 Nm,17,Petrol,94,Park Street,Salt Lake,156,15,520,Owner_139,WB0139,904.0
+Car_140,2015,Second Owner,4,1500 CC,104 bhp,150 Nm,19,Diesel,102,Behala,Park Street,11,14,1344,Owner_140,WB0140,140.5
+Car_141,2017,Second Owner,7,1800 CC,147 bhp,150 Nm,18,CNG,107,Dumdum,Howrah,154,14,1417,Owner_141,WB0141,859.0
+Car_142,2022,First Owner,4,2000 CC,86 bhp,150 Nm,19,Diesel,106,Dumdum,Behala,70,17,1306,Owner_142,WB0142,527.0
+Car_143,2020,First Owner,7,1200 CC,87 bhp,150 Nm,20,CNG,98,Park Street,Dumdum,282,14,412,Owner_143,WB0143,1582.0
+Car_144,2022,Second Owner,5,2000 CC,114 bhp,150 Nm,17,Petrol,103,Howrah,Park Street,58,17,1002,Owner_144,WB0144,469.0
+Car_145,2023,Third Owner,4,2000 CC,122 bhp,150 Nm,14,CNG,106,Dumdum,Salt Lake,140,7,599,Owner_145,WB0145,928.0
+Car_146,2018,Third Owner,7,1200 CC,137 bhp,150 Nm,21,CNG,93,Dumdum,Howrah,52,14,985,Owner_146,WB0146,403.0
+Car_147,2015,Third Owner,7,1200 CC,134 bhp,150 Nm,14,Diesel,107,Howrah,Howrah,66,10,847,Owner_147,WB0147,542.0
+Car_148,2015,Third Owner,5,1200 CC,70 bhp,150 Nm,22,Petrol,109,Behala,Park Street,59,18,1240,Owner_148,WB0148,527.5
+Car_149,2018,First Owner,4,1500 CC,127 bhp,150 Nm,23,Diesel,104,Dumdum,Behala,187,5,1494,Owner_149,WB0149,1108.5
+Car_150,2021,Second Owner,4,1200 CC,95 bhp,150 Nm,12,Petrol,100,Salt Lake,Salt Lake,55,9,989,Owner_150,WB0150,479.5
+Car_151,2016,Third Owner,4,1500 CC,89 bhp,150 Nm,22,Diesel,101,Dumdum,Park Street,179,14,1288,Owner_151,WB0151,1028.5
+Car_152,2017,First Owner,5,1200 CC,79 bhp,150 Nm,24,CNG,98,Behala,Dumdum,280,10,442,Owner_152,WB0152,1558.0
+Car_153,2015,Third Owner,4,1500 CC,128 bhp,150 Nm,16,Diesel,102,Behala,Salt Lake,148,19,919,Owner_153,WB0153,1025.0
+Car_154,2019,Second Owner,5,2000 CC,144 bhp,150 Nm,15,Petrol,104,Park Street,Howrah,256,15,1436,Owner_154,WB0154,1473.0
+Car_155,2015,First Owner,5,1800 CC,110 bhp,150 Nm,20,Petrol,104,Salt Lake,Park Street,157,12,1124,Owner_155,WB0155,941.5
+Car_156,2022,Second Owner,5,2000 CC,74 bhp,150 Nm,20,CNG,94,Behala,Howrah,239,15,1022,Owner_156,WB0156,1379.5
+Car_157,2015,Second Owner,7,2000 CC,134 bhp,150 Nm,16,Petrol,108,Howrah,Howrah,289,19,1387,Owner_157,WB0157,1663.5
+Car_158,2015,First Owner,4,1200 CC,86 bhp,150 Nm,21,Diesel,109,Salt Lake,Howrah,134,19,1202,Owner_158,WB0158,915.0
+Car_159,2016,First Owner,4,1500 CC,91 bhp,150 Nm,15,CNG,103,Salt Lake,Behala,201,13,934,Owner_159,WB0159,1191.5
+Car_160,2016,First Owner,5,1800 CC,110 bhp,150 Nm,18,Petrol,106,Howrah,Howrah,89,15,701,Owner_160,WB0160,740.5
+Car_161,2020,First Owner,5,1200 CC,137 bhp,150 Nm,17,Petrol,107,Dumdum,Dumdum,103,7,926,Owner_161,WB0161,735.5
+Car_162,2021,First Owner,4,1200 CC,138 bhp,150 Nm,15,Diesel,92,Howrah,Dumdum,235,6,859,Owner_162,WB0162,1360.5
+Car_163,2019,First Owner,5,1200 CC,80 bhp,150 Nm,24,Diesel,91,Howrah,Salt Lake,74,17,1231,Owner_163,WB0163,557.0
+Car_164,2015,First Owner,4,2000 CC,125 bhp,150 Nm,24,CNG,90,Dumdum,Howrah,97,8,904,Owner_164,WB0164,764.5
+Car_165,2015,Third Owner,7,1500 CC,120 bhp,150 Nm,21,Petrol,99,Dumdum,Howrah,97,12,1331,Owner_165,WB0165,803.5
+Car_166,2017,Second Owner,5,1500 CC,90 bhp,150 Nm,13,Diesel,108,Dumdum,Park Street,210,15,724,Owner_166,WB0166,1196.0
+Car_167,2016,First Owner,4,1800 CC,145 bhp,150 Nm,12,CNG,106,Dumdum,Behala,223,12,978,Owner_167,WB0167,1308.5
+Car_168,2019,Third Owner,5,1500 CC,95 bhp,150 Nm,15,Petrol,101,Dumdum,Salt Lake,213,7,1160,Owner_168,WB0168,1210.5
+Car_169,2020,Third Owner,4,1500 CC,88 bhp,150 Nm,15,Petrol,90,Howrah,Howrah,98,8,1250,Owner_169,WB0169,784.0
+Car_170,2021,Third Owner,4,1200 CC,129 bhp,150 Nm,24,CNG,101,Park Street,Park Street,70,7,1359,Owner_170,WB0170,559.0
+Car_171,2018,Second Owner,5,1200 CC,140 bhp,150 Nm,12,CNG,106,Park Street,Behala,280,14,901,Owner_171,WB0171,1563.0
+Car_172,2021,First Owner,7,2000 CC,116 bhp,150 Nm,17,Diesel,92,Behala,Salt Lake,103,6,733,Owner_172,WB0172,756.5
+Car_173,2022,Third Owner,4,1200 CC,140 bhp,150 Nm,15,Petrol,100,Park Street,Salt Lake,36,8,683,Owner_173,WB0173,322.0
+Car_174,2015,Second Owner,4,1200 CC,95 bhp,150 Nm,12,Petrol,106,Park Street,Howrah,223,10,874,Owner_174,WB0174,1265.5
+Car_175,2020,Second Owner,4,1200 CC,109 bhp,150 Nm,12,Petrol,92,Howrah,Salt Lake,83,15,1477,Owner_175,WB0175,695.5
+Car_176,2022,Second Owner,7,1200 CC,74 bhp,150 Nm,24,CNG,97,Dumdum,Park Street,70,18,1031,Owner_176,WB0176,590.0
+Car_177,2019,Third Owner,7,2000 CC,90 bhp,150 Nm,12,Diesel,109,Dumdum,Salt Lake,195,15,1102,Owner_177,WB0177,1115.5
+Car_178,2018,First Owner,5,1200 CC,147 bhp,150 Nm,19,Petrol,93,Howrah,Dumdum,40,9,808,Owner_178,WB0178,362.0
+Car_179,2016,Third Owner,7,1800 CC,73 bhp,150 Nm,21,CNG,96,Park Street,Park Street,228,7,1381,Owner_179,WB0179,1259.0
+Car_180,2020,Third Owner,5,1800 CC,92 bhp,150 Nm,19,Petrol,103,Howrah,Behala,21,6,958,Owner_180,WB0180,243.5
+Car_181,2020,First Owner,5,1800 CC,84 bhp,150 Nm,13,Diesel,103,Behala,Behala,41,13,621,Owner_181,WB0181,368.5
+Car_182,2015,First Owner,7,1800 CC,77 bhp,150 Nm,22,Petrol,93,Dumdum,Howrah,169,19,557,Owner_182,WB0182,963.5
+Car_183,2023,First Owner,5,1200 CC,110 bhp,150 Nm,24,Diesel,105,Salt Lake,Howrah,246,5,747,Owner_183,WB0183,1381.0
+Car_184,2020,Second Owner,7,1800 CC,88 bhp,150 Nm,18,Diesel,90,Behala,Dumdum,236,13,1288,Owner_184,WB0184,1304.0
+Car_185,2017,First Owner,5,1200 CC,115 bhp,150 Nm,19,Petrol,106,Behala,Behala,190,5,1321,Owner_185,WB0185,1137.0
+Car_186,2018,Third Owner,7,2000 CC,97 bhp,150 Nm,19,Petrol,99,Howrah,Behala,55,19,1061,Owner_186,WB0186,464.5
+Car_187,2018,First Owner,7,1800 CC,137 bhp,150 Nm,22,Diesel,105,Park Street,Behala,89,18,804,Owner_187,WB0187,703.5
+Car_188,2017,Third Owner,5,1500 CC,84 bhp,150 Nm,21,CNG,105,Dumdum,Behala,144,11,1076,Owner_188,WB0188,958.0
+Car_189,2017,Second Owner,4,1800 CC,106 bhp,150 Nm,22,Diesel,97,Salt Lake,Salt Lake,269,10,988,Owner_189,WB0189,1575.5
+Car_190,2017,Third Owner,5,1800 CC,70 bhp,150 Nm,24,Petrol,96,Behala,Park Street,256,11,957,Owner_190,WB0190,1415.0
+Car_191,2018,Third Owner,7,1200 CC,136 bhp,150 Nm,18,Petrol,95,Salt Lake,Park Street,168,19,1304,Owner_191,WB0191,999.0
+Car_192,2021,First Owner,4,1800 CC,93 bhp,150 Nm,16,CNG,105,Park Street,Dumdum,212,7,1470,Owner_192,WB0192,1213.0
+Car_193,2018,First Owner,5,1500 CC,96 bhp,150 Nm,12,Diesel,109,Park Street,Salt Lake,121,18,878,Owner_193,WB0193,795.5
+Car_194,2023,Third Owner,5,1200 CC,109 bhp,150 Nm,23,Diesel,105,Salt Lake,Behala,128,7,886,Owner_194,WB0194,910.0
+Car_195,2015,First Owner,5,1200 CC,132 bhp,150 Nm,20,Diesel,96,Dumdum,Behala,26,17,965,Owner_195,WB0195,244.0
+Car_196,2022,Second Owner,4,2000 CC,130 bhp,150 Nm,24,Petrol,98,Park Street,Howrah,236,15,923,Owner_196,WB0196,1387.0
+Car_197,2021,Second Owner,7,2000 CC,105 bhp,150 Nm,18,Diesel,103,Salt Lake,Howrah,126,5,1103,Owner_197,WB0197,865.0
+Car_198,2016,First Owner,5,1800 CC,93 bhp,150 Nm,13,CNG,100,Behala,Dumdum,52,8,1429,Owner_198,WB0198,442.0
+Car_199,2022,Second Owner,5,2000 CC,93 bhp,150 Nm,17,Petrol,103,Salt Lake,Behala,124,16,1220,Owner_199,WB0199,844.0
+Car_200,2015,First Owner,5,2000 CC,73 bhp,150 Nm,13,Petrol,96,Salt Lake,Dumdum,292,6,1257,Owner_200,WB0200,1672.0
+Car_201,2023,Third Owner,5,2000 CC,136 bhp,150 Nm,12,Diesel,90,Howrah,Salt Lake,46,14,984,Owner_201,WB0201,456.0
+Car_202,2023,Third Owner,5,1200 CC,103 bhp,150 Nm,18,CNG,102,Park Street,Park Street,122,12,1085,Owner_202,WB0202,798.0
+Car_203,2016,Second Owner,7,1200 CC,126 bhp,150 Nm,24,Petrol,109,Dumdum,Behala,44,7,631,Owner_203,WB0203,394.0
+Car_204,2021,First Owner,7,1200 CC,118 bhp,150 Nm,13,Petrol,92,Dumdum,Salt Lake,141,11,669,Owner_204,WB0204,988.5
+Car_205,2017,First Owner,5,2000 CC,122 bhp,150 Nm,24,Diesel,109,Howrah,Behala,237,11,1339,Owner_205,WB0205,1376.5
+Car_206,2021,Second Owner,4,1200 CC,92 bhp,150 Nm,13,Diesel,93,Dumdum,Howrah,156,16,1273,Owner_206,WB0206,893.0
+Car_207,2023,Third Owner,7,2000 CC,138 bhp,150 Nm,24,CNG,100,Salt Lake,Dumdum,131,13,451,Owner_207,WB0207,853.5
+Car_208,2018,Second Owner,4,1200 CC,122 bhp,150 Nm,22,Diesel,91,Howrah,Howrah,90,10,515,Owner_208,WB0208,762.0
+Car_209,2015,Third Owner,7,1200 CC,131 bhp,150 Nm,16,CNG,103,Behala,Park Street,182,5,937,Owner_209,WB0209,1086.0
+Car_210,2016,First Owner,5,1500 CC,110 bhp,150 Nm,16,Petrol,101,Park Street,Howrah,163,12,940,Owner_210,WB0210,973.5
+Car_211,2015,Third Owner,7,1800 CC,126 bhp,150 Nm,18,CNG,106,Park Street,Behala,159,5,1442,Owner_211,WB0211,915.5
+Car_212,2019,Second Owner,5,2000 CC,129 bhp,150 Nm,12,CNG,101,Park Street,Howrah,67,7,1214,Owner_212,WB0212,546.5
+Car_213,2019,First Owner,7,1500 CC,123 bhp,150 Nm,19,CNG,101,Salt Lake,Behala,72,15,1190,Owner_213,WB0213,583.0
+Car_214,2021,Second Owner,5,1200 CC,139 bhp,150 Nm,14,Petrol,90,Behala,Park Street,165,9,1017,Owner_214,WB0214,997.5
+Car_215,2023,Second Owner,5,2000 CC,126 bhp,150 Nm,15,Diesel,102,Howrah,Howrah,177,12,818,Owner_215,WB0215,1005.5
+Car_216,2023,Third Owner,5,1200 CC,79 bhp,150 Nm,20,Petrol,103,Howrah,Dumdum,175,13,708,Owner_216,WB0216,1021.5
+Car_217,2017,Second Owner,5,1800 CC,109 bhp,150 Nm,15,Diesel,91,Park Street,Dumdum,94,19,1263,Owner_217,WB0217,790.0
+Car_218,2017,Third Owner,4,1500 CC,76 bhp,150 Nm,21,CNG,101,Behala,Dumdum,146,11,585,Owner_218,WB0218,1041.0
+Car_219,2017,First Owner,5,1800 CC,107 bhp,150 Nm,23,CNG,105,Behala,Howrah,198,13,660,Owner_219,WB0219,1171.0
+Car_220,2018,Third Owner,4,1500 CC,130 bhp,150 Nm,16,CNG,93,Behala,Howrah,11,15,559,Owner_220,WB0220,175.5
+Car_221,2022,First Owner,4,1200 CC,72 bhp,150 Nm,18,CNG,97,Dumdum,Howrah,115,7,1269,Owner_221,WB0221,816.5
+Car_222,2020,Third Owner,5,1800 CC,120 bhp,150 Nm,15,CNG,91,Dumdum,Behala,81,17,1161,Owner_222,WB0222,689.5
+Car_223,2022,Second Owner,4,1800 CC,116 bhp,150 Nm,12,Diesel,99,Park Street,Park Street,135,9,623,Owner_223,WB0223,953.5
+Car_224,2015,Third Owner,7,1200 CC,137 bhp,150 Nm,20,Diesel,98,Behala,Dumdum,179,14,579,Owner_224,WB0224,1009.5
+Car_225,2022,Third Owner,5,1800 CC,145 bhp,150 Nm,15,CNG,104,Behala,Behala,214,12,419,Owner_225,WB0225,1262.0
+Car_226,2018,First Owner,4,2000 CC,107 bhp,150 Nm,20,Petrol,102,Howrah,Dumdum,204,16,1031,Owner_226,WB0226,1142.0
+Car_227,2015,Second Owner,5,1500 CC,105 bhp,150 Nm,17,Petrol,106,Howrah,Behala,167,5,457,Owner_227,WB0227,1017.5
+Car_228,2022,Third Owner,5,1500 CC,110 bhp,150 Nm,12,CNG,105,Park Street,Howrah,150,12,1122,Owner_228,WB0228,976.0
+Car_229,2018,Second Owner,5,1500 CC,138 bhp,150 Nm,23,Diesel,91,Behala,Dumdum,284,11,1014,Owner_229,WB0229,1608.0
+Car_230,2020,Third Owner,4,2000 CC,82 bhp,150 Nm,14,Petrol,109,Park Street,Howrah,16,5,961,Owner_230,WB0230,165.0
+Car_231,2022,Third Owner,7,1500 CC,127 bhp,150 Nm,22,Petrol,109,Howrah,Dumdum,63,17,773,Owner_231,WB0231,498.5
+Car_232,2018,Second Owner,7,1200 CC,119 bhp,150 Nm,13,Petrol,103,Howrah,Salt Lake,113,17,1021,Owner_232,WB0232,804.5
+Car_233,2017,Third Owner,4,1800 CC,99 bhp,150 Nm,20,CNG,92,Dumdum,Behala,70,14,487,Owner_233,WB0233,544.0
+Car_234,2023,Second Owner,5,2000 CC,131 bhp,150 Nm,23,Petrol,101,Park Street,Salt Lake,96,16,1443,Owner_234,WB0234,769.0
+Car_235,2017,Third Owner,4,1500 CC,94 bhp,150 Nm,12,Petrol,97,Park Street,Behala,267,14,1413,Owner_235,WB0235,1562.5
+Car_236,2023,First Owner,4,1200 CC,96 bhp,150 Nm,24,Petrol,91,Behala,Park Street,187,19,413,Owner_236,WB0236,1050.5
+Car_237,2016,Second Owner,4,1800 CC,120 bhp,150 Nm,20,Petrol,93,Behala,Dumdum,251,16,532,Owner_237,WB0237,1392.5
+Car_238,2016,Third Owner,5,1800 CC,147 bhp,150 Nm,20,Diesel,103,Dumdum,Park Street,212,10,1457,Owner_238,WB0238,1246.0
+Car_239,2016,Third Owner,4,2000 CC,126 bhp,150 Nm,19,CNG,105,Salt Lake,Park Street,40,5,1291,Owner_239,WB0239,343.0
+Car_240,2020,First Owner,5,2000 CC,116 bhp,150 Nm,19,CNG,108,Salt Lake,Behala,298,6,991,Owner_240,WB0240,1652.0
+Car_241,2017,Second Owner,4,2000 CC,108 bhp,150 Nm,22,Diesel,91,Salt Lake,Salt Lake,89,9,982,Owner_241,WB0241,686.5
+Car_242,2023,Third Owner,7,1200 CC,85 bhp,150 Nm,23,Diesel,101,Park Street,Howrah,20,6,688,Owner_242,WB0242,182.0
+Car_243,2018,First Owner,4,1200 CC,91 bhp,150 Nm,12,CNG,103,Park Street,Behala,263,18,1412,Owner_243,WB0243,1448.5
+Car_244,2015,Third Owner,4,2000 CC,123 bhp,150 Nm,22,Petrol,95,Howrah,Howrah,296,14,1278,Owner_244,WB0244,1717.0
+Car_245,2018,Second Owner,7,1500 CC,90 bhp,150 Nm,19,Petrol,102,Park Street,Park Street,185,5,406,Owner_245,WB0245,1106.5
+Car_246,2015,Third Owner,5,1800 CC,141 bhp,150 Nm,21,CNG,93,Park Street,Howrah,135,10,639,Owner_246,WB0246,958.5
+Car_247,2019,Third Owner,5,1800 CC,85 bhp,150 Nm,14,Petrol,107,Park Street,Salt Lake,56,12,935,Owner_247,WB0247,515.0
+Car_248,2018,Third Owner,4,1200 CC,128 bhp,150 Nm,22,Diesel,101,Dumdum,Behala,215,12,469,Owner_248,WB0248,1259.5
+Car_249,2022,Third Owner,7,1800 CC,100 bhp,150 Nm,18,Petrol,109,Park Street,Salt Lake,116,17,615,Owner_249,WB0249,800.0
+Car_250,2022,First Owner,5,1500 CC,111 bhp,150 Nm,22,Petrol,108,Behala,Salt Lake,284,17,1477,Owner_250,WB0250,1564.0
+Car_251,2021,First Owner,4,1800 CC,143 bhp,150 Nm,12,Petrol,97,Behala,Behala,132,12,1205,Owner_251,WB0251,858.0
+Car_252,2017,Second Owner,7,1200 CC,101 bhp,150 Nm,12,CNG,96,Howrah,Salt Lake,143,15,729,Owner_252,WB0252,1018.5
+Car_253,2015,First Owner,5,1200 CC,128 bhp,150 Nm,21,Diesel,105,Dumdum,Dumdum,116,10,1247,Owner_253,WB0253,777.0
+Car_254,2015,First Owner,5,1500 CC,103 bhp,150 Nm,24,Petrol,108,Behala,Dumdum,59,15,444,Owner_254,WB0254,476.5
+Car_255,2017,Second Owner,7,1500 CC,78 bhp,150 Nm,16,CNG,95,Dumdum,Dumdum,104,7,1228,Owner_255,WB0255,689.0
+Car_256,2020,First Owner,7,1800 CC,80 bhp,150 Nm,16,Petrol,109,Dumdum,Howrah,277,5,597,Owner_256,WB0256,1589.5
+Car_257,2021,First Owner,7,1800 CC,79 bhp,150 Nm,19,Diesel,100,Howrah,Salt Lake,32,6,1295,Owner_257,WB0257,284.0
+Car_258,2020,Second Owner,7,1200 CC,86 bhp,150 Nm,18,Petrol,94,Dumdum,Behala,63,9,731,Owner_258,WB0258,518.5
+Car_259,2020,Second Owner,4,1500 CC,137 bhp,150 Nm,19,Diesel,105,Park Street,Behala,263,17,1095,Owner_259,WB0259,1495.5
+Car_260,2020,Second Owner,7,1500 CC,117 bhp,150 Nm,17,Petrol,96,Dumdum,Howrah,244,14,426,Owner_260,WB0260,1419.0
+Car_261,2017,Third Owner,5,1500 CC,121 bhp,150 Nm,17,Diesel,94,Howrah,Behala,68,9,717,Owner_261,WB0261,594.0
+Car_262,2020,Third Owner,5,1800 CC,94 bhp,150 Nm,13,Petrol,100,Howrah,Dumdum,173,14,764,Owner_262,WB0262,976.5
+Car_263,2022,Second Owner,4,1500 CC,90 bhp,150 Nm,17,Diesel,104,Howrah,Salt Lake,268,18,1359,Owner_263,WB0263,1476.0
+Car_264,2016,Second Owner,5,1200 CC,134 bhp,150 Nm,16,Petrol,92,Behala,Behala,225,5,772,Owner_264,WB0264,1287.5
+Car_265,2019,Second Owner,5,1200 CC,132 bhp,150 Nm,24,Petrol,94,Park Street,Behala,192,5,644,Owner_265,WB0265,1095.0
+Car_266,2015,Third Owner,7,1800 CC,120 bhp,150 Nm,14,CNG,94,Behala,Park Street,66,19,877,Owner_266,WB0266,562.0
+Car_267,2015,Third Owner,5,2000 CC,105 bhp,150 Nm,17,CNG,98,Salt Lake,Park Street,154,13,524,Owner_267,WB0267,882.0
+Car_268,2019,First Owner,4,1800 CC,135 bhp,150 Nm,19,Diesel,104,Park Street,Park Street,99,6,936,Owner_268,WB0268,792.5
+Car_269,2017,First Owner,7,2000 CC,84 bhp,150 Nm,20,Petrol,92,Dumdum,Salt Lake,54,11,1105,Owner_269,WB0269,405.0
+Car_270,2018,Second Owner,7,1500 CC,108 bhp,150 Nm,12,Diesel,95,Howrah,Dumdum,266,14,930,Owner_270,WB0270,1495.0
+Car_271,2017,Third Owner,4,1800 CC,139 bhp,150 Nm,14,CNG,106,Salt Lake,Dumdum,30,8,1185,Owner_271,WB0271,261.0
+Car_272,2015,Third Owner,7,1200 CC,70 bhp,150 Nm,14,Diesel,97,Park Street,Dumdum,30,11,653,Owner_272,WB0272,306.0
+Car_273,2015,Third Owner,7,1500 CC,92 bhp,150 Nm,22,Diesel,100,Behala,Salt Lake,61,12,520,Owner_273,WB0273,467.5
+Car_274,2019,Second Owner,4,1200 CC,108 bhp,150 Nm,19,CNG,95,Howrah,Salt Lake,180,9,1455,Owner_274,WB0274,1016.0
+Car_275,2020,First Owner,7,1500 CC,126 bhp,150 Nm,12,Petrol,97,Behala,Park Street,76,17,1060,Owner_275,WB0275,583.0
+Car_276,2017,Second Owner,4,1800 CC,103 bhp,150 Nm,16,Diesel,99,Park Street,Behala,122,16,1460,Owner_276,WB0276,878.0
+Car_277,2023,First Owner,4,2000 CC,110 bhp,150 Nm,14,CNG,92,Park Street,Howrah,169,16,1436,Owner_277,WB0277,1008.5
+Car_278,2019,First Owner,5,1500 CC,142 bhp,150 Nm,13,Petrol,103,Salt Lake,Howrah,275,5,487,Owner_278,WB0278,1557.5
+Car_279,2022,Second Owner,5,2000 CC,82 bhp,150 Nm,19,CNG,103,Dumdum,Behala,241,8,445,Owner_279,WB0279,1400.5
+Car_280,2015,First Owner,7,1500 CC,139 bhp,150 Nm,14,Diesel,99,Behala,Park Street,77,14,1332,Owner_280,WB0280,586.5
+Car_281,2019,First Owner,7,1200 CC,75 bhp,150 Nm,18,Petrol,101,Salt Lake,Behala,37,7,1144,Owner_281,WB0281,337.5
+Car_282,2017,Third Owner,4,1200 CC,121 bhp,150 Nm,23,Petrol,95,Howrah,Behala,125,14,1366,Owner_282,WB0282,872.5
+Car_283,2015,First Owner,7,1500 CC,72 bhp,150 Nm,22,CNG,101,Dumdum,Howrah,60,19,1162,Owner_283,WB0283,467.0
+Car_284,2018,Second Owner,4,2000 CC,132 bhp,150 Nm,12,CNG,103,Salt Lake,Park Street,190,16,1161,Owner_284,WB0284,1130.0
+Car_285,2019,Second Owner,4,1800 CC,118 bhp,150 Nm,17,CNG,91,Behala,Salt Lake,269,9,1193,Owner_285,WB0285,1487.5
+Car_286,2021,First Owner,7,1800 CC,145 bhp,150 Nm,14,Petrol,98,Park Street,Howrah,88,14,1143,Owner_286,WB0286,676.0
+Car_287,2015,Third Owner,4,1200 CC,116 bhp,150 Nm,19,Petrol,99,Howrah,Salt Lake,282,17,1469,Owner_287,WB0287,1608.0
+Car_288,2017,Third Owner,5,1800 CC,124 bhp,150 Nm,17,Diesel,106,Behala,Park Street,117,14,957,Owner_288,WB0288,772.5
+Car_289,2016,First Owner,7,1200 CC,133 bhp,150 Nm,23,Petrol,106,Dumdum,Behala,83,17,925,Owner_289,WB0289,671.5
+Car_290,2023,First Owner,5,1800 CC,134 bhp,150 Nm,13,Diesel,92,Dumdum,Dumdum,184,10,996,Owner_290,WB0290,1017.0
+Car_291,2020,Second Owner,7,1500 CC,136 bhp,150 Nm,17,CNG,108,Park Street,Dumdum,193,6,1239,Owner_291,WB0291,1145.5
+Car_292,2017,First Owner,4,1200 CC,84 bhp,150 Nm,18,CNG,90,Park Street,Park Street,32,11,402,Owner_292,WB0292,322.0
+Car_293,2022,Third Owner,7,1200 CC,101 bhp,150 Nm,16,Petrol,101,Howrah,Dumdum,283,17,1451,Owner_293,WB0293,1591.5
+Car_294,2022,First Owner,5,1500 CC,137 bhp,150 Nm,14,CNG,96,Howrah,Salt Lake,138,7,556,Owner_294,WB0294,967.0
+Car_295,2016,Second Owner,4,1200 CC,87 bhp,150 Nm,15,CNG,93,Park Street,Dumdum,195,19,1254,Owner_295,WB0295,1171.5
+Car_296,2020,Second Owner,7,1800 CC,112 bhp,150 Nm,15,Petrol,99,Park Street,Park Street,68,5,910,Owner_296,WB0296,534.0
+Car_297,2021,Second Owner,7,1800 CC,104 bhp,150 Nm,17,Diesel,102,Dumdum,Park Street,10,14,1086,Owner_297,WB0297,95.0
+Car_298,2016,Second Owner,7,1200 CC,147 bhp,150 Nm,21,Petrol,91,Park Street,Salt Lake,140,7,970,Owner_298,WB0298,953.0
+Car_299,2016,Second Owner,5,1800 CC,127 bhp,150 Nm,12,Diesel,99,Salt Lake,Dumdum,76,13,1114,Owner_299,WB0299,583.0
+Car_300,2015,First Owner,5,2000 CC,102 bhp,150 Nm,22,Petrol,93,Behala,Dumdum,294,14,638,Owner_300,WB0300,1645.0
+Car_301,2022,First Owner,7,1200 CC,83 bhp,150 Nm,15,Petrol,107,Park Street,Behala,98,15,702,Owner_301,WB0301,808.0
+Car_302,2015,First Owner,4,1500 CC,103 bhp,150 Nm,21,CNG,94,Howrah,Howrah,109,15,1006,Owner_302,WB0302,757.5
+Car_303,2023,First Owner,4,2000 CC,130 bhp,150 Nm,24,Petrol,108,Salt Lake,Park Street,198,19,1390,Owner_303,WB0303,1093.0
+Car_304,2020,Second Owner,5,1200 CC,73 bhp,150 Nm,15,Petrol,91,Howrah,Behala,250,10,733,Owner_304,WB0304,1446.0
+Car_305,2021,Third Owner,4,1500 CC,128 bhp,150 Nm,21,Diesel,101,Salt Lake,Park Street,279,15,512,Owner_305,WB0305,1602.5
+Car_306,2021,First Owner,5,1800 CC,98 bhp,150 Nm,12,CNG,106,Park Street,Behala,228,10,761,Owner_306,WB0306,1341.0
+Car_307,2017,Third Owner,7,1500 CC,75 bhp,150 Nm,20,Diesel,99,Behala,Howrah,185,8,1200,Owner_307,WB0307,1073.5
+Car_308,2016,First Owner,5,2000 CC,118 bhp,150 Nm,15,Diesel,91,Howrah,Behala,242,19,496,Owner_308,WB0308,1356.0
+Car_309,2023,First Owner,5,1800 CC,109 bhp,150 Nm,18,CNG,95,Salt Lake,Park Street,160,12,415,Owner_309,WB0309,885.0
+Car_310,2022,Third Owner,7,1200 CC,134 bhp,150 Nm,23,CNG,97,Dumdum,Dumdum,286,9,955,Owner_310,WB0310,1588.0
+Car_311,2021,Second Owner,4,1800 CC,138 bhp,150 Nm,14,CNG,108,Park Street,Park Street,238,11,775,Owner_311,WB0311,1368.0
+Car_312,2023,First Owner,5,1200 CC,96 bhp,150 Nm,21,Petrol,100,Behala,Salt Lake,180,13,1141,Owner_312,WB0312,1089.0
+Car_313,2018,First Owner,5,1200 CC,149 bhp,150 Nm,23,CNG,101,Park Street,Salt Lake,232,17,789,Owner_313,WB0313,1287.0
+Car_314,2018,First Owner,7,1500 CC,75 bhp,150 Nm,14,CNG,98,Dumdum,Salt Lake,222,17,1019,Owner_314,WB0314,1295.0
+Car_315,2015,Third Owner,4,1500 CC,82 bhp,150 Nm,19,CNG,91,Behala,Salt Lake,291,18,1223,Owner_315,WB0315,1602.5
+Car_316,2022,Second Owner,5,1500 CC,133 bhp,150 Nm,19,Diesel,97,Dumdum,Howrah,50,9,719,Owner_316,WB0316,487.0
+Car_317,2017,Third Owner,7,2000 CC,131 bhp,150 Nm,22,Diesel,100,Park Street,Dumdum,131,15,595,Owner_317,WB0317,914.5
+Car_318,2021,Third Owner,5,2000 CC,88 bhp,150 Nm,23,Petrol,93,Salt Lake,Dumdum,236,18,817,Owner_318,WB0318,1359.0
+Car_319,2016,Second Owner,7,1500 CC,145 bhp,150 Nm,12,Diesel,99,Park Street,Park Street,97,9,1006,Owner_319,WB0319,732.5
+Car_320,2016,Third Owner,4,2000 CC,149 bhp,150 Nm,21,Petrol,109,Park Street,Behala,276,18,967,Owner_320,WB0320,1536.0
+Car_321,2021,Second Owner,4,1800 CC,112 bhp,150 Nm,13,Diesel,105,Park Street,Park Street,38,8,943,Owner_321,WB0321,340.0
+Car_322,2020,First Owner,4,1800 CC,143 bhp,150 Nm,19,CNG,97,Howrah,Park Street,256,10,630,Owner_322,WB0322,1487.0
+Car_323,2017,Second Owner,4,2000 CC,89 bhp,150 Nm,12,Diesel,93,Dumdum,Park Street,253,6,1283,Owner_323,WB0323,1477.5
+Car_324,2023,First Owner,5,2000 CC,137 bhp,150 Nm,23,Petrol,99,Dumdum,Park Street,70,7,920,Owner_324,WB0324,567.0
+Car_325,2020,Third Owner,5,1800 CC,113 bhp,150 Nm,19,Diesel,101,Dumdum,Dumdum,156,5,1102,Owner_325,WB0325,930.0
+Car_326,2020,Third Owner,4,1200 CC,92 bhp,150 Nm,19,CNG,103,Howrah,Behala,183,6,1245,Owner_326,WB0326,1008.5
+Car_327,2015,First Owner,4,1800 CC,71 bhp,150 Nm,13,Petrol,105,Salt Lake,Park Street,287,6,1072,Owner_327,WB0327,1649.5
+Car_328,2018,Third Owner,4,1800 CC,91 bhp,150 Nm,15,CNG,107,Park Street,Dumdum,151,12,420,Owner_328,WB0328,867.5
+Car_329,2020,Second Owner,5,2000 CC,126 bhp,150 Nm,17,CNG,101,Salt Lake,Park Street,53,12,987,Owner_329,WB0329,464.5
+Car_330,2020,First Owner,4,1800 CC,141 bhp,150 Nm,23,Petrol,107,Howrah,Salt Lake,153,6,1297,Owner_330,WB0330,916.5
+Car_331,2019,Third Owner,4,2000 CC,76 bhp,150 Nm,22,CNG,96,Dumdum,Park Street,64,17,770,Owner_331,WB0331,523.0
+Car_332,2015,First Owner,4,2000 CC,147 bhp,150 Nm,20,CNG,109,Park Street,Park Street,170,18,477,Owner_332,WB0332,1029.0
+Car_333,2022,Second Owner,7,1500 CC,125 bhp,150 Nm,19,Diesel,96,Behala,Howrah,294,10,1047,Owner_333,WB0333,1705.0
+Car_334,2019,Second Owner,4,1800 CC,136 bhp,150 Nm,23,CNG,98,Behala,Salt Lake,207,19,539,Owner_334,WB0334,1217.5
+Car_335,2019,Third Owner,7,1200 CC,85 bhp,150 Nm,19,CNG,90,Salt Lake,Behala,168,9,952,Owner_335,WB0335,986.0
+Car_336,2021,Second Owner,7,1500 CC,120 bhp,150 Nm,18,CNG,95,Dumdum,Park Street,89,7,1397,Owner_336,WB0336,708.5
+Car_337,2018,First Owner,4,2000 CC,149 bhp,150 Nm,24,CNG,95,Behala,Behala,40,9,681,Owner_337,WB0337,403.0
+Car_338,2020,Second Owner,7,2000 CC,141 bhp,150 Nm,20,Petrol,101,Salt Lake,Salt Lake,121,9,839,Owner_338,WB0338,839.5
+Car_339,2018,First Owner,4,1200 CC,81 bhp,150 Nm,13,Diesel,101,Howrah,Park Street,55,9,669,Owner_339,WB0339,489.5
+Car_340,2017,First Owner,5,2000 CC,122 bhp,150 Nm,14,CNG,99,Salt Lake,Howrah,214,7,1145,Owner_340,WB0340,1253.0
+Car_341,2021,Second Owner,5,1800 CC,144 bhp,150 Nm,21,CNG,95,Salt Lake,Dumdum,61,19,503,Owner_341,WB0341,527.5
+Car_342,2022,Third Owner,5,1500 CC,74 bhp,150 Nm,19,Petrol,106,Salt Lake,Howrah,147,7,1165,Owner_342,WB0342,1030.5
+Car_343,2018,Second Owner,5,2000 CC,96 bhp,150 Nm,17,CNG,108,Park Street,Howrah,83,8,494,Owner_343,WB0343,658.5
+Car_344,2016,First Owner,7,2000 CC,81 bhp,150 Nm,21,Petrol,107,Salt Lake,Dumdum,50,11,1128,Owner_344,WB0344,428.0
+Car_345,2017,First Owner,4,1200 CC,86 bhp,150 Nm,20,Diesel,95,Salt Lake,Dumdum,86,16,879,Owner_345,WB0345,646.0
+Car_346,2015,Second Owner,4,1800 CC,75 bhp,150 Nm,21,Diesel,108,Park Street,Dumdum,196,16,1179,Owner_346,WB0346,1176.0
+Car_347,2022,Third Owner,4,2000 CC,74 bhp,150 Nm,15,CNG,99,Park Street,Park Street,61,16,412,Owner_347,WB0347,500.5
+Car_348,2017,Third Owner,5,1200 CC,126 bhp,150 Nm,19,CNG,97,Howrah,Behala,96,18,1000,Owner_348,WB0348,786.0
+Car_349,2021,First Owner,5,2000 CC,97 bhp,150 Nm,21,CNG,95,Dumdum,Behala,118,6,494,Owner_349,WB0349,834.0
+Car_350,2019,First Owner,4,1200 CC,147 bhp,150 Nm,14,Petrol,96,Behala,Dumdum,234,14,692,Owner_350,WB0350,1362.0
+Car_351,2019,Third Owner,5,1200 CC,138 bhp,150 Nm,14,CNG,90,Behala,Howrah,257,8,424,Owner_351,WB0351,1495.5
+Car_352,2021,Second Owner,4,1800 CC,128 bhp,150 Nm,19,CNG,107,Salt Lake,Salt Lake,78,8,1338,Owner_352,WB0352,658.0
+Car_353,2023,First Owner,4,2000 CC,102 bhp,150 Nm,16,Diesel,109,Howrah,Dumdum,129,5,1161,Owner_353,WB0353,899.5
+Car_354,2019,First Owner,4,1800 CC,131 bhp,150 Nm,14,CNG,101,Salt Lake,Howrah,76,14,1053,Owner_354,WB0354,570.0
+Car_355,2015,Third Owner,4,1200 CC,119 bhp,150 Nm,21,Diesel,105,Behala,Howrah,70,12,1384,Owner_355,WB0355,541.0
+Car_356,2015,Second Owner,4,1500 CC,88 bhp,150 Nm,22,CNG,99,Park Street,Park Street,200,5,1037,Owner_356,WB0356,1115.0
+Car_357,2016,Third Owner,4,2000 CC,138 bhp,150 Nm,12,Diesel,99,Dumdum,Park Street,198,12,890,Owner_357,WB0357,1097.0
+Car_358,2020,Second Owner,4,1500 CC,135 bhp,150 Nm,14,CNG,103,Howrah,Behala,160,11,974,Owner_358,WB0358,932.0
+Car_359,2023,Second Owner,5,2000 CC,116 bhp,150 Nm,23,Diesel,109,Park Street,Behala,295,13,693,Owner_359,WB0359,1694.5
+Car_360,2022,Second Owner,4,1800 CC,108 bhp,150 Nm,20,Petrol,99,Dumdum,Salt Lake,105,12,1295,Owner_360,WB0360,740.5
+Car_361,2019,First Owner,4,1800 CC,137 bhp,150 Nm,16,Diesel,99,Howrah,Salt Lake,272,9,439,Owner_361,WB0361,1504.0
+Car_362,2015,Third Owner,5,1800 CC,102 bhp,150 Nm,23,Diesel,100,Howrah,Salt Lake,106,12,1175,Owner_362,WB0362,700.0
+Car_363,2021,Third Owner,5,1800 CC,82 bhp,150 Nm,21,Diesel,91,Behala,Salt Lake,122,18,919,Owner_363,WB0363,833.0
+Car_364,2019,Second Owner,5,1800 CC,123 bhp,150 Nm,13,CNG,109,Park Street,Howrah,134,19,945,Owner_364,WB0364,885.0
+Car_365,2020,First Owner,4,1500 CC,76 bhp,150 Nm,18,CNG,97,Howrah,Howrah,141,15,635,Owner_365,WB0365,981.5
+Car_366,2021,First Owner,7,1800 CC,148 bhp,150 Nm,13,CNG,96,Howrah,Behala,130,14,862,Owner_366,WB0366,919.0
+Car_367,2017,Third Owner,7,1200 CC,83 bhp,150 Nm,15,Petrol,97,Dumdum,Park Street,206,16,882,Owner_367,WB0367,1143.0
+Car_368,2017,First Owner,5,1200 CC,88 bhp,150 Nm,23,Petrol,90,Behala,Park Street,131,19,829,Owner_368,WB0368,858.5
+Car_369,2019,First Owner,7,1500 CC,123 bhp,150 Nm,18,Diesel,91,Salt Lake,Dumdum,291,16,1445,Owner_369,WB0369,1654.5
+Car_370,2020,Second Owner,5,2000 CC,89 bhp,150 Nm,15,Petrol,107,Behala,Howrah,269,7,742,Owner_370,WB0370,1574.5
+Car_371,2023,First Owner,4,1200 CC,98 bhp,150 Nm,18,Diesel,104,Salt Lake,Salt Lake,48,19,1463,Owner_371,WB0371,413.0
+Car_372,2019,Second Owner,7,2000 CC,93 bhp,150 Nm,18,Diesel,90,Park Street,Salt Lake,63,14,532,Owner_372,WB0372,524.5
+Car_373,2015,Third Owner,4,1500 CC,132 bhp,150 Nm,12,Diesel,94,Park Street,Dumdum,170,11,750,Owner_373,WB0373,954.0
+Car_374,2018,First Owner,7,2000 CC,143 bhp,150 Nm,17,Petrol,91,Howrah,Park Street,298,16,905,Owner_374,WB0374,1677.0
+Car_375,2019,Third Owner,4,2000 CC,126 bhp,150 Nm,20,CNG,109,Park Street,Salt Lake,209,8,483,Owner_375,WB0375,1247.5
+Car_376,2019,Third Owner,7,2000 CC,77 bhp,150 Nm,13,Petrol,92,Howrah,Park Street,285,9,1392,Owner_376,WB0376,1638.5
+Car_377,2021,First Owner,4,2000 CC,131 bhp,150 Nm,14,Diesel,108,Behala,Dumdum,25,13,1229,Owner_377,WB0377,245.5
+Car_378,2018,First Owner,4,1500 CC,98 bhp,150 Nm,21,Diesel,107,Park Street,Park Street,182,11,1260,Owner_378,WB0378,1057.0
+Car_379,2015,Third Owner,7,1200 CC,143 bhp,150 Nm,16,Petrol,107,Behala,Park Street,257,8,742,Owner_379,WB0379,1431.5
+Car_380,2019,First Owner,4,1800 CC,86 bhp,150 Nm,20,Diesel,103,Behala,Park Street,227,10,1265,Owner_380,WB0380,1318.5
+Car_381,2021,Second Owner,4,2000 CC,135 bhp,150 Nm,15,Diesel,97,Park Street,Salt Lake,96,14,692,Owner_381,WB0381,750.0
+Car_382,2020,Second Owner,4,1200 CC,75 bhp,150 Nm,12,Petrol,101,Behala,Behala,91,18,997,Owner_382,WB0382,763.5
+Car_383,2019,First Owner,7,1200 CC,127 bhp,150 Nm,15,Petrol,99,Park Street,Howrah,71,15,1044,Owner_383,WB0383,571.5
+Car_384,2018,Third Owner,7,1500 CC,138 bhp,150 Nm,17,Petrol,109,Park Street,Park Street,296,11,847,Owner_384,WB0384,1641.0
+Car_385,2016,First Owner,4,1200 CC,97 bhp,150 Nm,16,Diesel,106,Park Street,Park Street,51,17,1089,Owner_385,WB0385,481.5
+Car_386,2018,First Owner,4,1500 CC,131 bhp,150 Nm,24,Diesel,100,Salt Lake,Park Street,21,14,1401,Owner_386,WB0386,258.5
+Car_387,2017,Third Owner,7,2000 CC,110 bhp,150 Nm,12,CNG,91,Behala,Behala,243,17,1254,Owner_387,WB0387,1372.5
+Car_388,2015,Third Owner,7,2000 CC,138 bhp,150 Nm,15,CNG,93,Dumdum,Dumdum,140,13,901,Owner_388,WB0388,953.0
+Car_389,2022,Second Owner,4,1800 CC,110 bhp,150 Nm,17,Petrol,90,Park Street,Salt Lake,124,8,1163,Owner_389,WB0389,814.0
+Car_390,2019,Third Owner,4,1800 CC,118 bhp,150 Nm,24,CNG,104,Behala,Behala,227,14,1134,Owner_390,WB0390,1305.5
+Car_391,2018,Second Owner,4,1800 CC,118 bhp,150 Nm,21,Diesel,102,Howrah,Park Street,146,7,649,Owner_391,WB0391,968.0
+Car_392,2022,Third Owner,5,1200 CC,145 bhp,150 Nm,21,CNG,97,Park Street,Behala,115,12,1000,Owner_392,WB0392,838.5
+Car_393,2021,First Owner,7,2000 CC,140 bhp,150 Nm,15,Diesel,93,Park Street,Behala,188,19,524,Owner_393,WB0393,1083.0
+Car_394,2016,Second Owner,5,1500 CC,72 bhp,150 Nm,20,Petrol,99,Dumdum,Behala,25,5,512,Owner_394,WB0394,231.5
+Car_395,2015,Second Owner,7,1800 CC,79 bhp,150 Nm,16,Petrol,108,Salt Lake,Dumdum,251,13,1380,Owner_395,WB0395,1415.5
+Car_396,2018,Second Owner,7,1500 CC,104 bhp,150 Nm,19,Diesel,107,Salt Lake,Howrah,235,17,549,Owner_396,WB0396,1318.5
+Car_397,2022,First Owner,7,1500 CC,149 bhp,150 Nm,20,CNG,94,Park Street,Salt Lake,251,5,1274,Owner_397,WB0397,1451.5
+Car_398,2016,First Owner,7,1800 CC,71 bhp,150 Nm,21,Petrol,108,Behala,Dumdum,150,6,742,Owner_398,WB0398,1006.0
+Car_399,2017,First Owner,7,2000 CC,93 bhp,150 Nm,16,Petrol,105,Howrah,Dumdum,208,17,979,Owner_399,WB0399,1144.0
+Car_400,2015,First Owner,7,1800 CC,143 bhp,150 Nm,17,CNG,90,Howrah,Howrah,121,12,1182,Owner_400,WB0400,802.5
+Car_401,2015,First Owner,7,1500 CC,107 bhp,150 Nm,12,CNG,101,Behala,Dumdum,136,13,720,Owner_401,WB0401,892.0
+Car_402,2017,Second Owner,5,1800 CC,91 bhp,150 Nm,22,Diesel,91,Park Street,Behala,30,11,1221,Owner_402,WB0402,338.0
+Car_403,2019,First Owner,4,1500 CC,95 bhp,150 Nm,23,CNG,97,Howrah,Behala,156,7,931,Owner_403,WB0403,902.0
+Car_404,2017,Second Owner,4,1500 CC,112 bhp,150 Nm,18,CNG,107,Salt Lake,Park Street,98,11,891,Owner_404,WB0404,830.0
+Car_405,2015,First Owner,5,1800 CC,124 bhp,150 Nm,15,CNG,105,Behala,Dumdum,212,10,1011,Owner_405,WB0405,1231.0
+Car_406,2015,Third Owner,5,1200 CC,108 bhp,150 Nm,22,Diesel,94,Dumdum,Park Street,94,6,651,Owner_406,WB0406,736.0
+Car_407,2022,Second Owner,5,1800 CC,98 bhp,150 Nm,13,Diesel,102,Park Street,Salt Lake,176,7,572,Owner_407,WB0407,1012.0
+Car_408,2016,Third Owner,5,1200 CC,89 bhp,150 Nm,16,Petrol,108,Behala,Behala,81,15,1274,Owner_408,WB0408,615.5
+Car_409,2017,Second Owner,7,1500 CC,110 bhp,150 Nm,23,Diesel,92,Howrah,Salt Lake,18,17,600,Owner_409,WB0409,182.0
+Car_410,2016,Third Owner,4,1500 CC,123 bhp,150 Nm,14,Petrol,97,Park Street,Howrah,290,16,616,Owner_410,WB0410,1678.0
+Car_411,2017,First Owner,7,1200 CC,89 bhp,150 Nm,17,CNG,101,Salt Lake,Behala,267,17,775,Owner_411,WB0411,1505.5
+Car_412,2021,First Owner,4,1500 CC,88 bhp,150 Nm,19,Petrol,91,Park Street,Salt Lake,284,14,410,Owner_412,WB0412,1621.0
+Car_413,2015,First Owner,4,1200 CC,135 bhp,150 Nm,18,Petrol,100,Park Street,Howrah,247,14,1435,Owner_413,WB0413,1358.5
+Car_414,2022,Second Owner,5,1200 CC,99 bhp,150 Nm,14,CNG,101,Salt Lake,Salt Lake,29,17,1291,Owner_414,WB0414,250.5
+Car_415,2016,Third Owner,7,1500 CC,122 bhp,150 Nm,19,Petrol,107,Salt Lake,Howrah,242,16,834,Owner_415,WB0415,1393.0
+Car_416,2017,First Owner,5,2000 CC,103 bhp,150 Nm,13,Diesel,102,Park Street,Howrah,230,19,1217,Owner_416,WB0416,1363.0
+Car_417,2023,Third Owner,7,1200 CC,91 bhp,150 Nm,21,Diesel,94,Salt Lake,Behala,26,9,1330,Owner_417,WB0417,256.0
+Car_418,2021,Third Owner,4,1800 CC,136 bhp,150 Nm,20,Diesel,101,Behala,Park Street,98,14,1090,Owner_418,WB0418,799.0
+Car_419,2018,First Owner,5,1800 CC,75 bhp,150 Nm,15,Diesel,91,Salt Lake,Howrah,205,8,1254,Owner_419,WB0419,1204.5
+Car_420,2019,First Owner,5,1500 CC,148 bhp,150 Nm,12,Petrol,94,Salt Lake,Howrah,93,6,1183,Owner_420,WB0420,769.5
+Car_421,2016,Third Owner,4,2000 CC,96 bhp,150 Nm,19,Petrol,96,Park Street,Behala,96,8,718,Owner_421,WB0421,813.0
+Car_422,2022,First Owner,4,1500 CC,79 bhp,150 Nm,18,CNG,101,Behala,Park Street,163,16,1243,Owner_422,WB0422,919.5
+Car_423,2018,First Owner,4,2000 CC,142 bhp,150 Nm,22,Petrol,105,Dumdum,Dumdum,237,12,1020,Owner_423,WB0423,1306.5
+Car_424,2023,First Owner,5,1200 CC,117 bhp,150 Nm,24,Petrol,97,Dumdum,Dumdum,273,9,1184,Owner_424,WB0424,1578.5
+Car_425,2019,Second Owner,7,1200 CC,139 bhp,150 Nm,16,Petrol,98,Howrah,Park Street,232,9,796,Owner_425,WB0425,1364.0
+Car_426,2023,Third Owner,5,1200 CC,128 bhp,150 Nm,21,CNG,104,Salt Lake,Salt Lake,130,17,1481,Owner_426,WB0426,912.0
+Car_427,2018,Third Owner,7,1200 CC,128 bhp,150 Nm,24,Diesel,94,Salt Lake,Behala,182,16,859,Owner_427,WB0427,1025.0
+Car_428,2019,Second Owner,5,1800 CC,71 bhp,150 Nm,16,Petrol,102,Behala,Park Street,13,16,460,Owner_428,WB0428,183.5
+Car_429,2023,Third Owner,5,1800 CC,98 bhp,150 Nm,18,CNG,94,Dumdum,Dumdum,137,14,768,Owner_429,WB0429,988.5
+Car_430,2022,First Owner,4,1500 CC,137 bhp,150 Nm,16,CNG,100,Howrah,Howrah,119,7,1118,Owner_430,WB0430,779.5
+Car_431,2017,Third Owner,7,2000 CC,134 bhp,150 Nm,19,CNG,99,Behala,Dumdum,46,17,945,Owner_431,WB0431,403.0
+Car_432,2015,First Owner,5,1200 CC,95 bhp,150 Nm,22,Diesel,109,Salt Lake,Howrah,80,12,1440,Owner_432,WB0432,667.0
+Car_433,2017,Second Owner,5,1200 CC,79 bhp,150 Nm,24,Petrol,102,Dumdum,Behala,298,10,895,Owner_433,WB0433,1681.0
+Car_434,2018,First Owner,4,2000 CC,122 bhp,150 Nm,17,CNG,98,Howrah,Howrah,40,6,896,Owner_434,WB0434,396.0
+Car_435,2016,Third Owner,4,2000 CC,148 bhp,150 Nm,24,Diesel,103,Park Street,Park Street,277,6,904,Owner_435,WB0435,1558.5
+Car_436,2015,Third Owner,7,1500 CC,128 bhp,150 Nm,16,CNG,107,Dumdum,Howrah,20,13,1368,Owner_436,WB0436,183.0
+Car_437,2021,Third Owner,5,2000 CC,91 bhp,150 Nm,20,CNG,104,Howrah,Salt Lake,41,17,1492,Owner_437,WB0437,429.5
+Car_438,2022,Second Owner,7,1200 CC,120 bhp,150 Nm,22,CNG,99,Behala,Park Street,66,11,560,Owner_438,WB0438,566.0
+Car_439,2021,Second Owner,5,1200 CC,117 bhp,150 Nm,13,CNG,96,Park Street,Behala,175,14,1117,Owner_439,WB0439,1057.5
+Car_440,2019,Third Owner,7,1200 CC,90 bhp,150 Nm,12,CNG,97,Howrah,Park Street,197,13,1392,Owner_440,WB0440,1109.5
+Car_441,2015,First Owner,4,1200 CC,91 bhp,150 Nm,19,Diesel,92,Howrah,Salt Lake,28,18,668,Owner_441,WB0441,274.0
+Car_442,2021,Second Owner,5,1200 CC,99 bhp,150 Nm,23,Petrol,104,Salt Lake,Behala,125,10,1098,Owner_442,WB0442,898.5
+Car_443,2021,Third Owner,7,1500 CC,94 bhp,150 Nm,14,Petrol,105,Dumdum,Dumdum,193,19,1264,Owner_443,WB0443,1131.5
+Car_444,2023,Third Owner,4,1200 CC,97 bhp,150 Nm,22,Petrol,93,Salt Lake,Salt Lake,279,9,749,Owner_444,WB0444,1609.5
+Car_445,2017,Second Owner,4,1500 CC,134 bhp,150 Nm,23,Petrol,95,Park Street,Behala,42,16,509,Owner_445,WB0445,381.0
+Car_446,2023,Second Owner,7,1200 CC,114 bhp,150 Nm,23,Diesel,90,Howrah,Howrah,19,5,806,Owner_446,WB0446,227.5
+Car_447,2015,Second Owner,5,1800 CC,137 bhp,150 Nm,23,Diesel,93,Salt Lake,Park Street,89,16,1049,Owner_447,WB0447,756.5
+Car_448,2015,First Owner,5,1800 CC,76 bhp,150 Nm,18,Diesel,100,Dumdum,Behala,201,10,450,Owner_448,WB0448,1108.5
+Car_449,2018,First Owner,4,1800 CC,118 bhp,150 Nm,21,CNG,101,Park Street,Park Street,199,10,1491,Owner_449,WB0449,1193.5
+Car_450,2023,Third Owner,5,1800 CC,78 bhp,150 Nm,24,CNG,94,Behala,Howrah,77,7,995,Owner_450,WB0450,655.5
+Car_451,2020,Second Owner,5,1500 CC,105 bhp,150 Nm,22,CNG,105,Salt Lake,Behala,134,7,1378,Owner_451,WB0451,966.0
+Car_452,2017,First Owner,5,1500 CC,70 bhp,150 Nm,19,Petrol,102,Park Street,Dumdum,68,19,1465,Owner_452,WB0452,602.0
+Car_453,2015,Second Owner,4,2000 CC,79 bhp,150 Nm,24,CNG,102,Behala,Salt Lake,106,7,1130,Owner_453,WB0453,762.0
+Car_454,2018,Third Owner,7,1200 CC,105 bhp,150 Nm,24,Petrol,106,Salt Lake,Behala,284,7,456,Owner_454,WB0454,1646.0
+Car_455,2023,First Owner,5,1800 CC,142 bhp,150 Nm,17,CNG,96,Park Street,Howrah,158,11,1137,Owner_455,WB0455,884.0
+Car_456,2017,First Owner,4,1500 CC,115 bhp,150 Nm,23,Petrol,97,Park Street,Behala,287,14,595,Owner_456,WB0456,1596.5
+Car_457,2023,First Owner,4,1200 CC,101 bhp,150 Nm,21,CNG,102,Salt Lake,Park Street,274,15,1485,Owner_457,WB0457,1535.0
+Car_458,2021,Third Owner,7,1200 CC,101 bhp,150 Nm,20,CNG,105,Park Street,Behala,18,6,511,Owner_458,WB0458,203.0
+Car_459,2018,Second Owner,5,1500 CC,75 bhp,150 Nm,18,Diesel,93,Howrah,Dumdum,292,14,1164,Owner_459,WB0459,1623.0
+Car_460,2017,First Owner,5,1800 CC,117 bhp,150 Nm,21,CNG,97,Salt Lake,Behala,282,17,1110,Owner_460,WB0460,1608.0
+Car_461,2019,Third Owner,7,2000 CC,107 bhp,150 Nm,16,CNG,105,Park Street,Salt Lake,17,14,1347,Owner_461,WB0461,187.5
+Car_462,2019,Second Owner,7,1200 CC,86 bhp,150 Nm,19,Diesel,99,Behala,Behala,217,6,425,Owner_462,WB0462,1208.5
+Car_463,2017,Third Owner,4,2000 CC,143 bhp,150 Nm,13,Petrol,101,Behala,Park Street,134,7,809,Owner_463,WB0463,935.0
+Car_464,2023,Second Owner,4,1800 CC,96 bhp,150 Nm,18,Diesel,101,Howrah,Behala,132,14,1157,Owner_464,WB0464,859.0
+Car_465,2018,Third Owner,7,1800 CC,123 bhp,150 Nm,15,Diesel,94,Salt Lake,Dumdum,42,16,930,Owner_465,WB0465,412.0
+Car_466,2019,Second Owner,5,2000 CC,119 bhp,150 Nm,20,Petrol,105,Park Street,Howrah,10,11,1148,Owner_466,WB0466,163.0
+Car_467,2018,First Owner,4,1800 CC,104 bhp,150 Nm,23,CNG,90,Park Street,Behala,213,7,645,Owner_467,WB0467,1198.5
+Car_468,2019,Second Owner,4,1200 CC,94 bhp,150 Nm,12,Petrol,98,Behala,Behala,15,11,1061,Owner_468,WB0468,191.5
+Car_469,2021,Third Owner,5,2000 CC,97 bhp,150 Nm,18,CNG,101,Howrah,Salt Lake,14,13,1308,Owner_469,WB0469,123.0
+Car_470,2023,Third Owner,4,1800 CC,84 bhp,150 Nm,17,CNG,94,Behala,Dumdum,89,15,795,Owner_470,WB0470,688.5
+Car_471,2021,Second Owner,5,2000 CC,73 bhp,150 Nm,19,Petrol,109,Behala,Howrah,283,14,921,Owner_471,WB0471,1655.5
+Car_472,2019,First Owner,5,1200 CC,142 bhp,150 Nm,16,Diesel,92,Howrah,Park Street,186,16,1325,Owner_472,WB0472,1035.0
+Car_473,2021,First Owner,5,1800 CC,96 bhp,150 Nm,12,Petrol,94,Salt Lake,Behala,145,19,663,Owner_473,WB0473,1006.5
+Car_474,2019,Second Owner,7,1200 CC,95 bhp,150 Nm,12,CNG,91,Park Street,Howrah,34,15,1189,Owner_474,WB0474,304.0
+Car_475,2017,Second Owner,7,1800 CC,88 bhp,150 Nm,20,Petrol,103,Salt Lake,Park Street,192,8,571,Owner_475,WB0475,1141.0
+Car_476,2021,Third Owner,7,1500 CC,86 bhp,150 Nm,21,Petrol,91,Dumdum,Dumdum,177,11,664,Owner_476,WB0476,1036.5
+Car_477,2016,First Owner,5,1800 CC,112 bhp,150 Nm,17,CNG,102,Dumdum,Dumdum,187,13,1449,Owner_477,WB0477,1059.5
+Car_478,2023,Second Owner,5,2000 CC,110 bhp,150 Nm,21,Diesel,96,Dumdum,Howrah,104,18,875,Owner_478,WB0478,755.0
+Car_479,2015,First Owner,7,1800 CC,111 bhp,150 Nm,16,Petrol,99,Howrah,Park Street,42,12,755,Owner_479,WB0479,407.0
+Car_480,2020,Second Owner,4,1200 CC,119 bhp,150 Nm,12,CNG,102,Behala,Dumdum,120,12,1449,Owner_480,WB0480,858.0
+Car_481,2021,Second Owner,5,1200 CC,109 bhp,150 Nm,17,CNG,105,Salt Lake,Howrah,155,13,433,Owner_481,WB0481,909.5
+Car_482,2022,First Owner,4,1800 CC,108 bhp,150 Nm,17,Petrol,103,Park Street,Dumdum,240,18,663,Owner_482,WB0482,1365.0
+Car_483,2023,Second Owner,4,2000 CC,92 bhp,150 Nm,14,Diesel,100,Dumdum,Dumdum,281,9,1215,Owner_483,WB0483,1596.5
+Car_484,2016,Second Owner,5,1500 CC,121 bhp,150 Nm,24,Petrol,99,Salt Lake,Dumdum,47,18,1274,Owner_484,WB0484,461.5
+Car_485,2016,Third Owner,5,2000 CC,116 bhp,150 Nm,19,Diesel,95,Dumdum,Salt Lake,144,9,1153,Owner_485,WB0485,1011.0
+Car_486,2019,Second Owner,4,1500 CC,132 bhp,150 Nm,12,Diesel,93,Dumdum,Park Street,244,7,965,Owner_486,WB0486,1401.0
+Car_487,2019,Second Owner,4,1200 CC,138 bhp,150 Nm,12,Diesel,90,Park Street,Howrah,169,9,861,Owner_487,WB0487,993.5
+Car_488,2020,Second Owner,7,2000 CC,112 bhp,150 Nm,17,Diesel,96,Howrah,Howrah,47,12,1054,Owner_488,WB0488,479.5
+Car_489,2017,Third Owner,7,1500 CC,117 bhp,150 Nm,21,Petrol,98,Behala,Park Street,159,16,480,Owner_489,WB0489,928.5
+Car_490,2022,First Owner,5,1800 CC,103 bhp,150 Nm,24,CNG,97,Howrah,Park Street,38,9,1156,Owner_490,WB0490,379.0
+Car_491,2015,Third Owner,7,1200 CC,109 bhp,150 Nm,12,CNG,94,Salt Lake,Park Street,153,8,1269,Owner_491,WB0491,932.5
+Car_492,2020,Third Owner,7,1800 CC,144 bhp,150 Nm,17,CNG,108,Howrah,Park Street,85,12,1469,Owner_492,WB0492,707.5
+Car_493,2018,First Owner,7,1200 CC,130 bhp,150 Nm,12,CNG,99,Salt Lake,Behala,154,11,998,Owner_493,WB0493,919.0
+Car_494,2015,Third Owner,7,2000 CC,119 bhp,150 Nm,24,CNG,100,Salt Lake,Howrah,238,19,1206,Owner_494,WB0494,1394.0
+Car_495,2021,First Owner,4,2000 CC,136 bhp,150 Nm,17,CNG,104,Behala,Behala,73,18,1476,Owner_495,WB0495,572.5
+Car_496,2023,Third Owner,5,1200 CC,131 bhp,150 Nm,14,Petrol,95,Park Street,Dumdum,278,18,1383,Owner_496,WB0496,1540.0
+Car_497,2018,First Owner,7,1200 CC,127 bhp,150 Nm,19,Diesel,104,Behala,Dumdum,193,10,1103,Owner_497,WB0497,1131.5
+Car_498,2018,Second Owner,4,1200 CC,102 bhp,150 Nm,24,CNG,94,Howrah,Howrah,270,9,875,Owner_498,WB0498,1530.0
+Car_499,2020,Third Owner,4,2000 CC,144 bhp,150 Nm,17,Petrol,108,Salt Lake,Dumdum,277,18,991,Owner_499,WB0499,1569.5
+Car_500,2017,Third Owner,4,1500 CC,85 bhp,150 Nm,24,CNG,108,Dumdum,Park Street,178,9,415,Owner_500,WB0500,1057.0
+Car_501,2020,Third Owner,7,1800 CC,117 bhp,150 Nm,22,CNG,99,Dumdum,Behala,268,17,886,Owner_501,WB0501,1511.0
+Car_502,2021,Third Owner,7,1800 CC,79 bhp,150 Nm,24,Diesel,101,Salt Lake,Park Street,236,14,1105,Owner_502,WB0502,1318.0
+Car_503,2017,Second Owner,5,2000 CC,107 bhp,150 Nm,12,Diesel,93,Behala,Dumdum,42,6,1019,Owner_503,WB0503,370.0
+Car_504,2021,Third Owner,7,1800 CC,88 bhp,150 Nm,16,Diesel,107,Park Street,Behala,223,17,1418,Owner_504,WB0504,1227.5
+Car_505,2017,Second Owner,7,1200 CC,105 bhp,150 Nm,19,CNG,105,Behala,Park Street,59,19,1176,Owner_505,WB0505,513.5
+Car_506,2016,Second Owner,4,1500 CC,128 bhp,150 Nm,14,CNG,97,Salt Lake,Howrah,219,8,846,Owner_506,WB0506,1273.5
+Car_507,2018,Second Owner,5,1800 CC,132 bhp,150 Nm,23,CNG,93,Salt Lake,Park Street,38,12,689,Owner_507,WB0507,355.0
+Car_508,2022,Second Owner,7,1500 CC,146 bhp,150 Nm,17,Diesel,101,Park Street,Dumdum,48,12,608,Owner_508,WB0508,413.0
+Car_509,2023,First Owner,7,1200 CC,115 bhp,150 Nm,16,Petrol,91,Howrah,Behala,109,15,812,Owner_509,WB0509,797.5
+Car_510,2021,First Owner,4,1800 CC,72 bhp,150 Nm,17,CNG,93,Howrah,Howrah,182,5,1076,Owner_510,WB0510,1037.0
+Car_511,2015,Third Owner,4,2000 CC,143 bhp,150 Nm,21,CNG,94,Park Street,Behala,26,6,1063,Owner_511,WB0511,234.0
+Car_512,2017,First Owner,7,1500 CC,134 bhp,150 Nm,12,CNG,92,Howrah,Howrah,65,9,689,Owner_512,WB0512,523.5
+Car_513,2023,First Owner,5,1200 CC,77 bhp,150 Nm,18,Petrol,98,Dumdum,Behala,235,13,550,Owner_513,WB0513,1299.5
+Car_514,2015,Third Owner,5,1500 CC,120 bhp,150 Nm,20,CNG,107,Howrah,Dumdum,55,14,1254,Owner_514,WB0514,488.5
+Car_515,2023,Third Owner,4,1800 CC,142 bhp,150 Nm,13,Petrol,100,Howrah,Howrah,76,15,1007,Owner_515,WB0515,582.0
+Car_516,2022,Third Owner,4,1800 CC,75 bhp,150 Nm,21,CNG,92,Howrah,Salt Lake,206,16,769,Owner_516,WB0516,1172.0
+Car_517,2015,First Owner,7,2000 CC,108 bhp,150 Nm,16,Petrol,91,Dumdum,Behala,151,17,1104,Owner_517,WB0517,921.5
+Car_518,2020,First Owner,4,1200 CC,129 bhp,150 Nm,21,CNG,98,Howrah,Behala,32,15,1225,Owner_518,WB0518,329.0
+Car_519,2019,Third Owner,7,1200 CC,97 bhp,150 Nm,15,Diesel,103,Dumdum,Park Street,103,11,1404,Owner_519,WB0519,686.5
+Car_520,2020,Second Owner,5,2000 CC,123 bhp,150 Nm,17,Diesel,93,Park Street,Howrah,251,14,776,Owner_520,WB0520,1436.5
+Car_521,2019,Third Owner,5,2000 CC,106 bhp,150 Nm,17,Diesel,98,Behala,Salt Lake,246,9,1372,Owner_521,WB0521,1435.0
+Car_522,2020,Second Owner,7,1200 CC,78 bhp,150 Nm,22,Diesel,102,Park Street,Dumdum,63,5,517,Owner_522,WB0522,509.5
+Car_523,2019,Second Owner,4,1500 CC,125 bhp,150 Nm,13,CNG,107,Behala,Park Street,147,19,1428,Owner_523,WB0523,986.5
+Car_524,2019,Third Owner,5,1500 CC,128 bhp,150 Nm,13,Diesel,104,Park Street,Salt Lake,281,19,843,Owner_524,WB0524,1630.5
+Car_525,2018,Third Owner,4,2000 CC,71 bhp,150 Nm,15,Petrol,99,Behala,Howrah,50,10,1154,Owner_525,WB0525,490.0
+Car_526,2017,Third Owner,5,1500 CC,130 bhp,150 Nm,12,Diesel,105,Behala,Salt Lake,107,16,1039,Owner_526,WB0526,771.5
+Car_527,2017,First Owner,7,1200 CC,127 bhp,150 Nm,20,Diesel,101,Salt Lake,Behala,192,12,523,Owner_527,WB0527,1142.0
+Car_528,2018,Second Owner,7,1800 CC,129 bhp,150 Nm,24,Diesel,109,Behala,Behala,137,11,1057,Owner_528,WB0528,914.5
+Car_529,2023,First Owner,7,1800 CC,109 bhp,150 Nm,18,CNG,94,Behala,Park Street,238,6,1221,Owner_529,WB0529,1400.0
+Car_530,2016,First Owner,5,1500 CC,105 bhp,150 Nm,23,Diesel,91,Salt Lake,Howrah,95,16,1063,Owner_530,WB0530,769.5
+Car_531,2023,Third Owner,4,2000 CC,106 bhp,150 Nm,18,Petrol,99,Howrah,Howrah,265,9,759,Owner_531,WB0531,1531.5
+Car_532,2015,First Owner,4,2000 CC,148 bhp,150 Nm,14,Diesel,90,Howrah,Salt Lake,218,18,1022,Owner_532,WB0532,1231.0
+Car_533,2015,Third Owner,4,2000 CC,87 bhp,150 Nm,22,Diesel,96,Salt Lake,Park Street,224,15,1480,Owner_533,WB0533,1319.0
+Car_534,2019,Second Owner,5,2000 CC,132 bhp,150 Nm,23,Diesel,106,Dumdum,Howrah,109,8,1318,Owner_534,WB0534,773.5
+Car_535,2020,Third Owner,5,2000 CC,91 bhp,150 Nm,14,Petrol,105,Behala,Behala,58,13,851,Owner_535,WB0535,464.0
+Car_536,2020,First Owner,5,1500 CC,80 bhp,150 Nm,12,Diesel,92,Behala,Salt Lake,210,14,519,Owner_536,WB0536,1235.0
+Car_537,2017,First Owner,5,1800 CC,127 bhp,150 Nm,14,Petrol,103,Salt Lake,Dumdum,267,5,981,Owner_537,WB0537,1501.5
+Car_538,2021,Third Owner,5,1800 CC,126 bhp,150 Nm,14,Petrol,99,Salt Lake,Behala,187,16,498,Owner_538,WB0538,1113.5
+Car_539,2023,Third Owner,4,1500 CC,146 bhp,150 Nm,15,Diesel,96,Dumdum,Park Street,254,10,913,Owner_539,WB0539,1465.0
+Car_540,2022,First Owner,5,2000 CC,73 bhp,150 Nm,15,Petrol,106,Howrah,Howrah,132,7,1063,Owner_540,WB0540,905.0
+Car_541,2020,Second Owner,5,1500 CC,76 bhp,150 Nm,14,CNG,95,Park Street,Behala,180,15,800,Owner_541,WB0541,1029.0
+Car_542,2022,Second Owner,4,1800 CC,130 bhp,150 Nm,21,Diesel,93,Howrah,Dumdum,145,13,764,Owner_542,WB0542,992.5
+Car_543,2019,Third Owner,5,1200 CC,123 bhp,150 Nm,23,Diesel,106,Behala,Dumdum,68,9,980,Owner_543,WB0543,589.0
+Car_544,2022,Second Owner,4,1500 CC,137 bhp,150 Nm,19,Petrol,98,Salt Lake,Park Street,202,17,1020,Owner_544,WB0544,1123.0
+Car_545,2018,First Owner,4,2000 CC,148 bhp,150 Nm,19,Petrol,93,Dumdum,Behala,277,10,1227,Owner_545,WB0545,1612.5
+Car_546,2022,Third Owner,7,1800 CC,70 bhp,150 Nm,24,Diesel,96,Howrah,Salt Lake,269,15,646,Owner_546,WB0546,1509.5
+Car_547,2016,First Owner,7,1800 CC,124 bhp,150 Nm,24,CNG,91,Dumdum,Behala,104,13,833,Owner_547,WB0547,714.0
+Car_548,2019,First Owner,7,1800 CC,72 bhp,150 Nm,12,Petrol,106,Howrah,Dumdum,134,13,1014,Owner_548,WB0548,933.0
+Car_549,2023,Second Owner,7,1800 CC,147 bhp,150 Nm,18,Petrol,97,Behala,Park Street,50,12,1342,Owner_549,WB0549,472.0
+Car_550,2018,Third Owner,5,2000 CC,107 bhp,150 Nm,22,CNG,104,Park Street,Park Street,263,13,1362,Owner_550,WB0550,1532.5
+Car_551,2020,Third Owner,7,1200 CC,70 bhp,150 Nm,13,CNG,104,Dumdum,Salt Lake,16,8,1023,Owner_551,WB0551,183.0
+Car_552,2015,Second Owner,4,1800 CC,107 bhp,150 Nm,12,Diesel,97,Dumdum,Park Street,225,10,720,Owner_552,WB0552,1297.5
+Car_553,2023,First Owner,5,1500 CC,98 bhp,150 Nm,14,CNG,105,Park Street,Park Street,78,9,1255,Owner_553,WB0553,596.0
+Car_554,2015,First Owner,7,1200 CC,74 bhp,150 Nm,15,Diesel,108,Dumdum,Park Street,78,9,461,Owner_554,WB0554,662.0
+Car_555,2019,First Owner,4,1800 CC,143 bhp,150 Nm,24,CNG,100,Dumdum,Park Street,90,8,699,Owner_555,WB0555,730.0
+Car_556,2018,First Owner,5,1200 CC,90 bhp,150 Nm,17,Petrol,91,Howrah,Park Street,39,6,802,Owner_556,WB0556,348.5
+Car_557,2017,Third Owner,5,1500 CC,140 bhp,150 Nm,21,Diesel,106,Howrah,Dumdum,82,16,1354,Owner_557,WB0557,641.0
+Car_558,2020,Third Owner,7,1800 CC,136 bhp,150 Nm,16,Diesel,105,Park Street,Behala,271,10,652,Owner_558,WB0558,1517.5
+Car_559,2016,Second Owner,5,1500 CC,116 bhp,150 Nm,15,Diesel,104,Behala,Howrah,98,13,877,Owner_559,WB0559,816.0
+Car_560,2017,Second Owner,4,2000 CC,104 bhp,150 Nm,19,CNG,102,Dumdum,Park Street,217,16,559,Owner_560,WB0560,1272.5
+Car_561,2019,Third Owner,5,1800 CC,137 bhp,150 Nm,22,Petrol,104,Behala,Howrah,222,5,1360,Owner_561,WB0561,1272.0
+Car_562,2023,Third Owner,4,1800 CC,138 bhp,150 Nm,23,Diesel,93,Park Street,Howrah,275,18,604,Owner_562,WB0562,1527.5
+Car_563,2016,First Owner,5,1800 CC,70 bhp,150 Nm,15,Diesel,105,Park Street,Dumdum,216,11,1257,Owner_563,WB0563,1264.0
+Car_564,2022,First Owner,7,1800 CC,137 bhp,150 Nm,24,Diesel,101,Howrah,Park Street,86,10,1159,Owner_564,WB0564,702.0
+Car_565,2016,Second Owner,4,2000 CC,81 bhp,150 Nm,21,Diesel,93,Dumdum,Howrah,297,7,1120,Owner_565,WB0565,1725.5
+Car_566,2019,Third Owner,5,1800 CC,129 bhp,150 Nm,23,Petrol,92,Salt Lake,Park Street,56,5,1440,Owner_566,WB0566,428.0
+Car_567,2021,Second Owner,5,1200 CC,96 bhp,150 Nm,24,CNG,106,Park Street,Salt Lake,119,17,467,Owner_567,WB0567,798.5
+Car_568,2022,Third Owner,5,1800 CC,125 bhp,150 Nm,13,Petrol,107,Dumdum,Salt Lake,209,8,532,Owner_568,WB0568,1176.5
+Car_569,2015,First Owner,4,2000 CC,92 bhp,150 Nm,14,Diesel,107,Behala,Salt Lake,219,19,1318,Owner_569,WB0569,1280.5
+Car_570,2020,Second Owner,4,1800 CC,94 bhp,150 Nm,17,Petrol,106,Howrah,Howrah,163,18,829,Owner_570,WB0570,931.5
+Car_571,2015,Second Owner,4,1200 CC,90 bhp,150 Nm,19,Diesel,101,Behala,Salt Lake,19,13,707,Owner_571,WB0571,169.5
+Car_572,2016,Third Owner,7,2000 CC,130 bhp,150 Nm,19,CNG,93,Park Street,Dumdum,166,19,1049,Owner_572,WB0572,959.0
+Car_573,2015,First Owner,7,2000 CC,132 bhp,150 Nm,22,CNG,101,Park Street,Dumdum,270,6,811,Owner_573,WB0573,1562.0
+Car_574,2019,Second Owner,4,1200 CC,121 bhp,150 Nm,20,CNG,109,Behala,Howrah,86,7,496,Owner_574,WB0574,695.0
+Car_575,2023,First Owner,5,1200 CC,94 bhp,150 Nm,18,Diesel,104,Park Street,Park Street,266,6,1450,Owner_575,WB0575,1538.0
+Car_576,2020,Second Owner,7,1200 CC,124 bhp,150 Nm,24,Petrol,105,Dumdum,Behala,140,18,1483,Owner_576,WB0576,966.0
+Car_577,2015,First Owner,4,1200 CC,115 bhp,150 Nm,13,CNG,94,Park Street,Park Street,76,6,601,Owner_577,WB0577,601.0
+Car_578,2015,Third Owner,5,1200 CC,101 bhp,150 Nm,19,Diesel,104,Howrah,Park Street,237,14,1161,Owner_578,WB0578,1369.5
+Car_579,2016,Second Owner,7,2000 CC,124 bhp,150 Nm,18,Diesel,106,Dumdum,Park Street,172,15,1273,Owner_579,WB0579,1002.0
+Car_580,2023,Second Owner,5,2000 CC,74 bhp,150 Nm,19,Petrol,107,Salt Lake,Park Street,24,15,980,Owner_580,WB0580,257.0
+Car_581,2017,First Owner,5,1800 CC,105 bhp,150 Nm,23,CNG,94,Park Street,Behala,241,12,769,Owner_581,WB0581,1340.5
+Car_582,2015,First Owner,5,1800 CC,118 bhp,150 Nm,14,Diesel,102,Park Street,Salt Lake,204,7,932,Owner_582,WB0582,1183.0
+Car_583,2019,Second Owner,5,1500 CC,127 bhp,150 Nm,18,Petrol,108,Howrah,Park Street,39,11,1298,Owner_583,WB0583,414.5
+Car_584,2021,Third Owner,7,1800 CC,108 bhp,150 Nm,21,CNG,102,Howrah,Dumdum,229,12,1006,Owner_584,WB0584,1354.5
+Car_585,2020,First Owner,7,1800 CC,149 bhp,150 Nm,24,Petrol,107,Behala,Howrah,156,7,1272,Owner_585,WB0585,913.0
+Car_586,2015,First Owner,7,1200 CC,130 bhp,150 Nm,20,Petrol,103,Behala,Howrah,268,6,1169,Owner_586,WB0586,1496.0
+Car_587,2019,First Owner,4,1200 CC,78 bhp,150 Nm,14,Diesel,93,Behala,Dumdum,152,17,1233,Owner_587,WB0587,852.0
+Car_588,2019,Second Owner,7,1800 CC,75 bhp,150 Nm,21,Diesel,93,Howrah,Park Street,244,17,1398,Owner_588,WB0588,1421.0
+Car_589,2020,Second Owner,5,1500 CC,104 bhp,150 Nm,17,Diesel,109,Behala,Behala,124,12,1337,Owner_589,WB0589,843.0
+Car_590,2017,Second Owner,7,1200 CC,108 bhp,150 Nm,13,Petrol,109,Behala,Salt Lake,99,7,635,Owner_590,WB0590,813.5
+Car_591,2019,Second Owner,5,1800 CC,91 bhp,150 Nm,13,Diesel,108,Salt Lake,Howrah,217,11,561,Owner_591,WB0591,1275.5
+Car_592,2021,Third Owner,4,1800 CC,110 bhp,150 Nm,16,Petrol,102,Behala,Salt Lake,173,16,953,Owner_592,WB0592,980.5
+Car_593,2019,Third Owner,5,2000 CC,74 bhp,150 Nm,16,Petrol,101,Park Street,Behala,93,5,1187,Owner_593,WB0593,754.5
+Car_594,2019,Second Owner,5,1500 CC,111 bhp,150 Nm,24,Diesel,96,Howrah,Howrah,86,18,1491,Owner_594,WB0594,742.0
+Car_595,2019,Third Owner,5,2000 CC,145 bhp,150 Nm,18,CNG,101,Dumdum,Salt Lake,170,19,958,Owner_595,WB0595,1012.0
+Car_596,2017,First Owner,4,1500 CC,149 bhp,150 Nm,23,CNG,93,Salt Lake,Behala,14,16,660,Owner_596,WB0596,140.0
+Car_597,2015,First Owner,7,1200 CC,136 bhp,150 Nm,13,CNG,91,Howrah,Salt Lake,87,10,616,Owner_597,WB0597,668.5
+Car_598,2019,First Owner,7,1500 CC,99 bhp,150 Nm,22,Petrol,91,Howrah,Park Street,100,16,1204,Owner_598,WB0598,764.0
+Car_599,2023,Second Owner,4,1800 CC,126 bhp,150 Nm,24,Petrol,94,Park Street,Behala,96,16,600,Owner_599,WB0599,767.0
+Car_600,2015,First Owner,5,1800 CC,142 bhp,150 Nm,18,Petrol,99,Behala,Salt Lake,279,17,801,Owner_600,WB0600,1565.5
+Car_601,2017,Third Owner,7,1500 CC,98 bhp,150 Nm,16,Diesel,99,Park Street,Park Street,113,13,674,Owner_601,WB0601,810.5
+Car_602,2018,Second Owner,4,1500 CC,106 bhp,150 Nm,17,Petrol,98,Behala,Park Street,184,16,605,Owner_602,WB0602,1096.0
+Car_603,2015,Third Owner,7,1500 CC,82 bhp,150 Nm,19,Diesel,102,Behala,Behala,63,7,1463,Owner_603,WB0603,511.5
+Car_604,2015,First Owner,4,2000 CC,101 bhp,150 Nm,21,Diesel,96,Howrah,Dumdum,220,18,1266,Owner_604,WB0604,1306.0
+Car_605,2022,First Owner,5,1500 CC,115 bhp,150 Nm,24,CNG,94,Behala,Howrah,104,11,492,Owner_605,WB0605,732.0
+Car_606,2016,First Owner,7,1200 CC,92 bhp,150 Nm,23,CNG,99,Salt Lake,Behala,232,17,1465,Owner_606,WB0606,1333.0
+Car_607,2022,Second Owner,4,2000 CC,114 bhp,150 Nm,15,CNG,99,Salt Lake,Park Street,18,10,778,Owner_607,WB0607,243.0
+Car_608,2021,Third Owner,7,2000 CC,86 bhp,150 Nm,24,Diesel,95,Salt Lake,Park Street,62,12,464,Owner_608,WB0608,563.0
+Car_609,2016,Second Owner,7,1500 CC,135 bhp,150 Nm,18,Diesel,108,Howrah,Behala,86,7,764,Owner_609,WB0609,660.0
+Car_610,2020,Second Owner,7,1200 CC,75 bhp,150 Nm,17,Diesel,97,Park Street,Dumdum,215,7,1220,Owner_610,WB0610,1209.5
+Car_611,2020,First Owner,7,2000 CC,87 bhp,150 Nm,21,Petrol,90,Dumdum,Howrah,121,8,1447,Owner_611,WB0611,883.5
+Car_612,2017,Second Owner,4,1800 CC,91 bhp,150 Nm,13,Diesel,106,Behala,Salt Lake,174,7,939,Owner_612,WB0612,957.0
+Car_613,2016,Second Owner,5,2000 CC,102 bhp,150 Nm,19,CNG,96,Dumdum,Behala,288,13,1485,Owner_613,WB0613,1624.0
+Car_614,2015,First Owner,4,1500 CC,99 bhp,150 Nm,21,CNG,103,Park Street,Howrah,36,15,890,Owner_614,WB0614,353.0
+Car_615,2020,Second Owner,4,1200 CC,101 bhp,150 Nm,20,Diesel,106,Park Street,Howrah,79,8,628,Owner_615,WB0615,622.5
+Car_616,2019,First Owner,4,1500 CC,111 bhp,150 Nm,16,Diesel,98,Howrah,Park Street,227,10,1443,Owner_616,WB0616,1283.5
+Car_617,2023,First Owner,5,1800 CC,147 bhp,150 Nm,21,CNG,106,Salt Lake,Salt Lake,198,12,402,Owner_617,WB0617,1121.0
+Car_618,2015,First Owner,7,1800 CC,79 bhp,150 Nm,15,Diesel,94,Salt Lake,Behala,133,15,1310,Owner_618,WB0618,896.5
+Car_619,2021,First Owner,7,1800 CC,105 bhp,150 Nm,17,CNG,109,Park Street,Park Street,28,17,706,Owner_619,WB0619,319.0
+Car_620,2019,Second Owner,7,1500 CC,103 bhp,150 Nm,19,Petrol,97,Howrah,Park Street,266,12,831,Owner_620,WB0620,1485.0
+Car_621,2019,First Owner,5,2000 CC,142 bhp,150 Nm,22,CNG,95,Howrah,Dumdum,31,19,535,Owner_621,WB0621,322.5
+Car_622,2016,First Owner,7,1500 CC,97 bhp,150 Nm,14,Petrol,100,Behala,Howrah,49,9,914,Owner_622,WB0622,502.5
+Car_623,2017,Second Owner,5,1200 CC,80 bhp,150 Nm,21,Diesel,108,Salt Lake,Behala,47,9,592,Owner_623,WB0623,477.5
+Car_624,2021,Second Owner,7,2000 CC,147 bhp,150 Nm,22,Diesel,93,Park Street,Behala,57,10,1272,Owner_624,WB0624,516.5
+Car_625,2020,Third Owner,7,1800 CC,108 bhp,150 Nm,22,Petrol,107,Dumdum,Behala,192,14,1065,Owner_625,WB0625,1085.0
+Car_626,2016,Second Owner,4,1500 CC,116 bhp,150 Nm,12,Diesel,90,Salt Lake,Park Street,84,11,608,Owner_626,WB0626,718.0
+Car_627,2020,Second Owner,5,1800 CC,88 bhp,150 Nm,15,Petrol,102,Behala,Dumdum,218,17,1351,Owner_627,WB0627,1243.0
+Car_628,2016,Third Owner,4,1800 CC,84 bhp,150 Nm,15,Diesel,103,Howrah,Salt Lake,192,17,1457,Owner_628,WB0628,1135.0
+Car_629,2016,Second Owner,4,1200 CC,97 bhp,150 Nm,12,CNG,90,Park Street,Park Street,116,14,1048,Owner_629,WB0629,792.0
+Car_630,2016,Second Owner,4,2000 CC,93 bhp,150 Nm,20,Diesel,100,Salt Lake,Salt Lake,197,18,519,Owner_630,WB0630,1127.5
+Car_631,2017,Second Owner,5,1200 CC,141 bhp,150 Nm,14,CNG,106,Dumdum,Dumdum,273,11,1026,Owner_631,WB0631,1578.5
+Car_632,2016,Second Owner,5,1200 CC,78 bhp,150 Nm,16,CNG,93,Behala,Howrah,95,17,924,Owner_632,WB0632,792.5
+Car_633,2018,Third Owner,7,1200 CC,116 bhp,150 Nm,17,Petrol,101,Behala,Behala,146,8,1168,Owner_633,WB0633,960.0
+Car_634,2023,Second Owner,4,1800 CC,102 bhp,150 Nm,19,Diesel,99,Salt Lake,Salt Lake,104,10,911,Owner_634,WB0634,768.0
+Car_635,2020,Second Owner,7,1200 CC,131 bhp,150 Nm,17,Petrol,95,Dumdum,Park Street,254,11,446,Owner_635,WB0635,1428.0
+Car_636,2015,Third Owner,4,1200 CC,88 bhp,150 Nm,14,Diesel,90,Behala,Salt Lake,99,9,1171,Owner_636,WB0636,797.5
+Car_637,2022,First Owner,5,2000 CC,136 bhp,150 Nm,17,CNG,96,Park Street,Howrah,68,9,1139,Owner_637,WB0637,533.0
+Car_638,2021,Third Owner,5,2000 CC,143 bhp,150 Nm,12,CNG,105,Behala,Behala,37,6,921,Owner_638,WB0638,326.5
+Car_639,2017,First Owner,5,1200 CC,109 bhp,150 Nm,15,Diesel,103,Dumdum,Salt Lake,81,11,533,Owner_639,WB0639,626.5
+Car_640,2015,Third Owner,4,2000 CC,116 bhp,150 Nm,17,Diesel,109,Howrah,Howrah,279,16,647,Owner_640,WB0640,1612.5
+Car_641,2019,Third Owner,5,2000 CC,134 bhp,150 Nm,18,Petrol,109,Howrah,Park Street,33,10,835,Owner_641,WB0641,335.5
+Car_642,2018,Second Owner,4,1200 CC,98 bhp,150 Nm,22,Diesel,95,Salt Lake,Dumdum,121,15,1085,Owner_642,WB0642,838.5
+Car_643,2022,First Owner,7,1800 CC,119 bhp,150 Nm,24,Diesel,94,Dumdum,Park Street,65,5,985,Owner_643,WB0643,554.5
+Car_644,2015,Second Owner,4,1200 CC,82 bhp,150 Nm,22,Diesel,107,Behala,Behala,232,8,750,Owner_644,WB0644,1329.0
+Car_645,2015,First Owner,7,2000 CC,70 bhp,150 Nm,21,Petrol,104,Behala,Park Street,129,7,542,Owner_645,WB0645,871.5
+Car_646,2018,Third Owner,4,1800 CC,103 bhp,150 Nm,14,Diesel,95,Howrah,Park Street,188,16,1366,Owner_646,WB0646,1061.0
+Car_647,2022,Third Owner,7,1500 CC,117 bhp,150 Nm,20,CNG,108,Howrah,Park Street,297,19,1203,Owner_647,WB0647,1682.5
+Car_648,2019,First Owner,5,1800 CC,146 bhp,150 Nm,23,Petrol,90,Park Street,Park Street,290,7,1117,Owner_648,WB0648,1596.0
+Car_649,2016,Second Owner,7,2000 CC,117 bhp,150 Nm,23,Petrol,90,Howrah,Behala,198,11,1042,Owner_649,WB0649,1182.0
+Car_650,2020,Second Owner,5,1800 CC,118 bhp,150 Nm,18,CNG,102,Park Street,Howrah,75,15,900,Owner_650,WB0650,587.5
+Car_651,2019,Second Owner,5,1200 CC,133 bhp,150 Nm,12,CNG,92,Behala,Salt Lake,258,16,769,Owner_651,WB0651,1469.0
+Car_652,2016,Second Owner,7,1500 CC,130 bhp,150 Nm,13,CNG,99,Park Street,Dumdum,85,14,1186,Owner_652,WB0652,683.5
+Car_653,2017,Third Owner,4,1500 CC,98 bhp,150 Nm,12,Diesel,92,Park Street,Salt Lake,146,8,1138,Owner_653,WB0653,974.0
+Car_654,2023,Third Owner,4,1500 CC,108 bhp,150 Nm,22,CNG,98,Salt Lake,Salt Lake,173,19,1349,Owner_654,WB0654,1034.5
+Car_655,2021,Third Owner,4,2000 CC,95 bhp,150 Nm,20,Diesel,97,Howrah,Dumdum,242,16,921,Owner_655,WB0655,1422.0
+Car_656,2021,Third Owner,4,2000 CC,86 bhp,150 Nm,20,Petrol,92,Park Street,Behala,264,12,888,Owner_656,WB0656,1535.0
+Car_657,2020,Third Owner,4,1500 CC,140 bhp,150 Nm,18,Petrol,102,Behala,Dumdum,179,15,796,Owner_657,WB0657,1058.5
+Car_658,2022,Second Owner,5,1800 CC,82 bhp,150 Nm,21,CNG,95,Dumdum,Behala,183,13,1295,Owner_658,WB0658,1079.5
+Car_659,2018,Second Owner,4,1500 CC,138 bhp,150 Nm,14,Diesel,102,Park Street,Salt Lake,27,7,754,Owner_659,WB0659,289.5
+Car_660,2022,Second Owner,5,1800 CC,95 bhp,150 Nm,24,CNG,109,Howrah,Behala,79,9,1346,Owner_660,WB0660,614.5
+Car_661,2018,Second Owner,5,1800 CC,118 bhp,150 Nm,16,CNG,109,Salt Lake,Howrah,125,8,687,Owner_661,WB0661,848.5
+Car_662,2022,Third Owner,5,2000 CC,136 bhp,150 Nm,15,Diesel,101,Behala,Dumdum,89,18,1397,Owner_662,WB0662,707.5
+Car_663,2023,Third Owner,7,1800 CC,76 bhp,150 Nm,18,CNG,102,Salt Lake,Howrah,24,16,935,Owner_663,WB0663,255.0
+Car_664,2017,Third Owner,7,1500 CC,127 bhp,150 Nm,20,Petrol,91,Dumdum,Salt Lake,185,14,1250,Owner_664,WB0664,1099.5
+Car_665,2017,First Owner,5,2000 CC,118 bhp,150 Nm,23,CNG,105,Park Street,Dumdum,278,19,1237,Owner_665,WB0665,1610.0
+Car_666,2016,Second Owner,7,1200 CC,122 bhp,150 Nm,13,Diesel,95,Park Street,Salt Lake,128,10,567,Owner_666,WB0666,880.0
+Car_667,2017,Second Owner,4,1200 CC,134 bhp,150 Nm,24,Diesel,108,Howrah,Howrah,197,15,1349,Owner_667,WB0667,1109.5
+Car_668,2017,Third Owner,4,2000 CC,131 bhp,150 Nm,19,Petrol,102,Park Street,Salt Lake,66,14,1020,Owner_668,WB0668,500.0
+Car_669,2019,Second Owner,5,1500 CC,86 bhp,150 Nm,20,Diesel,106,Behala,Dumdum,208,8,827,Owner_669,WB0669,1217.0
+Car_670,2019,Second Owner,4,1200 CC,112 bhp,150 Nm,21,Diesel,98,Dumdum,Dumdum,26,12,889,Owner_670,WB0670,286.0
+Car_671,2016,Third Owner,5,1200 CC,94 bhp,150 Nm,21,Petrol,106,Salt Lake,Salt Lake,297,7,754,Owner_671,WB0671,1656.5
+Car_672,2020,First Owner,5,1800 CC,72 bhp,150 Nm,20,CNG,91,Dumdum,Dumdum,64,15,595,Owner_672,WB0672,517.0
+Car_673,2019,First Owner,4,1800 CC,148 bhp,150 Nm,21,Petrol,108,Park Street,Dumdum,278,9,944,Owner_673,WB0673,1556.0
+Car_674,2020,First Owner,7,1500 CC,98 bhp,150 Nm,18,CNG,108,Salt Lake,Salt Lake,96,17,1116,Owner_674,WB0674,747.0
+Car_675,2015,Third Owner,4,2000 CC,101 bhp,150 Nm,20,Petrol,96,Howrah,Howrah,38,5,1223,Owner_675,WB0675,388.0
+Car_676,2019,Second Owner,4,1500 CC,95 bhp,150 Nm,20,CNG,99,Dumdum,Dumdum,31,17,1331,Owner_676,WB0676,323.5
+Car_677,2023,Third Owner,5,2000 CC,85 bhp,150 Nm,14,Petrol,99,Salt Lake,Dumdum,294,19,1402,Owner_677,WB0677,1662.0
+Car_678,2016,Third Owner,5,1200 CC,94 bhp,150 Nm,15,CNG,109,Salt Lake,Dumdum,57,10,1058,Owner_678,WB0678,495.5
+Car_679,2015,Second Owner,5,1800 CC,123 bhp,150 Nm,13,Petrol,98,Salt Lake,Dumdum,14,15,1338,Owner_679,WB0679,193.0
+Car_680,2023,First Owner,5,1500 CC,97 bhp,150 Nm,21,CNG,106,Behala,Salt Lake,259,9,1179,Owner_680,WB0680,1497.5
+Car_681,2023,First Owner,7,1500 CC,142 bhp,150 Nm,14,Petrol,104,Dumdum,Howrah,172,12,410,Owner_681,WB0681,988.0
+Car_682,2023,Third Owner,7,2000 CC,125 bhp,150 Nm,22,Diesel,91,Salt Lake,Howrah,211,13,795,Owner_682,WB0682,1218.5
+Car_683,2020,First Owner,7,2000 CC,134 bhp,150 Nm,22,CNG,93,Dumdum,Behala,110,12,1130,Owner_683,WB0683,716.0
+Car_684,2022,Third Owner,5,1500 CC,149 bhp,150 Nm,16,Petrol,108,Salt Lake,Dumdum,80,12,808,Owner_684,WB0684,614.0
+Car_685,2015,Third Owner,5,2000 CC,110 bhp,150 Nm,16,CNG,106,Howrah,Dumdum,172,16,761,Owner_685,WB0685,982.0
+Car_686,2018,Second Owner,5,1500 CC,120 bhp,150 Nm,17,CNG,94,Howrah,Behala,182,18,1426,Owner_686,WB0686,1071.0
+Car_687,2015,Second Owner,7,1500 CC,140 bhp,150 Nm,24,Petrol,96,Howrah,Howrah,150,17,483,Owner_687,WB0687,994.0
+Car_688,2022,Second Owner,5,1500 CC,147 bhp,150 Nm,18,CNG,107,Park Street,Park Street,147,7,555,Owner_688,WB0688,1052.5
+Car_689,2015,Third Owner,4,1200 CC,98 bhp,150 Nm,18,Petrol,96,Salt Lake,Park Street,75,8,1106,Owner_689,WB0689,596.5
+Car_690,2017,Second Owner,4,2000 CC,88 bhp,150 Nm,12,Diesel,106,Park Street,Howrah,207,19,871,Owner_690,WB0690,1171.5
+Car_691,2018,First Owner,5,1800 CC,135 bhp,150 Nm,13,CNG,96,Dumdum,Dumdum,237,15,1018,Owner_691,WB0691,1388.5
+Car_692,2022,First Owner,4,1800 CC,110 bhp,150 Nm,23,Diesel,93,Park Street,Park Street,290,8,533,Owner_692,WB0692,1625.0
+Car_693,2020,Third Owner,4,2000 CC,114 bhp,150 Nm,20,CNG,97,Dumdum,Salt Lake,181,19,1187,Owner_693,WB0693,1081.5
+Car_694,2021,Third Owner,7,1500 CC,84 bhp,150 Nm,21,CNG,102,Dumdum,Salt Lake,49,19,1306,Owner_694,WB0694,434.5
+Car_695,2022,Second Owner,5,1800 CC,72 bhp,150 Nm,13,CNG,93,Dumdum,Behala,16,18,1263,Owner_695,WB0695,203.0
+Car_696,2016,Third Owner,5,1800 CC,80 bhp,150 Nm,17,Petrol,95,Park Street,Howrah,183,15,1066,Owner_696,WB0696,1029.5
+Car_697,2022,Third Owner,7,2000 CC,122 bhp,150 Nm,22,Diesel,94,Salt Lake,Howrah,160,9,676,Owner_697,WB0697,963.0
+Car_698,2017,First Owner,4,1800 CC,115 bhp,150 Nm,22,CNG,101,Park Street,Park Street,220,17,1281,Owner_698,WB0698,1248.0
+Car_699,2021,First Owner,4,1500 CC,99 bhp,150 Nm,12,Petrol,93,Salt Lake,Dumdum,95,13,412,Owner_699,WB0699,803.5
+Car_700,2017,Second Owner,5,2000 CC,126 bhp,150 Nm,14,CNG,98,Salt Lake,Howrah,262,16,741,Owner_700,WB0700,1494.0
+Car_701,2021,Third Owner,4,1500 CC,87 bhp,150 Nm,13,Petrol,93,Dumdum,Park Street,30,13,434,Owner_701,WB0701,293.0
+Car_702,2016,Third Owner,7,1800 CC,120 bhp,150 Nm,14,CNG,108,Park Street,Park Street,266,14,958,Owner_702,WB0702,1479.0
+Car_703,2020,First Owner,7,1800 CC,117 bhp,150 Nm,16,Diesel,103,Salt Lake,Howrah,42,17,804,Owner_703,WB0703,375.0
+Car_704,2017,Third Owner,5,1500 CC,135 bhp,150 Nm,22,Diesel,94,Howrah,Park Street,269,16,1057,Owner_704,WB0704,1526.5
+Car_705,2017,First Owner,7,1200 CC,77 bhp,150 Nm,21,CNG,107,Salt Lake,Behala,243,18,558,Owner_705,WB0705,1370.5
+Car_706,2023,Second Owner,7,1800 CC,91 bhp,150 Nm,17,Petrol,99,Howrah,Behala,12,5,1355,Owner_706,WB0706,133.0
+Car_707,2021,First Owner,5,1200 CC,75 bhp,150 Nm,20,CNG,108,Park Street,Howrah,236,18,948,Owner_707,WB0707,1344.0
+Car_708,2019,Third Owner,7,1800 CC,145 bhp,150 Nm,23,Petrol,101,Park Street,Dumdum,293,18,1384,Owner_708,WB0708,1657.5
+Car_709,2021,Second Owner,7,1200 CC,126 bhp,150 Nm,22,CNG,107,Park Street,Behala,79,12,678,Owner_709,WB0709,655.5
+Car_710,2023,First Owner,7,1200 CC,105 bhp,150 Nm,21,Petrol,106,Salt Lake,Behala,263,18,878,Owner_710,WB0710,1491.5
+Car_711,2015,First Owner,4,1200 CC,148 bhp,150 Nm,23,Diesel,100,Behala,Howrah,153,5,510,Owner_711,WB0711,875.5
+Car_712,2021,Second Owner,5,1500 CC,126 bhp,150 Nm,23,CNG,92,Salt Lake,Salt Lake,33,6,830,Owner_712,WB0712,373.5
+Car_713,2020,Second Owner,5,1200 CC,118 bhp,150 Nm,24,Diesel,106,Salt Lake,Park Street,243,11,941,Owner_713,WB0713,1352.5
+Car_714,2023,First Owner,5,1200 CC,114 bhp,150 Nm,15,Diesel,90,Dumdum,Behala,184,19,759,Owner_714,WB0714,1053.0
+Car_715,2015,Third Owner,4,1200 CC,135 bhp,150 Nm,18,CNG,104,Dumdum,Salt Lake,168,12,771,Owner_715,WB0715,952.0
+Car_716,2018,First Owner,4,1800 CC,146 bhp,150 Nm,17,CNG,98,Salt Lake,Dumdum,295,5,1438,Owner_716,WB0716,1691.5
+Car_717,2023,Second Owner,5,1200 CC,114 bhp,150 Nm,13,Petrol,104,Howrah,Salt Lake,27,19,1354,Owner_717,WB0717,245.5
+Car_718,2018,First Owner,4,1800 CC,148 bhp,150 Nm,21,Petrol,92,Dumdum,Howrah,53,7,658,Owner_718,WB0718,477.5
+Car_719,2017,Second Owner,5,1200 CC,89 bhp,150 Nm,22,Diesel,108,Salt Lake,Dumdum,164,11,1177,Owner_719,WB0719,915.0
+Car_720,2023,Second Owner,4,1200 CC,133 bhp,150 Nm,22,Petrol,102,Behala,Dumdum,240,17,519,Owner_720,WB0720,1343.0
+Car_721,2016,Third Owner,7,1500 CC,136 bhp,150 Nm,22,Petrol,101,Howrah,Salt Lake,234,13,1375,Owner_721,WB0721,1343.0
+Car_722,2018,Second Owner,7,1800 CC,72 bhp,150 Nm,19,CNG,109,Park Street,Howrah,226,12,1312,Owner_722,WB0722,1292.0
+Car_723,2020,Second Owner,5,1200 CC,123 bhp,150 Nm,18,Petrol,90,Salt Lake,Behala,65,12,1122,Owner_723,WB0723,543.5
+Car_724,2016,Third Owner,4,1800 CC,147 bhp,150 Nm,18,Diesel,106,Salt Lake,Salt Lake,40,19,922,Owner_724,WB0724,400.0
+Car_725,2022,Second Owner,4,1800 CC,133 bhp,150 Nm,19,Petrol,102,Howrah,Behala,68,13,724,Owner_725,WB0725,548.0
+Car_726,2022,Third Owner,7,2000 CC,109 bhp,150 Nm,23,Diesel,90,Dumdum,Salt Lake,244,14,1473,Owner_726,WB0726,1396.0
+Car_727,2015,Third Owner,7,1500 CC,128 bhp,150 Nm,23,CNG,99,Dumdum,Behala,116,7,468,Owner_727,WB0727,849.0
+Car_728,2017,Second Owner,4,1500 CC,124 bhp,150 Nm,24,Diesel,104,Dumdum,Salt Lake,200,12,790,Owner_728,WB0728,1135.0
+Car_729,2023,Second Owner,4,1500 CC,131 bhp,150 Nm,22,Petrol,96,Park Street,Dumdum,27,5,782,Owner_729,WB0729,265.5
+Car_730,2019,First Owner,4,2000 CC,73 bhp,150 Nm,12,CNG,107,Howrah,Park Street,235,12,415,Owner_730,WB0730,1305.5
+Car_731,2020,Third Owner,4,2000 CC,129 bhp,150 Nm,24,Petrol,105,Howrah,Dumdum,176,17,1245,Owner_731,WB0731,994.0
+Car_732,2018,First Owner,4,1500 CC,144 bhp,150 Nm,12,CNG,103,Dumdum,Behala,80,11,1268,Owner_732,WB0732,682.0
+Car_733,2016,Second Owner,4,2000 CC,99 bhp,150 Nm,19,CNG,107,Dumdum,Howrah,63,17,967,Owner_733,WB0733,502.5
+Car_734,2022,First Owner,5,2000 CC,71 bhp,150 Nm,15,Petrol,96,Behala,Dumdum,254,19,531,Owner_734,WB0734,1469.0
+Car_735,2020,Third Owner,4,2000 CC,131 bhp,150 Nm,16,Petrol,106,Behala,Park Street,85,12,672,Owner_735,WB0735,717.5
+Car_736,2019,First Owner,7,1500 CC,118 bhp,150 Nm,19,CNG,107,Salt Lake,Behala,44,5,883,Owner_736,WB0736,456.0
+Car_737,2023,Third Owner,5,1500 CC,78 bhp,150 Nm,16,CNG,101,Salt Lake,Dumdum,276,10,949,Owner_737,WB0737,1561.0
+Car_738,2015,Second Owner,4,1500 CC,100 bhp,150 Nm,21,Petrol,97,Howrah,Salt Lake,130,11,756,Owner_738,WB0738,912.0
+Car_739,2019,Second Owner,7,2000 CC,130 bhp,150 Nm,15,Diesel,91,Howrah,Howrah,34,18,1471,Owner_739,WB0739,336.0
+Car_740,2020,Third Owner,5,1500 CC,148 bhp,150 Nm,23,Petrol,96,Park Street,Behala,169,15,1433,Owner_740,WB0740,985.5
+Car_741,2019,Second Owner,7,2000 CC,117 bhp,150 Nm,17,CNG,93,Park Street,Dumdum,93,9,632,Owner_741,WB0741,771.5
+Car_742,2020,Second Owner,4,1200 CC,94 bhp,150 Nm,24,Petrol,107,Behala,Behala,123,18,435,Owner_742,WB0742,820.5
+Car_743,2020,Second Owner,4,2000 CC,105 bhp,150 Nm,23,Diesel,95,Salt Lake,Salt Lake,232,9,812,Owner_743,WB0743,1279.0
+Car_744,2021,Second Owner,4,1800 CC,77 bhp,150 Nm,16,Petrol,98,Behala,Park Street,175,11,1427,Owner_744,WB0744,1042.5
+Car_745,2018,Third Owner,4,1500 CC,142 bhp,150 Nm,18,CNG,98,Behala,Dumdum,200,19,443,Owner_745,WB0745,1171.0
+Car_746,2022,First Owner,5,1500 CC,127 bhp,150 Nm,21,Petrol,103,Salt Lake,Behala,184,15,967,Owner_746,WB0746,1057.0
+Car_747,2021,First Owner,5,1800 CC,114 bhp,150 Nm,18,CNG,97,Park Street,Behala,10,19,1139,Owner_747,WB0747,143.0
+Car_748,2023,Second Owner,7,2000 CC,131 bhp,150 Nm,24,CNG,108,Salt Lake,Behala,238,7,513,Owner_748,WB0748,1342.0
+Car_749,2021,First Owner,4,1200 CC,108 bhp,150 Nm,15,Petrol,92,Dumdum,Park Street,95,10,796,Owner_749,WB0749,722.5
+Car_750,2017,First Owner,7,1800 CC,127 bhp,150 Nm,23,CNG,107,Dumdum,Behala,71,11,865,Owner_750,WB0750,562.5
+Car_751,2017,Second Owner,5,1800 CC,133 bhp,150 Nm,24,CNG,94,Dumdum,Howrah,215,5,1246,Owner_751,WB0751,1192.5
+Car_752,2022,Second Owner,4,2000 CC,113 bhp,150 Nm,16,Diesel,103,Howrah,Howrah,114,16,901,Owner_752,WB0752,796.0
+Car_753,2019,First Owner,4,1500 CC,98 bhp,150 Nm,24,Diesel,93,Park Street,Behala,259,6,840,Owner_753,WB0753,1461.5
+Car_754,2018,Third Owner,5,2000 CC,128 bhp,150 Nm,14,Diesel,96,Park Street,Howrah,22,16,468,Owner_754,WB0754,207.0
+Car_755,2022,Second Owner,5,1800 CC,140 bhp,150 Nm,15,Diesel,109,Howrah,Dumdum,172,8,725,Owner_755,WB0755,1039.0
+Car_756,2020,Third Owner,5,1800 CC,78 bhp,150 Nm,15,CNG,101,Behala,Howrah,52,17,466,Owner_756,WB0756,399.0
+Car_757,2016,First Owner,5,1500 CC,75 bhp,150 Nm,14,Petrol,91,Dumdum,Behala,120,12,703,Owner_757,WB0757,805.0
+Car_758,2018,Second Owner,5,1500 CC,98 bhp,150 Nm,24,CNG,100,Dumdum,Salt Lake,214,15,1371,Owner_758,WB0758,1267.0
+Car_759,2018,Third Owner,4,1500 CC,127 bhp,150 Nm,21,CNG,103,Behala,Dumdum,265,17,883,Owner_759,WB0759,1464.5
+Car_760,2020,Second Owner,5,2000 CC,86 bhp,150 Nm,16,CNG,105,Salt Lake,Park Street,153,18,1328,Owner_760,WB0760,848.5
+Car_761,2020,First Owner,4,1500 CC,85 bhp,150 Nm,16,Petrol,109,Salt Lake,Behala,155,14,548,Owner_761,WB0761,911.5
+Car_762,2015,Third Owner,4,1800 CC,72 bhp,150 Nm,22,Diesel,95,Park Street,Park Street,173,10,1450,Owner_762,WB0762,1022.5
+Car_763,2022,First Owner,5,1800 CC,90 bhp,150 Nm,18,CNG,93,Howrah,Salt Lake,178,5,1386,Owner_763,WB0763,1012.0
+Car_764,2020,First Owner,5,1200 CC,133 bhp,150 Nm,15,CNG,104,Park Street,Park Street,242,14,983,Owner_764,WB0764,1346.0
+Car_765,2017,Second Owner,4,2000 CC,105 bhp,150 Nm,24,Diesel,90,Salt Lake,Behala,280,9,647,Owner_765,WB0765,1552.0
+Car_766,2023,Third Owner,5,1200 CC,131 bhp,150 Nm,15,CNG,96,Behala,Behala,69,11,1101,Owner_766,WB0766,603.5
+Car_767,2016,First Owner,5,1800 CC,111 bhp,150 Nm,20,Petrol,101,Park Street,Salt Lake,244,19,495,Owner_767,WB0767,1417.0
+Car_768,2022,First Owner,5,1200 CC,145 bhp,150 Nm,17,CNG,99,Dumdum,Behala,174,17,681,Owner_768,WB0768,1047.0
+Car_769,2017,Third Owner,7,1800 CC,111 bhp,150 Nm,15,CNG,94,Dumdum,Salt Lake,203,10,721,Owner_769,WB0769,1137.5
+Car_770,2019,First Owner,4,1200 CC,130 bhp,150 Nm,13,Diesel,101,Behala,Salt Lake,243,17,928,Owner_770,WB0770,1431.5
+Car_771,2020,First Owner,7,1500 CC,82 bhp,150 Nm,17,CNG,107,Salt Lake,Behala,192,17,662,Owner_771,WB0771,1082.0
+Car_772,2020,Third Owner,5,1200 CC,80 bhp,150 Nm,13,CNG,99,Dumdum,Howrah,241,16,979,Owner_772,WB0772,1388.5
+Car_773,2018,Third Owner,7,1500 CC,123 bhp,150 Nm,16,Petrol,95,Dumdum,Salt Lake,116,13,693,Owner_773,WB0773,755.0
+Car_774,2017,Third Owner,5,1500 CC,85 bhp,150 Nm,17,Diesel,101,Howrah,Behala,232,12,794,Owner_774,WB0774,1372.0
+Car_775,2018,Third Owner,7,2000 CC,77 bhp,150 Nm,15,Diesel,96,Park Street,Howrah,89,19,912,Owner_775,WB0775,692.5
+Car_776,2015,Second Owner,5,1500 CC,128 bhp,150 Nm,24,Petrol,107,Salt Lake,Salt Lake,243,8,1320,Owner_776,WB0776,1427.5
+Car_777,2018,Third Owner,7,1500 CC,126 bhp,150 Nm,14,CNG,91,Park Street,Howrah,193,17,1209,Owner_777,WB0777,1143.5
+Car_778,2015,Second Owner,7,1200 CC,109 bhp,150 Nm,18,Diesel,99,Salt Lake,Dumdum,194,15,1319,Owner_778,WB0778,1135.0
+Car_779,2015,Second Owner,7,1800 CC,128 bhp,150 Nm,13,Diesel,104,Dumdum,Dumdum,143,16,1092,Owner_779,WB0779,1025.5
+Car_780,2020,Second Owner,4,2000 CC,71 bhp,150 Nm,24,CNG,101,Howrah,Howrah,229,9,634,Owner_780,WB0780,1342.5
+Car_781,2019,First Owner,7,1500 CC,145 bhp,150 Nm,22,CNG,106,Park Street,Salt Lake,297,11,1351,Owner_781,WB0781,1662.5
+Car_782,2018,Second Owner,4,2000 CC,79 bhp,150 Nm,17,Diesel,93,Dumdum,Behala,211,12,1431,Owner_782,WB0782,1167.5
+Car_783,2017,Second Owner,5,1200 CC,113 bhp,150 Nm,24,CNG,96,Salt Lake,Park Street,155,9,938,Owner_783,WB0783,889.5
+Car_784,2015,First Owner,7,1500 CC,80 bhp,150 Nm,15,Diesel,98,Park Street,Behala,136,13,1219,Owner_784,WB0784,944.0
+Car_785,2020,First Owner,5,1200 CC,148 bhp,150 Nm,17,CNG,108,Park Street,Park Street,144,18,671,Owner_785,WB0785,1016.0
+Car_786,2016,First Owner,5,2000 CC,149 bhp,150 Nm,15,CNG,96,Dumdum,Park Street,123,14,1428,Owner_786,WB0786,863.5
+Car_787,2022,Third Owner,7,1200 CC,71 bhp,150 Nm,15,Petrol,91,Park Street,Salt Lake,273,16,992,Owner_787,WB0787,1567.5
+Car_788,2019,First Owner,4,2000 CC,119 bhp,150 Nm,15,CNG,95,Howrah,Howrah,73,8,1375,Owner_788,WB0788,592.5
+Car_789,2021,First Owner,7,1200 CC,81 bhp,150 Nm,20,Petrol,107,Howrah,Behala,144,8,514,Owner_789,WB0789,1025.0
+Car_790,2016,Second Owner,5,2000 CC,92 bhp,150 Nm,18,CNG,95,Dumdum,Howrah,50,17,662,Owner_790,WB0790,519.0
+Car_791,2022,First Owner,5,1800 CC,87 bhp,150 Nm,14,Diesel,102,Salt Lake,Dumdum,12,12,606,Owner_791,WB0791,173.0
+Car_792,2016,Third Owner,7,1200 CC,131 bhp,150 Nm,14,Diesel,108,Dumdum,Salt Lake,203,5,702,Owner_792,WB0792,1158.5
+Car_793,2018,First Owner,4,1200 CC,131 bhp,150 Nm,17,CNG,91,Howrah,Salt Lake,119,12,511,Owner_793,WB0793,831.5
+Car_794,2015,Third Owner,4,1800 CC,107 bhp,150 Nm,17,CNG,101,Behala,Dumdum,230,9,584,Owner_794,WB0794,1310.0
+Car_795,2019,First Owner,5,1800 CC,136 bhp,150 Nm,15,Diesel,104,Behala,Behala,13,17,1300,Owner_795,WB0795,181.5
+Car_796,2023,First Owner,5,1200 CC,107 bhp,150 Nm,20,CNG,103,Park Street,Dumdum,253,18,620,Owner_796,WB0796,1425.5
+Car_797,2015,First Owner,4,1800 CC,136 bhp,150 Nm,15,Petrol,95,Park Street,Behala,175,15,1493,Owner_797,WB0797,1000.5
+Car_798,2023,First Owner,7,1500 CC,130 bhp,150 Nm,20,Petrol,107,Behala,Park Street,35,5,1297,Owner_798,WB0798,388.5
+Car_799,2022,Third Owner,5,2000 CC,70 bhp,150 Nm,15,Petrol,94,Howrah,Salt Lake,26,8,1493,Owner_799,WB0799,271.0
+Car_800,2020,Third Owner,4,2000 CC,114 bhp,150 Nm,13,Petrol,107,Park Street,Behala,225,6,1021,Owner_800,WB0800,1240.5
+Car_801,2021,Second Owner,5,2000 CC,97 bhp,150 Nm,13,Petrol,92,Dumdum,Howrah,101,8,826,Owner_801,WB0801,735.5
+Car_802,2017,Third Owner,7,1500 CC,90 bhp,150 Nm,16,CNG,92,Dumdum,Howrah,40,12,1043,Owner_802,WB0802,416.0
+Car_803,2015,First Owner,4,1800 CC,82 bhp,150 Nm,15,CNG,99,Howrah,Salt Lake,214,9,967,Owner_803,WB0803,1260.0
+Car_804,2019,Second Owner,5,1800 CC,96 bhp,150 Nm,18,Petrol,108,Park Street,Dumdum,216,5,842,Owner_804,WB0804,1238.0
+Car_805,2016,Second Owner,7,1200 CC,76 bhp,150 Nm,22,CNG,92,Dumdum,Dumdum,116,11,1000,Owner_805,WB0805,758.0
+Car_806,2019,Second Owner,5,1800 CC,91 bhp,150 Nm,16,CNG,101,Park Street,Behala,155,5,903,Owner_806,WB0806,906.5
+Car_807,2022,First Owner,7,1200 CC,143 bhp,150 Nm,17,Petrol,105,Park Street,Dumdum,110,13,530,Owner_807,WB0807,734.0
+Car_808,2023,Third Owner,7,1500 CC,122 bhp,150 Nm,21,CNG,106,Dumdum,Salt Lake,250,7,617,Owner_808,WB0808,1398.0
+Car_809,2016,First Owner,4,2000 CC,148 bhp,150 Nm,15,CNG,96,Behala,Behala,256,16,1087,Owner_809,WB0809,1443.0
+Car_810,2017,Second Owner,7,2000 CC,148 bhp,150 Nm,24,CNG,102,Dumdum,Park Street,172,7,570,Owner_810,WB0810,979.0
+Car_811,2017,First Owner,5,2000 CC,73 bhp,150 Nm,23,Petrol,91,Howrah,Dumdum,182,19,1011,Owner_811,WB0811,1054.0
+Car_812,2015,First Owner,7,1800 CC,92 bhp,150 Nm,13,CNG,93,Salt Lake,Dumdum,44,19,1391,Owner_812,WB0812,407.0
+Car_813,2022,Third Owner,7,1200 CC,139 bhp,150 Nm,24,Diesel,99,Dumdum,Behala,293,10,456,Owner_813,WB0813,1693.5
+Car_814,2020,Third Owner,4,1200 CC,145 bhp,150 Nm,21,Diesel,96,Park Street,Howrah,30,14,645,Owner_814,WB0814,271.0
+Car_815,2022,Second Owner,7,1500 CC,102 bhp,150 Nm,20,Petrol,106,Park Street,Dumdum,172,10,543,Owner_815,WB0815,950.0
+Car_816,2023,First Owner,7,1800 CC,97 bhp,150 Nm,21,Diesel,109,Dumdum,Salt Lake,106,17,1474,Owner_816,WB0816,777.0
+Car_817,2019,First Owner,5,1500 CC,77 bhp,150 Nm,18,Petrol,95,Salt Lake,Dumdum,64,15,767,Owner_817,WB0817,497.0
+Car_818,2017,Third Owner,4,1200 CC,70 bhp,150 Nm,15,Diesel,108,Dumdum,Park Street,136,15,617,Owner_818,WB0818,938.0
+Car_819,2019,First Owner,4,1200 CC,106 bhp,150 Nm,14,Diesel,94,Salt Lake,Dumdum,202,10,1015,Owner_819,WB0819,1163.0
+Car_820,2019,First Owner,4,2000 CC,132 bhp,150 Nm,21,Diesel,99,Salt Lake,Howrah,252,17,841,Owner_820,WB0820,1435.0
+Car_821,2019,First Owner,7,1800 CC,91 bhp,150 Nm,14,Petrol,98,Howrah,Dumdum,97,5,1240,Owner_821,WB0821,798.5
+Car_822,2017,Third Owner,4,1200 CC,139 bhp,150 Nm,20,Petrol,102,Park Street,Behala,224,9,1355,Owner_822,WB0822,1322.0
+Car_823,2018,Second Owner,7,2000 CC,90 bhp,150 Nm,16,CNG,108,Park Street,Dumdum,101,16,1098,Owner_823,WB0823,734.5
+Car_824,2023,Second Owner,7,1800 CC,104 bhp,150 Nm,24,Petrol,95,Salt Lake,Howrah,244,10,1275,Owner_824,WB0824,1386.0
+Car_825,2023,First Owner,5,1500 CC,148 bhp,150 Nm,14,Diesel,93,Park Street,Behala,193,12,1175,Owner_825,WB0825,1073.5
+Car_826,2016,Second Owner,5,1800 CC,74 bhp,150 Nm,16,Diesel,92,Behala,Salt Lake,47,17,1161,Owner_826,WB0826,414.5
+Car_827,2022,Third Owner,5,1800 CC,129 bhp,150 Nm,13,Petrol,92,Salt Lake,Behala,148,5,1344,Owner_827,WB0827,1047.0
+Car_828,2022,Third Owner,5,1200 CC,115 bhp,150 Nm,22,Petrol,93,Park Street,Park Street,204,9,1322,Owner_828,WB0828,1205.0
+Car_829,2021,Second Owner,5,1200 CC,119 bhp,150 Nm,15,Petrol,94,Behala,Behala,24,7,1334,Owner_829,WB0829,216.0
+Car_830,2022,Second Owner,7,1800 CC,117 bhp,150 Nm,21,CNG,97,Howrah,Salt Lake,266,6,424,Owner_830,WB0830,1482.0
+Car_831,2017,First Owner,7,1200 CC,75 bhp,150 Nm,13,Diesel,105,Park Street,Dumdum,144,15,1205,Owner_831,WB0831,1001.0
+Car_832,2020,Second Owner,4,1200 CC,125 bhp,150 Nm,13,CNG,92,Behala,Behala,10,12,1163,Owner_832,WB0832,183.0
+Car_833,2015,First Owner,7,1200 CC,128 bhp,150 Nm,23,CNG,101,Dumdum,Behala,58,11,1483,Owner_833,WB0833,481.0
+Car_834,2021,First Owner,7,2000 CC,98 bhp,150 Nm,19,Diesel,97,Dumdum,Behala,105,14,833,Owner_834,WB0834,700.5
+Car_835,2015,Third Owner,5,2000 CC,140 bhp,150 Nm,12,Diesel,102,Behala,Behala,210,11,1278,Owner_835,WB0835,1199.0
+Car_836,2023,Third Owner,7,1800 CC,146 bhp,150 Nm,18,Petrol,93,Salt Lake,Salt Lake,35,9,1489,Owner_836,WB0836,333.5
+Car_837,2015,Third Owner,5,1200 CC,87 bhp,150 Nm,16,Petrol,103,Salt Lake,Howrah,244,16,1309,Owner_837,WB0837,1395.0
+Car_838,2015,Third Owner,4,2000 CC,71 bhp,150 Nm,22,CNG,103,Park Street,Howrah,253,17,964,Owner_838,WB0838,1396.5
+Car_839,2021,Second Owner,4,1800 CC,77 bhp,150 Nm,19,Petrol,102,Dumdum,Behala,60,13,505,Owner_839,WB0839,463.0
+Car_840,2016,Third Owner,7,1200 CC,144 bhp,150 Nm,12,Petrol,95,Salt Lake,Salt Lake,90,9,495,Owner_840,WB0840,678.0
+Car_841,2019,Second Owner,4,1500 CC,123 bhp,150 Nm,22,Diesel,106,Salt Lake,Salt Lake,45,6,567,Owner_841,WB0841,467.5
+Car_842,2022,Third Owner,7,1200 CC,107 bhp,150 Nm,18,Diesel,93,Dumdum,Behala,76,7,441,Owner_842,WB0842,624.0
+Car_843,2022,Second Owner,4,1200 CC,117 bhp,150 Nm,16,Petrol,97,Howrah,Park Street,138,8,503,Owner_843,WB0843,996.0
+Car_844,2017,First Owner,5,2000 CC,96 bhp,150 Nm,15,Diesel,106,Salt Lake,Behala,164,19,919,Owner_844,WB0844,935.0
+Car_845,2021,Second Owner,5,1800 CC,89 bhp,150 Nm,18,Petrol,92,Behala,Park Street,254,9,681,Owner_845,WB0845,1423.0
+Car_846,2017,Second Owner,5,1800 CC,81 bhp,150 Nm,21,Diesel,106,Park Street,Behala,120,17,1466,Owner_846,WB0846,786.0
+Car_847,2020,Third Owner,5,2000 CC,112 bhp,150 Nm,13,Diesel,98,Salt Lake,Park Street,177,7,1346,Owner_847,WB0847,975.5
+Car_848,2020,Second Owner,7,1200 CC,130 bhp,150 Nm,23,Diesel,91,Salt Lake,Park Street,151,16,1148,Owner_848,WB0848,876.5
+Car_849,2017,First Owner,4,1500 CC,100 bhp,150 Nm,12,Diesel,102,Howrah,Behala,206,18,1230,Owner_849,WB0849,1229.0
+Car_850,2021,First Owner,7,1200 CC,130 bhp,150 Nm,12,Petrol,109,Behala,Park Street,118,11,448,Owner_850,WB0850,768.0
+Car_851,2017,Third Owner,5,1200 CC,143 bhp,150 Nm,22,CNG,91,Park Street,Dumdum,88,9,514,Owner_851,WB0851,739.0
+Car_852,2022,First Owner,7,1500 CC,136 bhp,150 Nm,23,Diesel,109,Salt Lake,Howrah,170,9,902,Owner_852,WB0852,959.0
+Car_853,2018,Second Owner,4,2000 CC,104 bhp,150 Nm,12,Petrol,100,Park Street,Salt Lake,28,10,1385,Owner_853,WB0853,297.0
+Car_854,2015,First Owner,7,1800 CC,84 bhp,150 Nm,23,Petrol,104,Dumdum,Park Street,136,11,470,Owner_854,WB0854,962.0
+Car_855,2018,Third Owner,4,2000 CC,85 bhp,150 Nm,16,Diesel,100,Salt Lake,Park Street,214,14,1411,Owner_855,WB0855,1200.0
+Car_856,2021,Second Owner,7,2000 CC,82 bhp,150 Nm,21,CNG,92,Salt Lake,Salt Lake,38,14,466,Owner_856,WB0856,337.0
+Car_857,2018,Third Owner,4,1200 CC,104 bhp,150 Nm,18,Diesel,92,Dumdum,Park Street,216,12,1366,Owner_857,WB0857,1282.0
+Car_858,2020,Second Owner,4,1800 CC,144 bhp,150 Nm,13,Petrol,101,Howrah,Salt Lake,289,13,580,Owner_858,WB0858,1602.5
+Car_859,2023,First Owner,5,1800 CC,128 bhp,150 Nm,21,CNG,94,Salt Lake,Behala,160,15,1012,Owner_859,WB0859,933.0
+Car_860,2015,Third Owner,4,2000 CC,90 bhp,150 Nm,19,Petrol,109,Park Street,Dumdum,249,8,1096,Owner_860,WB0860,1446.5
+Car_861,2019,Third Owner,5,1500 CC,123 bhp,150 Nm,15,Diesel,96,Behala,Dumdum,275,9,1002,Owner_861,WB0861,1517.5
+Car_862,2021,Second Owner,5,2000 CC,144 bhp,150 Nm,23,CNG,96,Park Street,Howrah,191,19,647,Owner_862,WB0862,1127.5
+Car_863,2015,Third Owner,5,1500 CC,99 bhp,150 Nm,14,Petrol,102,Howrah,Park Street,114,9,758,Owner_863,WB0863,821.0
+Car_864,2018,Second Owner,7,1800 CC,117 bhp,150 Nm,21,Petrol,98,Behala,Howrah,245,12,648,Owner_864,WB0864,1364.5
+Car_865,2020,Second Owner,7,2000 CC,104 bhp,150 Nm,22,Petrol,102,Park Street,Behala,182,13,1037,Owner_865,WB0865,1020.0
+Car_866,2016,Second Owner,7,1200 CC,107 bhp,150 Nm,19,Diesel,101,Park Street,Dumdum,167,11,1349,Owner_866,WB0866,979.5
+Car_867,2019,Second Owner,7,2000 CC,100 bhp,150 Nm,13,CNG,102,Dumdum,Behala,181,19,1062,Owner_867,WB0867,1075.5
+Car_868,2015,First Owner,4,1800 CC,147 bhp,150 Nm,22,Diesel,99,Howrah,Behala,166,9,575,Owner_868,WB0868,992.0
+Car_869,2020,Second Owner,4,1200 CC,93 bhp,150 Nm,22,Diesel,90,Dumdum,Park Street,267,7,1122,Owner_869,WB0869,1507.5
+Car_870,2020,Third Owner,7,1200 CC,118 bhp,150 Nm,24,Diesel,97,Behala,Behala,173,5,825,Owner_870,WB0870,989.5
+Car_871,2018,First Owner,4,1500 CC,101 bhp,150 Nm,14,CNG,105,Dumdum,Dumdum,156,15,1170,Owner_871,WB0871,909.0
+Car_872,2022,Third Owner,4,1200 CC,124 bhp,150 Nm,23,Diesel,102,Howrah,Howrah,163,13,1102,Owner_872,WB0872,927.5
+Car_873,2018,First Owner,5,1200 CC,148 bhp,150 Nm,14,Diesel,92,Salt Lake,Dumdum,47,9,480,Owner_873,WB0873,471.5
+Car_874,2022,Second Owner,5,2000 CC,127 bhp,150 Nm,21,Diesel,92,Salt Lake,Park Street,140,13,1326,Owner_874,WB0874,936.0
+Car_875,2022,First Owner,5,1800 CC,72 bhp,150 Nm,22,Diesel,94,Behala,Dumdum,264,14,537,Owner_875,WB0875,1503.0
+Car_876,2019,First Owner,5,1500 CC,149 bhp,150 Nm,12,Petrol,100,Salt Lake,Salt Lake,217,19,869,Owner_876,WB0876,1289.5
+Car_877,2018,Third Owner,4,2000 CC,138 bhp,150 Nm,17,Diesel,96,Dumdum,Howrah,104,16,749,Owner_877,WB0877,738.0
+Car_878,2016,Third Owner,7,1200 CC,79 bhp,150 Nm,13,Petrol,99,Behala,Salt Lake,180,17,709,Owner_878,WB0878,1063.0
+Car_879,2017,Second Owner,4,1200 CC,94 bhp,150 Nm,12,Diesel,99,Howrah,Salt Lake,259,18,1443,Owner_879,WB0879,1486.5
+Car_880,2017,First Owner,4,1500 CC,137 bhp,150 Nm,13,CNG,109,Behala,Park Street,199,8,1401,Owner_880,WB0880,1110.5
+Car_881,2018,First Owner,4,1800 CC,130 bhp,150 Nm,23,Petrol,91,Behala,Behala,208,9,668,Owner_881,WB0881,1192.0
+Car_882,2018,First Owner,5,1500 CC,98 bhp,150 Nm,17,Petrol,92,Park Street,Salt Lake,230,8,1426,Owner_882,WB0882,1364.0
+Car_883,2019,Second Owner,5,2000 CC,88 bhp,150 Nm,15,Petrol,97,Park Street,Dumdum,33,6,1169,Owner_883,WB0883,360.5
+Car_884,2018,Second Owner,5,1500 CC,112 bhp,150 Nm,17,Petrol,100,Behala,Behala,253,16,415,Owner_884,WB0884,1472.5
+Car_885,2022,Second Owner,7,1200 CC,135 bhp,150 Nm,23,CNG,102,Salt Lake,Dumdum,137,5,1005,Owner_885,WB0885,912.5
+Car_886,2020,Second Owner,4,2000 CC,143 bhp,150 Nm,20,Diesel,96,Park Street,Dumdum,102,12,1212,Owner_886,WB0886,760.0
+Car_887,2020,Second Owner,7,1200 CC,130 bhp,150 Nm,24,Petrol,102,Howrah,Behala,142,8,881,Owner_887,WB0887,994.0
+Car_888,2022,Third Owner,5,1800 CC,112 bhp,150 Nm,21,CNG,91,Dumdum,Behala,64,9,1294,Owner_888,WB0888,492.0
+Car_889,2021,First Owner,7,1200 CC,94 bhp,150 Nm,23,Petrol,95,Park Street,Dumdum,167,10,668,Owner_889,WB0889,940.5
+Car_890,2022,First Owner,4,1200 CC,89 bhp,150 Nm,21,Diesel,98,Behala,Park Street,38,18,813,Owner_890,WB0890,379.0
+Car_891,2016,First Owner,4,1500 CC,117 bhp,150 Nm,19,Petrol,109,Salt Lake,Howrah,220,12,424,Owner_891,WB0891,1271.0
+Car_892,2023,First Owner,5,1200 CC,93 bhp,150 Nm,12,CNG,91,Dumdum,Howrah,163,15,715,Owner_892,WB0892,949.5
+Car_893,2015,First Owner,5,2000 CC,80 bhp,150 Nm,24,Diesel,107,Park Street,Park Street,231,12,970,Owner_893,WB0893,1289.5
+Car_894,2022,First Owner,7,2000 CC,124 bhp,150 Nm,19,CNG,105,Salt Lake,Behala,124,11,1124,Owner_894,WB0894,891.0
+Car_895,2018,First Owner,5,1800 CC,97 bhp,150 Nm,20,Diesel,101,Salt Lake,Dumdum,167,8,1407,Owner_895,WB0895,969.5
+Car_896,2018,First Owner,5,2000 CC,138 bhp,150 Nm,17,Diesel,96,Salt Lake,Howrah,268,10,788,Owner_896,WB0896,1496.0
+Car_897,2019,Third Owner,4,1500 CC,132 bhp,150 Nm,21,Diesel,96,Behala,Dumdum,260,8,1121,Owner_897,WB0897,1464.0
+Car_898,2022,First Owner,5,1800 CC,128 bhp,150 Nm,16,Petrol,106,Howrah,Park Street,131,19,843,Owner_898,WB0898,917.5
+Car_899,2019,Third Owner,5,2000 CC,74 bhp,150 Nm,17,CNG,102,Salt Lake,Dumdum,272,18,1398,Owner_899,WB0899,1529.0
+Car_900,2022,Second Owner,4,1500 CC,120 bhp,150 Nm,24,CNG,100,Dumdum,Park Street,58,11,1480,Owner_900,WB0900,467.0
+Car_901,2015,First Owner,4,2000 CC,90 bhp,150 Nm,17,CNG,95,Park Street,Behala,86,16,1096,Owner_901,WB0901,690.0
+Car_902,2023,Second Owner,7,2000 CC,81 bhp,150 Nm,20,Diesel,103,Dumdum,Park Street,136,17,1370,Owner_902,WB0902,964.0
+Car_903,2020,Second Owner,5,1200 CC,119 bhp,150 Nm,15,Petrol,95,Behala,Park Street,206,16,1120,Owner_903,WB0903,1177.0
+Car_904,2017,Second Owner,4,2000 CC,73 bhp,150 Nm,13,Diesel,95,Behala,Howrah,230,19,767,Owner_904,WB0904,1283.0
+Car_905,2022,Third Owner,7,2000 CC,111 bhp,150 Nm,22,CNG,91,Dumdum,Dumdum,100,17,741,Owner_905,WB0905,843.0
+Car_906,2023,Second Owner,7,1500 CC,107 bhp,150 Nm,22,Petrol,109,Howrah,Howrah,17,17,703,Owner_906,WB0906,230.5
+Car_907,2020,Second Owner,5,1500 CC,94 bhp,150 Nm,20,Petrol,104,Behala,Salt Lake,41,15,1163,Owner_907,WB0907,362.5
+Car_908,2021,Second Owner,5,1200 CC,83 bhp,150 Nm,13,Petrol,106,Behala,Park Street,278,18,1215,Owner_908,WB0908,1606.0
+Car_909,2015,First Owner,7,2000 CC,144 bhp,150 Nm,21,CNG,97,Dumdum,Salt Lake,200,5,511,Owner_909,WB0909,1165.0
+Car_910,2019,First Owner,4,1200 CC,101 bhp,150 Nm,20,Petrol,94,Behala,Howrah,172,9,1277,Owner_910,WB0910,984.0
+Car_911,2019,Third Owner,7,2000 CC,80 bhp,150 Nm,13,Petrol,106,Howrah,Dumdum,70,19,1429,Owner_911,WB0911,542.0
+Car_912,2018,Third Owner,5,1800 CC,130 bhp,150 Nm,23,Diesel,109,Howrah,Howrah,273,18,1329,Owner_912,WB0912,1570.5
+Car_913,2020,First Owner,4,1800 CC,87 bhp,150 Nm,19,Diesel,90,Howrah,Dumdum,294,14,1102,Owner_913,WB0913,1675.0
+Car_914,2021,Third Owner,4,1200 CC,96 bhp,150 Nm,20,Petrol,107,Park Street,Dumdum,104,16,1245,Owner_914,WB0914,707.0
+Car_915,2023,First Owner,7,1200 CC,124 bhp,150 Nm,23,Petrol,104,Howrah,Behala,50,19,1343,Owner_915,WB0915,445.0
+Car_916,2015,Second Owner,5,1200 CC,123 bhp,150 Nm,21,Diesel,94,Howrah,Park Street,158,14,678,Owner_916,WB0916,908.0
+Car_917,2020,Second Owner,7,1500 CC,144 bhp,150 Nm,20,Diesel,96,Park Street,Howrah,213,19,781,Owner_917,WB0917,1262.5
+Car_918,2021,Third Owner,7,1500 CC,90 bhp,150 Nm,21,Diesel,107,Salt Lake,Dumdum,276,8,412,Owner_918,WB0918,1544.0
+Car_919,2017,First Owner,7,1500 CC,113 bhp,150 Nm,20,CNG,95,Behala,Howrah,11,15,702,Owner_919,WB0919,94.5
+Car_920,2022,First Owner,4,1200 CC,74 bhp,150 Nm,13,CNG,94,Howrah,Howrah,187,11,559,Owner_920,WB0920,1124.5
+Car_921,2019,Third Owner,4,2000 CC,110 bhp,150 Nm,15,Diesel,108,Behala,Dumdum,203,17,553,Owner_921,WB0921,1195.5
+Car_922,2023,First Owner,5,1800 CC,128 bhp,150 Nm,18,Petrol,99,Dumdum,Salt Lake,205,13,1153,Owner_922,WB0922,1165.5
+Car_923,2019,Second Owner,5,1200 CC,123 bhp,150 Nm,23,Diesel,104,Behala,Park Street,258,9,580,Owner_923,WB0923,1504.0
+Car_924,2023,Third Owner,7,1500 CC,143 bhp,150 Nm,13,CNG,99,Park Street,Park Street,221,8,776,Owner_924,WB0924,1270.5
+Car_925,2018,Third Owner,7,1500 CC,91 bhp,150 Nm,12,Petrol,105,Behala,Behala,162,19,1175,Owner_925,WB0925,903.0
+Car_926,2023,First Owner,7,1200 CC,134 bhp,150 Nm,14,CNG,101,Behala,Behala,167,13,415,Owner_926,WB0926,973.5
+Car_927,2019,Third Owner,5,1200 CC,133 bhp,150 Nm,23,Petrol,107,Behala,Behala,148,9,652,Owner_927,WB0927,1027.0
+Car_928,2023,First Owner,4,1500 CC,140 bhp,150 Nm,15,CNG,90,Salt Lake,Park Street,230,13,1483,Owner_928,WB0928,1342.0
+Car_929,2017,First Owner,4,2000 CC,73 bhp,150 Nm,19,Petrol,105,Salt Lake,Salt Lake,282,12,430,Owner_929,WB0929,1606.0
+Car_930,2018,First Owner,7,1500 CC,134 bhp,150 Nm,17,Petrol,95,Dumdum,Park Street,163,8,1444,Owner_930,WB0930,923.5
+Car_931,2023,First Owner,7,1500 CC,84 bhp,150 Nm,22,Petrol,92,Park Street,Park Street,258,15,1130,Owner_931,WB0931,1482.0
+Car_932,2020,First Owner,7,1200 CC,145 bhp,150 Nm,13,Petrol,91,Behala,Park Street,288,15,688,Owner_932,WB0932,1654.0
+Car_933,2016,Third Owner,7,2000 CC,91 bhp,150 Nm,20,CNG,91,Behala,Park Street,285,11,897,Owner_933,WB0933,1648.5
+Car_934,2021,Second Owner,5,1500 CC,116 bhp,150 Nm,13,CNG,102,Behala,Salt Lake,11,9,947,Owner_934,WB0934,156.5
+Car_935,2016,Second Owner,4,1500 CC,115 bhp,150 Nm,24,Petrol,98,Behala,Behala,97,14,1360,Owner_935,WB0935,782.5
+Car_936,2016,Third Owner,7,1800 CC,83 bhp,150 Nm,23,Petrol,105,Salt Lake,Howrah,296,8,531,Owner_936,WB0936,1668.0
+Car_937,2015,Third Owner,5,1200 CC,119 bhp,150 Nm,16,CNG,94,Dumdum,Behala,139,9,1257,Owner_937,WB0937,1002.5
+Car_938,2017,Second Owner,7,1800 CC,89 bhp,150 Nm,23,Petrol,96,Howrah,Behala,87,9,920,Owner_938,WB0938,692.5
+Car_939,2020,Second Owner,7,1800 CC,119 bhp,150 Nm,15,Petrol,102,Park Street,Howrah,269,15,429,Owner_939,WB0939,1578.5
+Car_940,2022,Second Owner,4,1500 CC,102 bhp,150 Nm,24,Petrol,109,Behala,Park Street,250,19,1026,Owner_940,WB0940,1378.0
+Car_941,2023,Second Owner,7,1200 CC,128 bhp,150 Nm,18,Diesel,102,Dumdum,Salt Lake,150,13,403,Owner_941,WB0941,1031.0
+Car_942,2021,Second Owner,4,2000 CC,112 bhp,150 Nm,19,Petrol,96,Howrah,Salt Lake,237,16,908,Owner_942,WB0942,1332.5
+Car_943,2018,First Owner,4,1500 CC,148 bhp,150 Nm,16,Diesel,99,Dumdum,Behala,172,13,415,Owner_943,WB0943,1033.0
+Car_944,2020,Third Owner,4,2000 CC,81 bhp,150 Nm,21,Petrol,104,Salt Lake,Howrah,245,10,1396,Owner_944,WB0944,1430.5
+Car_945,2019,First Owner,5,2000 CC,109 bhp,150 Nm,16,CNG,95,Howrah,Dumdum,137,18,1355,Owner_945,WB0945,935.5
+Car_946,2022,Second Owner,5,1200 CC,89 bhp,150 Nm,13,Diesel,94,Dumdum,Park Street,209,8,662,Owner_946,WB0946,1204.5
+Car_947,2015,Second Owner,4,1800 CC,107 bhp,150 Nm,19,Diesel,91,Salt Lake,Behala,40,19,1488,Owner_947,WB0947,370.0
+Car_948,2015,Second Owner,7,1200 CC,72 bhp,150 Nm,13,Petrol,104,Dumdum,Salt Lake,147,6,664,Owner_948,WB0948,1042.5
+Car_949,2020,First Owner,4,2000 CC,97 bhp,150 Nm,21,Petrol,105,Dumdum,Howrah,30,18,777,Owner_949,WB0949,261.0
+Car_950,2016,First Owner,7,1500 CC,125 bhp,150 Nm,23,Diesel,108,Howrah,Howrah,243,7,1362,Owner_950,WB0950,1425.5
+Car_951,2019,Second Owner,4,2000 CC,82 bhp,150 Nm,17,CNG,98,Salt Lake,Behala,211,6,875,Owner_951,WB0951,1236.5
+Car_952,2015,First Owner,7,1500 CC,146 bhp,150 Nm,19,CNG,108,Behala,Dumdum,288,9,728,Owner_952,WB0952,1637.0
+Car_953,2021,First Owner,5,1500 CC,135 bhp,150 Nm,17,Petrol,96,Park Street,Salt Lake,140,10,837,Owner_953,WB0953,917.0
+Car_954,2015,Second Owner,7,1200 CC,106 bhp,150 Nm,15,CNG,93,Howrah,Behala,157,15,415,Owner_954,WB0954,917.5
+Car_955,2018,First Owner,4,2000 CC,118 bhp,150 Nm,24,CNG,92,Salt Lake,Dumdum,38,9,1267,Owner_955,WB0955,391.0
+Car_956,2023,Third Owner,5,1800 CC,135 bhp,150 Nm,15,Petrol,109,Dumdum,Howrah,171,6,910,Owner_956,WB0956,983.5
+Car_957,2015,Third Owner,7,2000 CC,105 bhp,150 Nm,17,CNG,100,Salt Lake,Park Street,70,16,1383,Owner_957,WB0957,537.0
+Car_958,2018,Third Owner,7,2000 CC,123 bhp,150 Nm,24,Petrol,90,Park Street,Salt Lake,134,9,980,Owner_958,WB0958,963.0
+Car_959,2020,Third Owner,7,1800 CC,95 bhp,150 Nm,15,Diesel,95,Park Street,Salt Lake,80,13,405,Owner_959,WB0959,619.0
+Car_960,2020,Second Owner,7,1200 CC,144 bhp,150 Nm,19,Petrol,100,Behala,Dumdum,252,8,1418,Owner_960,WB0960,1463.0
+Car_961,2022,Second Owner,7,2000 CC,141 bhp,150 Nm,20,Diesel,90,Behala,Behala,258,16,1206,Owner_961,WB0961,1450.0
+Car_962,2015,Second Owner,5,2000 CC,109 bhp,150 Nm,12,Diesel,96,Park Street,Howrah,230,14,1018,Owner_962,WB0962,1324.0
+Car_963,2021,Third Owner,5,1500 CC,112 bhp,150 Nm,24,CNG,95,Howrah,Dumdum,30,6,804,Owner_963,WB0963,304.0
+Car_964,2015,Third Owner,5,2000 CC,91 bhp,150 Nm,15,CNG,103,Howrah,Park Street,91,7,1396,Owner_964,WB0964,708.5
+Car_965,2021,First Owner,5,1800 CC,89 bhp,150 Nm,15,CNG,91,Dumdum,Park Street,19,7,993,Owner_965,WB0965,185.5
+Car_966,2017,First Owner,4,1500 CC,77 bhp,150 Nm,13,Petrol,93,Behala,Park Street,21,13,965,Owner_966,WB0966,229.5
+Car_967,2022,Third Owner,5,1200 CC,98 bhp,150 Nm,17,CNG,100,Dumdum,Dumdum,272,8,1151,Owner_967,WB0967,1563.0
+Car_968,2017,Third Owner,7,1500 CC,109 bhp,150 Nm,14,Diesel,104,Behala,Howrah,154,19,411,Owner_968,WB0968,867.0
+Car_969,2015,Third Owner,7,1800 CC,99 bhp,150 Nm,18,CNG,107,Park Street,Salt Lake,201,5,564,Owner_969,WB0969,1122.5
+Car_970,2022,Third Owner,5,1800 CC,124 bhp,150 Nm,24,CNG,90,Howrah,Behala,259,5,1277,Owner_970,WB0970,1462.5
+Car_971,2017,First Owner,7,1500 CC,85 bhp,150 Nm,22,Petrol,92,Howrah,Salt Lake,123,19,477,Owner_971,WB0971,813.5
+Car_972,2016,Third Owner,5,1200 CC,115 bhp,150 Nm,22,Petrol,92,Park Street,Howrah,35,11,1013,Owner_972,WB0972,349.5
+Car_973,2015,First Owner,7,1500 CC,131 bhp,150 Nm,16,Diesel,96,Dumdum,Salt Lake,280,11,1268,Owner_973,WB0973,1577.0
+Car_974,2017,Third Owner,4,1200 CC,76 bhp,150 Nm,15,Petrol,90,Dumdum,Dumdum,42,6,1211,Owner_974,WB0974,404.0
+Car_975,2016,Third Owner,4,1500 CC,149 bhp,150 Nm,16,CNG,100,Salt Lake,Park Street,71,13,1471,Owner_975,WB0975,583.5
+Car_976,2016,Third Owner,5,1800 CC,114 bhp,150 Nm,19,Petrol,95,Behala,Howrah,238,13,1166,Owner_976,WB0976,1396.0
+Car_977,2020,First Owner,5,2000 CC,128 bhp,150 Nm,14,Diesel,109,Dumdum,Howrah,104,9,481,Owner_977,WB0977,747.0
+Car_978,2015,First Owner,5,2000 CC,125 bhp,150 Nm,18,CNG,92,Park Street,Salt Lake,44,19,608,Owner_978,WB0978,401.0
+Car_979,2016,Second Owner,7,1200 CC,117 bhp,150 Nm,17,Diesel,108,Dumdum,Dumdum,202,19,921,Owner_979,WB0979,1195.0
+Car_980,2020,Third Owner,5,1200 CC,96 bhp,150 Nm,23,Petrol,91,Howrah,Salt Lake,85,7,1452,Owner_980,WB0980,652.5
+Car_981,2017,Second Owner,4,1200 CC,122 bhp,150 Nm,12,Petrol,107,Behala,Salt Lake,258,7,1393,Owner_981,WB0981,1434.0
+Car_982,2018,Second Owner,7,1800 CC,142 bhp,150 Nm,24,Diesel,101,Salt Lake,Howrah,92,16,864,Owner_982,WB0982,724.0
+Car_983,2015,First Owner,5,1500 CC,104 bhp,150 Nm,18,CNG,99,Behala,Salt Lake,34,7,1027,Owner_983,WB0983,305.0
+Car_984,2022,First Owner,7,1800 CC,120 bhp,150 Nm,24,Petrol,94,Howrah,Park Street,66,10,1180,Owner_984,WB0984,567.0
+Car_985,2021,Second Owner,7,2000 CC,106 bhp,150 Nm,18,Petrol,98,Howrah,Salt Lake,41,8,958,Owner_985,WB0985,446.5
+Car_986,2021,Third Owner,5,1200 CC,126 bhp,150 Nm,23,CNG,91,Howrah,Park Street,21,12,1359,Owner_986,WB0986,229.5
+Car_987,2017,First Owner,7,1500 CC,77 bhp,150 Nm,12,Petrol,91,Howrah,Howrah,101,19,490,Owner_987,WB0987,748.5
+Car_988,2017,Third Owner,4,2000 CC,148 bhp,150 Nm,20,Diesel,95,Park Street,Dumdum,10,17,1476,Owner_988,WB0988,166.0
+Car_989,2016,Third Owner,4,2000 CC,89 bhp,150 Nm,17,Petrol,99,Salt Lake,Park Street,145,15,1259,Owner_989,WB0989,953.5
+Car_990,2015,Second Owner,7,2000 CC,122 bhp,150 Nm,23,Petrol,107,Howrah,Dumdum,205,17,955,Owner_990,WB0990,1209.5
+Car_991,2021,Second Owner,5,1800 CC,81 bhp,150 Nm,13,CNG,101,Howrah,Dumdum,142,15,555,Owner_991,WB0991,970.0
+Car_992,2021,Second Owner,7,1200 CC,118 bhp,150 Nm,16,Diesel,93,Dumdum,Park Street,95,15,401,Owner_992,WB0992,733.5
+Car_993,2016,Second Owner,4,2000 CC,86 bhp,150 Nm,24,CNG,106,Salt Lake,Howrah,288,9,1224,Owner_993,WB0993,1632.0
+Car_994,2021,First Owner,7,1200 CC,133 bhp,150 Nm,22,Petrol,104,Behala,Behala,189,5,1201,Owner_994,WB0994,1090.5
+Car_995,2022,First Owner,7,1800 CC,111 bhp,150 Nm,15,Petrol,95,Salt Lake,Dumdum,13,13,1382,Owner_995,WB0995,188.5
+Car_996,2015,Second Owner,4,2000 CC,98 bhp,150 Nm,18,CNG,105,Salt Lake,Dumdum,135,5,1481,Owner_996,WB0996,877.5
+Car_997,2023,First Owner,7,1800 CC,88 bhp,150 Nm,19,CNG,106,Salt Lake,Howrah,184,10,892,Owner_997,WB0997,1077.0
+Car_998,2021,Second Owner,7,1800 CC,80 bhp,150 Nm,22,CNG,92,Howrah,Howrah,260,5,1068,Owner_998,WB0998,1493.0
+Car_999,2017,Third Owner,5,1200 CC,119 bhp,150 Nm,22,Diesel,99,Howrah,Salt Lake,30,7,1458,Owner_999,WB0999,262.0

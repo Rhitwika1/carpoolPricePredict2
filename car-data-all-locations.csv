@@ -1,0 +1,1657 @@
+Car_Name,pickup location,drop location,travelling distance(km),fuel type,fuel price,seats,Year of buying,owner,price,engine,max_power,torque,mileage(kmph)
+Swift Dzire,Ballygunge,Dumdum,14.27,Diesel,95,4,2020,Priya Sen,212,1248 CC,99 bhp,209 Nm,18
+Swift Dzire,Ballygunge,Garia,9.1,Diesel,95,5,2017,Rohit Menon,136,1493 CC,110 bhp,227 Nm,15
+Swift Dzire,Ballygunge,Howrah,9.71,Petrol,95,6,2021,Vikram Sinha,203,1493 CC,110 bhp,194 Nm,18
+Honda City,Ballygunge,Salt Lake,9.67,Petrol,98,4,2012,Aarav Singh,139,1197 CC,140 bhp,203 Nm,15
+Swift Dzire,Ballygunge,Park Street,4.05,LPG,98,6,2017,Vikram Sinha,123,1591 CC,125 bhp,213 Nm,18
+Swift Dzire,Ballygunge,Jadavpur,3.04,LPG,98,7,2014,Aarav Singh,47,1197 CC,74 bhp,196 Nm,22
+Honda City,Ballygunge,Tollygunge,3.81,LPG,99,7,2021,Aarav Singh,75,1591 CC,74 bhp,242 Nm,22
+Honda City,Ballygunge,Behala,6.99,Petrol,98,5,2013,Vikram Sinha,93,1591 CC,125 bhp,163 Nm,18
+Honda City,Ballygunge,Esplanade,5.04,Diesel,99,7,2022,Aarav Singh,156,1493 CC,83 bhp,171 Nm,22
+XUV500,Ballygunge,Shyambazar,10.09,LPG,108,4,2017,Priya Sen,171,1591 CC,125 bhp,159 Nm,15
+Honda City,Ballygunge,Lake Town,9.94,CNG,99,5,2022,Rohit Menon,189,1591 CC,74 bhp,194 Nm,18
+Hyundai i10,Ballygunge,Kasba,1.73,LPG,108,5,2021,Rohit Menon,47,1197 CC,140 bhp,239 Nm,20
+Hyundai i10,Ballygunge,Barasat,24.71,LPG,108,6,2012,Sneha Das,244,1248 CC,83 bhp,229 Nm,18
+XUV500,Ballygunge,Baguiati,11.64,LPG,108,5,2016,Neha Patel,225,1248 CC,99 bhp,133 Nm,18
+Hyundai i10,Ballygunge,Newtown,13.76,LPG,95,4,2016,Vikram Sinha,144,1493 CC,140 bhp,181 Nm,22
+Hyundai i10,Ballygunge,Cossipore,11.94,CNG,95,7,2013,Vikram Sinha,136,1248 CC,83 bhp,156 Nm,15
+WagonR,Ballygunge,Alipore,4.12,Petrol,108,7,2018,Sneha Das,63,1493 CC,74 bhp,229 Nm,18
+Hyundai i10,Ballygunge,Kankurgachi,5.76,Diesel,108,6,2020,Sneha Das,75,1248 CC,83 bhp,130 Nm,18
+WagonR,Ballygunge,Sodepur,19.68,Petrol,108,4,2020,Priya Sen,242,1197 CC,74 bhp,184 Nm,22
+Swift Dzire,Ballygunge,Baranagar,15.44,Petrol,95,7,2020,Priya Sen,234,1591 CC,140 bhp,159 Nm,22
+Creta,Ballygunge,Bandel,44.61,LPG,95,5,2022,Rohit Menon,389,1248 CC,99 bhp,139 Nm,15
+Hyundai i10,Ballygunge,Serampore,25.74,CNG,95,4,2021,Vikram Sinha,264,1493 CC,99 bhp,193 Nm,22
+XUV500,Ballygunge,Beliaghata,5.02,Diesel,98,4,2017,Sneha Das,107,1248 CC,140 bhp,171 Nm,15
+WagonR,Dumdum,Ballygunge,14.27,Petrol,98,4,2019,Neha Patel,232,1493 CC,74 bhp,163 Nm,18
+Creta,Dumdum,Garia,20.61,Petrol,99,6,2014,Neha Patel,255,1248 CC,110 bhp,218 Nm,15
+Hyundai i10,Dumdum,Howrah,14.47,LPG,108,7,2017,Priya Sen,204,1798 CC,110 bhp,179 Nm,22
+Swift Dzire,Dumdum,Salt Lake,5.62,CNG,99,7,2017,Sneha Das,157,1197 CC,110 bhp,160 Nm,22
+Swift Dzire,Dumdum,Park Street,12.94,CNG,108,5,2018,Aarav Singh,172,1197 CC,74 bhp,201 Nm,22
+Honda City,Dumdum,Jadavpur,17.03,LPG,95,4,2020,Vikram Sinha,246,1591 CC,74 bhp,241 Nm,22
+Hyundai i10,Dumdum,Tollygunge,17.86,CNG,95,4,2020,Aarav Singh,198,1798 CC,110 bhp,212 Nm,20
+Hyundai i10,Dumdum,Behala,20.16,LPG,99,4,2012,Neha Patel,303,1197 CC,74 bhp,188 Nm,20
+Honda City,Dumdum,Esplanade,12.19,Diesel,108,7,2021,Aarav Singh,127,1197 CC,99 bhp,206 Nm,20
+Swift Dzire,Dumdum,Shyambazar,7.48,Diesel,98,7,2019,Vikram Sinha,88,1591 CC,125 bhp,245 Nm,15
+Honda City,Dumdum,Lake Town,4.92,Diesel,95,7,2022,Neha Patel,115,1493 CC,110 bhp,187 Nm,15
+WagonR,Dumdum,Kasba,13.69,Petrol,95,7,2013,Neha Patel,179,1493 CC,74 bhp,206 Nm,22
+Creta,Dumdum,Barasat,10.52,Diesel,99,5,2014,Neha Patel,177,1591 CC,110 bhp,186 Nm,15
+Honda City,Dumdum,Baguiati,2.65,Petrol,98,7,2020,Vikram Sinha,97,1197 CC,99 bhp,241 Nm,20
+Honda City,Dumdum,Newtown,5.52,Diesel,108,6,2015,Aarav Singh,182,1248 CC,74 bhp,232 Nm,20
+Honda City,Dumdum,Cossipore,8.3,LPG,95,6,2019,Neha Patel,107,1591 CC,99 bhp,245 Nm,22
+XUV500,Dumdum,Alipore,15.5,Petrol,98,7,2021,Vikram Sinha,276,1493 CC,110 bhp,192 Nm,20
+Honda City,Dumdum,Kankurgachi,8.98,LPG,99,4,2022,Rohit Menon,196,1493 CC,74 bhp,203 Nm,20
+Swift Dzire,Dumdum,Sodepur,10.35,Petrol,95,4,2017,Neha Patel,161,1798 CC,140 bhp,244 Nm,18
+Creta,Dumdum,Baranagar,7.3,CNG,98,6,2019,Sneha Das,96,1591 CC,83 bhp,187 Nm,20
+Swift Dzire,Dumdum,Bandel,32.91,CNG,95,5,2017,Rohit Menon,311,1197 CC,110 bhp,157 Nm,15
+Hyundai i10,Dumdum,Serampore,16.91,CNG,99,6,2014,Rohit Menon,269,1591 CC,110 bhp,181 Nm,18
+Swift Dzire,Dumdum,Beliaghata,9.29,LPG,98,6,2020,Aarav Singh,103,1197 CC,140 bhp,211 Nm,20
+WagonR,Garia,Ballygunge,9.1,CNG,95,7,2019,Rohit Menon,135,1591 CC,140 bhp,189 Nm,18
+Creta,Garia,Dumdum,20.61,LPG,99,4,2021,Neha Patel,201,1798 CC,74 bhp,177 Nm,22
+Creta,Garia,Howrah,18.67,Petrol,95,4,2012,Neha Patel,265,1798 CC,99 bhp,145 Nm,15
+Swift Dzire,Garia,Salt Lake,17.53,CNG,98,5,2014,Priya Sen,195,1591 CC,99 bhp,184 Nm,20
+XUV500,Garia,Park Street,13.13,LPG,108,5,2016,Vikram Sinha,198,1798 CC,110 bhp,181 Nm,18
+WagonR,Garia,Jadavpur,6.66,Petrol,98,4,2015,Rohit Menon,160,1197 CC,140 bhp,230 Nm,18
+Honda City,Garia,Tollygunge,9.2,Diesel,108,7,2018,Rohit Menon,142,1197 CC,99 bhp,212 Nm,15
+Swift Dzire,Garia,Behala,12.16,Petrol,98,7,2016,Rohit Menon,144,1197 CC,110 bhp,144 Nm,20
+Creta,Garia,Esplanade,14.14,Petrol,95,7,2017,Neha Patel,200,1493 CC,140 bhp,166 Nm,15
+Creta,Garia,Shyambazar,18.62,CNG,98,7,2012,Neha Patel,235,1197 CC,140 bhp,161 Nm,15
+Hyundai i10,Garia,Lake Town,17.49,Petrol,108,6,2015,Rohit Menon,173,1591 CC,140 bhp,225 Nm,22
+Honda City,Garia,Kasba,8.23,LPG,99,4,2017,Priya Sen,105,1197 CC,74 bhp,188 Nm,20
+Honda City,Garia,Barasat,30.98,Diesel,95,5,2015,Neha Patel,340,1248 CC,83 bhp,222 Nm,18
+Creta,Garia,Baguiati,18.31,Diesel,108,4,2013,Vikram Sinha,185,1798 CC,110 bhp,221 Nm,20
+Honda City,Garia,Newtown,17.71,Diesel,108,6,2021,Priya Sen,184,1493 CC,99 bhp,229 Nm,20
+Honda City,Garia,Cossipore,20.65,LPG,108,4,2017,Vikram Sinha,266,1591 CC,83 bhp,225 Nm,20
+WagonR,Garia,Alipore,12.48,CNG,95,6,2012,Rohit Menon,196,1248 CC,99 bhp,211 Nm,15
+Hyundai i10,Garia,Kankurgachi,14.02,Diesel,108,7,2017,Priya Sen,150,1493 CC,140 bhp,242 Nm,15
+Hyundai i10,Garia,Sodepur,28.08,CNG,98,5,2012,Neha Patel,311,1248 CC,140 bhp,219 Nm,20
+XUV500,Garia,Baranagar,23.78,Petrol,108,4,2014,Rohit Menon,259,1197 CC,110 bhp,233 Nm,15
+Swift Dzire,Garia,Bandel,52.78,CNG,108,7,2022,Rohit Menon,539,1197 CC,140 bhp,204 Nm,18
+XUV500,Garia,Serampore,34.43,Petrol,99,4,2018,Priya Sen,425,1591 CC,83 bhp,240 Nm,20
+Creta,Garia,Beliaghata,12.77,LPG,99,6,2015,Aarav Singh,220,1248 CC,110 bhp,240 Nm,18
+WagonR,Howrah,Ballygunge,9.71,LPG,95,6,2012,Vikram Sinha,145,1197 CC,110 bhp,139 Nm,20
+Honda City,Howrah,Dumdum,14.47,LPG,108,5,2019,Vikram Sinha,145,1493 CC,99 bhp,165 Nm,18
+Creta,Howrah,Garia,18.67,LPG,95,7,2022,Sneha Das,197,1493 CC,140 bhp,197 Nm,18
+XUV500,Howrah,Salt Lake,9.03,Petrol,98,6,2021,Sneha Das,147,1197 CC,140 bhp,203 Nm,15
+Honda City,Howrah,Park Street,5.73,LPG,108,7,2015,Priya Sen,71,1493 CC,125 bhp,225 Nm,15
+XUV500,Howrah,Jadavpur,12.08,Diesel,95,6,2014,Aarav Singh,176,1248 CC,125 bhp,223 Nm,20
+XUV500,Howrah,Tollygunge,10.24,Petrol,99,7,2021,Neha Patel,124,1248 CC,83 bhp,201 Nm,22
+XUV500,Howrah,Behala,9.73,Diesel,108,4,2022,Vikram Sinha,137,1493 CC,125 bhp,148 Nm,18
+WagonR,Howrah,Esplanade,5.02,LPG,98,6,2017,Sneha Das,131,1591 CC,110 bhp,240 Nm,15
+Hyundai i10,Howrah,Shyambazar,7.01,CNG,95,6,2018,Vikram Sinha,134,1197 CC,99 bhp,193 Nm,22
+Honda City,Howrah,Lake Town,9.83,CNG,99,6,2013,Sneha Das,215,1798 CC,125 bhp,210 Nm,22
+Honda City,Howrah,Kasba,11.06,LPG,95,4,2017,Vikram Sinha,159,1493 CC,140 bhp,144 Nm,20
+Hyundai i10,Howrah,Barasat,22.78,Petrol,99,4,2020,Rohit Menon,304,1493 CC,125 bhp,233 Nm,18
+Hyundai i10,Howrah,Baguiati,12.34,Petrol,98,6,2015,Neha Patel,189,1798 CC,110 bhp,203 Nm,22
+Hyundai i10,Howrah,Newtown,17.38,CNG,108,6,2018,Neha Patel,208,1493 CC,125 bhp,247 Nm,15
+XUV500,Howrah,Cossipore,6.99,Diesel,98,7,2020,Sneha Das,159,1248 CC,110 bhp,188 Nm,18
+Hyundai i10,Howrah,Alipore,6.38,CNG,98,5,2019,Vikram Sinha,142,1197 CC,99 bhp,243 Nm,20
+Swift Dzire,Howrah,Kankurgachi,7.78,Petrol,98,7,2017,Neha Patel,183,1248 CC,110 bhp,155 Nm,15
+Honda City,Howrah,Sodepur,13.87,LPG,95,7,2013,Neha Patel,200,1197 CC,125 bhp,245 Nm,15
+XUV500,Howrah,Baranagar,10.7,CNG,95,5,2016,Rohit Menon,140,1591 CC,140 bhp,219 Nm,18
+Honda City,Howrah,Bandel,37.97,CNG,108,5,2021,Neha Patel,302,1248 CC,83 bhp,228 Nm,15
+XUV500,Howrah,Serampore,18.45,Petrol,99,6,2022,Neha Patel,187,1798 CC,110 bhp,197 Nm,15
+WagonR,Howrah,Beliaghata,8.96,Petrol,99,6,2012,Neha Patel,190,1197 CC,83 bhp,182 Nm,18
+Hyundai i10,Salt Lake,Ballygunge,9.67,Diesel,99,4,2013,Aarav Singh,157,1798 CC,99 bhp,143 Nm,15
+Hyundai i10,Salt Lake,Dumdum,5.62,CNG,108,6,2014,Aarav Singh,142,1197 CC,99 bhp,188 Nm,18
+XUV500,Salt Lake,Garia,17.53,Diesel,95,5,2015,Priya Sen,281,1798 CC,110 bhp,219 Nm,20
+Creta,Salt Lake,Howrah,9.03,Diesel,98,7,2018,Rohit Menon,200,1248 CC,74 bhp,185 Nm,20
+WagonR,Salt Lake,Park Street,7.53,Petrol,99,4,2019,Priya Sen,116,1248 CC,83 bhp,190 Nm,20
+XUV500,Salt Lake,Jadavpur,12.67,Petrol,98,6,2020,Neha Patel,126,1248 CC,110 bhp,229 Nm,22
+XUV500,Salt Lake,Tollygunge,12.9,CNG,98,6,2015,Aarav Singh,154,1493 CC,110 bhp,174 Nm,22
+Honda City,Salt Lake,Behala,14.81,Petrol,108,6,2021,Priya Sen,191,1493 CC,110 bhp,173 Nm,20
+WagonR,Salt Lake,Esplanade,6.67,CNG,99,7,2016,Rohit Menon,142,1197 CC,140 bhp,146 Nm,20
+WagonR,Salt Lake,Shyambazar,2.46,CNG,99,6,2020,Sneha Das,77,1197 CC,99 bhp,159 Nm,15
+Swift Dzire,Salt Lake,Lake Town,0.82,LPG,108,6,2018,Aarav Singh,60,1248 CC,83 bhp,143 Nm,18
+Honda City,Salt Lake,Kasba,9.61,Diesel,98,6,2022,Aarav Singh,196,1493 CC,99 bhp,218 Nm,20
+XUV500,Salt Lake,Barasat,15.36,CNG,98,7,2021,Rohit Menon,177,1248 CC,140 bhp,144 Nm,20
+Hyundai i10,Salt Lake,Baguiati,3.32,LPG,98,6,2021,Rohit Menon,61,1248 CC,140 bhp,196 Nm,22
+Hyundai i10,Salt Lake,Newtown,8.62,LPG,108,4,2015,Neha Patel,175,1248 CC,99 bhp,201 Nm,18
+Creta,Salt Lake,Cossipore,4.32,Diesel,95,6,2022,Neha Patel,149,1798 CC,99 bhp,211 Nm,15
+Hyundai i10,Salt Lake,Alipore,10.09,LPG,99,7,2018,Vikram Sinha,140,1197 CC,99 bhp,195 Nm,22
+XUV500,Salt Lake,Kankurgachi,3.92,Diesel,99,5,2015,Vikram Sinha,157,1248 CC,125 bhp,218 Nm,22
+Creta,Salt Lake,Sodepur,10.62,CNG,108,7,2021,Neha Patel,200,1248 CC,140 bhp,178 Nm,22
+XUV500,Salt Lake,Baranagar,6.34,CNG,95,7,2015,Rohit Menon,80,1798 CC,83 bhp,165 Nm,18
+Swift Dzire,Salt Lake,Bandel,35.28,LPG,108,6,2016,Neha Patel,431,1197 CC,74 bhp,139 Nm,22
+Swift Dzire,Salt Lake,Serampore,17.16,Petrol,95,7,2021,Neha Patel,190,1493 CC,74 bhp,141 Nm,15
+Hyundai i10,Salt Lake,Beliaghata,4.84,Petrol,108,5,2017,Neha Patel,142,1798 CC,99 bhp,168 Nm,22
+WagonR,Park Street,Ballygunge,4.05,Petrol,95,5,2012,Neha Patel,117,1248 CC,125 bhp,199 Nm,22
+Creta,Park Street,Dumdum,12.94,Petrol,99,6,2013,Vikram Sinha,169,1197 CC,99 bhp,147 Nm,22
+Hyundai i10,Park Street,Garia,13.13,LPG,95,5,2019,Neha Patel,166,1493 CC,140 bhp,150 Nm,18
+XUV500,Park Street,Howrah,5.73,CNG,99,4,2017,Priya Sen,183,1798 CC,99 bhp,146 Nm,20
+Hyundai i10,Park Street,Salt Lake,7.53,LPG,108,5,2020,Sneha Das,147,1248 CC,110 bhp,184 Nm,20
+Honda City,Park Street,Jadavpur,6.75,LPG,99,4,2017,Neha Patel,176,1798 CC,110 bhp,222 Nm,20
+Hyundai i10,Park Street,Tollygunge,5.81,Petrol,95,6,2022,Aarav Singh,106,1197 CC,83 bhp,185 Nm,18
+WagonR,Park Street,Behala,7.28,LPG,99,5,2013,Rohit Menon,79,1197 CC,83 bhp,192 Nm,22
+WagonR,Park Street,Esplanade,1.13,Diesel,99,7,2022,Priya Sen,120,1591 CC,110 bhp,138 Nm,20
+Hyundai i10,Park Street,Shyambazar,7.05,LPG,99,4,2021,Aarav Singh,78,1493 CC,125 bhp,176 Nm,18
+Creta,Park Street,Lake Town,8.08,LPG,98,7,2018,Priya Sen,159,1197 CC,140 bhp,228 Nm,22
+WagonR,Park Street,Kasba,5.33,Petrol,99,4,2013,Vikram Sinha,169,1591 CC,140 bhp,239 Nm,18
+Creta,Park Street,Barasat,22.87,LPG,108,7,2013,Vikram Sinha,220,1248 CC,74 bhp,153 Nm,22
+WagonR,Park Street,Baguiati,10.34,CNG,98,4,2021,Neha Patel,164,1798 CC,99 bhp,140 Nm,15
+XUV500,Park Street,Newtown,14.04,LPG,98,6,2016,Vikram Sinha,181,1493 CC,99 bhp,242 Nm,22
+XUV500,Park Street,Cossipore,8.56,LPG,108,6,2014,Priya Sen,122,1493 CC,110 bhp,133 Nm,18
+Honda City,Park Street,Alipore,2.56,Petrol,98,7,2022,Aarav Singh,94,1248 CC,125 bhp,217 Nm,20
+Swift Dzire,Park Street,Kankurgachi,4.06,LPG,99,7,2017,Priya Sen,87,1591 CC,74 bhp,209 Nm,22
+WagonR,Park Street,Sodepur,16.41,LPG,95,7,2018,Aarav Singh,254,1798 CC,99 bhp,156 Nm,22
+Honda City,Park Street,Baranagar,12.34,Petrol,95,4,2012,Rohit Menon,239,1197 CC,125 bhp,174 Nm,22
+WagonR,Park Street,Bandel,41.31,Diesel,108,7,2019,Rohit Menon,431,1493 CC,99 bhp,156 Nm,18
+WagonR,Park Street,Serampore,22.15,LPG,95,4,2019,Rohit Menon,324,1493 CC,74 bhp,139 Nm,15
+Hyundai i10,Park Street,Beliaghata,4.47,Petrol,95,6,2012,Neha Patel,139,1248 CC,99 bhp,235 Nm,20
+Hyundai i10,Jadavpur,Ballygunge,3.04,LPG,95,7,2018,Sneha Das,127,1197 CC,74 bhp,217 Nm,18
+Hyundai i10,Jadavpur,Dumdum,17.03,LPG,108,4,2020,Priya Sen,176,1197 CC,140 bhp,228 Nm,20
+Honda City,Jadavpur,Garia,6.66,LPG,95,6,2016,Priya Sen,91,1248 CC,110 bhp,148 Nm,22
+Hyundai i10,Jadavpur,Howrah,12.08,Diesel,98,6,2019,Vikram Sinha,149,1197 CC,74 bhp,132 Nm,22
+Hyundai i10,Jadavpur,Salt Lake,12.67,LPG,108,4,2021,Aarav Singh,154,1591 CC,140 bhp,233 Nm,15
+XUV500,Jadavpur,Park Street,6.75,LPG,99,4,2014,Aarav Singh,184,1591 CC,99 bhp,200 Nm,20
+Swift Dzire,Jadavpur,Tollygunge,2.92,Diesel,95,6,2017,Aarav Singh,141,1493 CC,140 bhp,150 Nm,22
+Swift Dzire,Jadavpur,Behala,6.43,CNG,99,4,2015,Vikram Sinha,149,1591 CC,125 bhp,134 Nm,18
+XUV500,Jadavpur,Esplanade,7.84,Diesel,99,7,2018,Priya Sen,96,1248 CC,125 bhp,182 Nm,22
+Hyundai i10,Jadavpur,Shyambazar,13.13,Diesel,95,6,2016,Aarav Singh,184,1798 CC,140 bhp,233 Nm,18
+WagonR,Jadavpur,Lake Town,12.89,Petrol,108,4,2016,Aarav Singh,152,1197 CC,74 bhp,244 Nm,18
+Creta,Jadavpur,Kasba,3.39,CNG,99,4,2012,Rohit Menon,146,1798 CC,140 bhp,211 Nm,15
+WagonR,Jadavpur,Barasat,27.53,Petrol,98,7,2018,Aarav Singh,283,1798 CC,83 bhp,189 Nm,18
+WagonR,Jadavpur,Baguiati,14.44,Diesel,98,7,2022,Sneha Das,174,1197 CC,125 bhp,191 Nm,15
+Creta,Jadavpur,Newtown,15.89,LPG,98,5,2015,Neha Patel,219,1798 CC,110 bhp,208 Nm,20
+WagonR,Jadavpur,Cossipore,14.96,Diesel,99,4,2019,Vikram Sinha,266,1248 CC,99 bhp,184 Nm,22
+XUV500,Jadavpur,Alipore,5.82,Petrol,95,6,2022,Rohit Menon,79,1493 CC,74 bhp,159 Nm,22
+Swift Dzire,Jadavpur,Kankurgachi,8.78,CNG,98,6,2016,Sneha Das,155,1798 CC,83 bhp,212 Nm,15
+Honda City,Jadavpur,Sodepur,22.72,Diesel,95,5,2019,Rohit Menon,227,1798 CC,74 bhp,147 Nm,15
+WagonR,Jadavpur,Baranagar,18.49,Diesel,95,4,2013,Neha Patel,252,1493 CC,99 bhp,143 Nm,18
+Hyundai i10,Jadavpur,Bandel,47.65,Diesel,108,4,2020,Sneha Das,532,1197 CC,83 bhp,178 Nm,22
+XUV500,Jadavpur,Serampore,28.74,LPG,95,7,2015,Priya Sen,339,1197 CC,140 bhp,197 Nm,18
+XUV500,Jadavpur,Beliaghata,7.92,Petrol,108,5,2014,Aarav Singh,138,1493 CC,125 bhp,148 Nm,15
+Hyundai i10,Tollygunge,Ballygunge,3.81,LPG,95,5,2013,Rohit Menon,109,1197 CC,74 bhp,209 Nm,18
+Swift Dzire,Tollygunge,Dumdum,17.86,Petrol,95,7,2012,Neha Patel,220,1197 CC,110 bhp,214 Nm,22
+Hyundai i10,Tollygunge,Garia,9.2,Diesel,98,4,2018,Rohit Menon,123,1197 CC,99 bhp,210 Nm,15
+Creta,Tollygunge,Howrah,10.24,LPG,98,4,2021,Neha Patel,178,1493 CC,110 bhp,141 Nm,22
+WagonR,Tollygunge,Salt Lake,12.9,Petrol,98,7,2020,Aarav Singh,199,1591 CC,74 bhp,199 Nm,18
+XUV500,Tollygunge,Park Street,5.81,Diesel,95,5,2019,Aarav Singh,100,1493 CC,110 bhp,230 Nm,18
+Hyundai i10,Tollygunge,Jadavpur,2.92,LPG,95,6,2012,Priya Sen,144,1197 CC,110 bhp,151 Nm,22
+Honda City,Tollygunge,Behala,3.56,CNG,108,5,2021,Rohit Menon,85,1493 CC,74 bhp,134 Nm,20
+XUV500,Tollygunge,Esplanade,6.93,LPG,108,6,2017,Neha Patel,92,1591 CC,74 bhp,173 Nm,15
+Hyundai i10,Tollygunge,Shyambazar,12.8,Petrol,95,6,2022,Priya Sen,159,1197 CC,125 bhp,143 Nm,18
+Swift Dzire,Tollygunge,Lake Town,13.29,LPG,108,7,2022,Aarav Singh,171,1197 CC,125 bhp,209 Nm,18
+Swift Dzire,Tollygunge,Kasba,5.17,LPG,98,5,2013,Vikram Sinha,155,1591 CC,125 bhp,222 Nm,18
+Honda City,Tollygunge,Barasat,28.18,Diesel,98,5,2015,Vikram Sinha,360,1798 CC,83 bhp,242 Nm,20
+Creta,Tollygunge,Baguiati,15.21,CNG,95,7,2013,Priya Sen,202,1493 CC,99 bhp,207 Nm,20
+Creta,Tollygunge,Newtown,17.56,LPG,98,5,2016,Neha Patel,244,1248 CC,125 bhp,205 Nm,18
+Swift Dzire,Tollygunge,Cossipore,14.37,Petrol,99,6,2020,Aarav Singh,210,1591 CC,99 bhp,185 Nm,20
+XUV500,Tollygunge,Alipore,3.9,LPG,108,7,2021,Rohit Menon,65,1493 CC,74 bhp,186 Nm,15
+XUV500,Tollygunge,Kankurgachi,9.02,LPG,98,7,2020,Priya Sen,131,1798 CC,140 bhp,225 Nm,22
+WagonR,Tollygunge,Sodepur,22.22,Diesel,98,5,2018,Neha Patel,246,1197 CC,125 bhp,230 Nm,20
+XUV500,Tollygunge,Baranagar,18.14,Diesel,95,7,2022,Priya Sen,253,1493 CC,125 bhp,210 Nm,20
+WagonR,Tollygunge,Bandel,47.1,Diesel,95,6,2013,Sneha Das,411,1591 CC,74 bhp,183 Nm,20
+Honda City,Tollygunge,Serampore,27.87,LPG,108,4,2019,Sneha Das,345,1798 CC,140 bhp,202 Nm,15
+Creta,Tollygunge,Beliaghata,8.59,LPG,98,4,2021,Sneha Das,118,1493 CC,110 bhp,208 Nm,20
+Honda City,Behala,Ballygunge,6.99,LPG,108,7,2022,Neha Patel,91,1798 CC,140 bhp,207 Nm,22
+Swift Dzire,Behala,Dumdum,20.16,LPG,95,5,2016,Vikram Sinha,225,1591 CC,99 bhp,197 Nm,22
+Swift Dzire,Behala,Garia,12.16,LPG,99,5,2022,Vikram Sinha,170,1248 CC,99 bhp,233 Nm,15
+XUV500,Behala,Howrah,9.73,CNG,108,4,2013,Aarav Singh,170,1493 CC,83 bhp,221 Nm,18
+Hyundai i10,Behala,Salt Lake,14.81,Diesel,95,7,2022,Vikram Sinha,216,1493 CC,74 bhp,208 Nm,20
+Creta,Behala,Park Street,7.28,CNG,95,7,2021,Rohit Menon,114,1197 CC,140 bhp,132 Nm,22
+WagonR,Behala,Jadavpur,6.43,Petrol,108,5,2021,Neha Patel,141,1248 CC,74 bhp,234 Nm,20
+XUV500,Behala,Tollygunge,3.56,CNG,98,6,2021,Rohit Menon,116,1197 CC,74 bhp,189 Nm,20
+Creta,Behala,Esplanade,8.22,Petrol,98,7,2012,Vikram Sinha,98,1248 CC,99 bhp,130 Nm,15
+WagonR,Behala,Shyambazar,14.15,CNG,95,6,2017,Sneha Das,255,1591 CC,140 bhp,222 Nm,22
+Creta,Behala,Lake Town,15.35,CNG,95,6,2012,Priya Sen,252,1591 CC,125 bhp,162 Nm,22
+Swift Dzire,Behala,Kasba,8.57,LPG,99,5,2012,Aarav Singh,181,1197 CC,74 bhp,144 Nm,18
+XUV500,Behala,Barasat,30.15,Petrol,99,6,2013,Rohit Menon,367,1248 CC,140 bhp,235 Nm,20
+WagonR,Behala,Baguiati,17.53,Diesel,95,4,2015,Rohit Menon,230,1248 CC,99 bhp,187 Nm,15
+Hyundai i10,Behala,Newtown,20.55,LPG,98,5,2012,Neha Patel,290,1493 CC,83 bhp,236 Nm,15
+Hyundai i10,Behala,Cossipore,15.32,LPG,108,6,2017,Neha Patel,169,1197 CC,74 bhp,150 Nm,20
+Creta,Behala,Alipore,4.73,CNG,95,5,2020,Vikram Sinha,128,1798 CC,110 bhp,190 Nm,18
+Swift Dzire,Behala,Kankurgachi,11.19,Petrol,98,4,2018,Aarav Singh,172,1591 CC,83 bhp,213 Nm,20
+Creta,Behala,Sodepur,23.03,Diesel,99,6,2015,Sneha Das,237,1798 CC,140 bhp,240 Nm,18
+Swift Dzire,Behala,Baranagar,19.23,CNG,95,7,2017,Rohit Menon,176,1493 CC,125 bhp,143 Nm,18
+Honda City,Behala,Bandel,47.59,Petrol,108,7,2013,Rohit Menon,463,1493 CC,74 bhp,191 Nm,15
+WagonR,Behala,Serampore,28.12,CNG,99,4,2022,Sneha Das,232,1798 CC,83 bhp,147 Nm,18
+XUV500,Behala,Beliaghata,11.14,Petrol,95,4,2020,Priya Sen,118,1197 CC,83 bhp,181 Nm,20
+Swift Dzire,Esplanade,Ballygunge,5.04,Petrol,98,4,2019,Priya Sen,150,1798 CC,74 bhp,232 Nm,20
+Hyundai i10,Esplanade,Dumdum,12.19,Diesel,99,5,2020,Neha Patel,219,1798 CC,125 bhp,227 Nm,15
+Hyundai i10,Esplanade,Garia,14.14,CNG,99,7,2016,Sneha Das,241,1493 CC,74 bhp,142 Nm,22
+Hyundai i10,Esplanade,Howrah,5.02,CNG,95,5,2021,Vikram Sinha,118,1197 CC,110 bhp,138 Nm,15
+XUV500,Esplanade,Salt Lake,6.67,LPG,95,4,2021,Priya Sen,150,1493 CC,74 bhp,167 Nm,22
+Creta,Esplanade,Park Street,1.13,Diesel,99,5,2019,Rohit Menon,73,1248 CC,110 bhp,158 Nm,18
+WagonR,Esplanade,Jadavpur,7.84,Diesel,108,4,2019,Vikram Sinha,159,1591 CC,74 bhp,217 Nm,18
+Honda City,Esplanade,Tollygunge,6.93,CNG,99,6,2019,Rohit Menon,156,1197 CC,74 bhp,235 Nm,22
+Swift Dzire,Esplanade,Behala,8.22,CNG,98,4,2017,Aarav Singh,135,1197 CC,74 bhp,174 Nm,22
+Hyundai i10,Esplanade,Shyambazar,5.99,Diesel,98,6,2013,Aarav Singh,87,1248 CC,110 bhp,140 Nm,22
+Honda City,Esplanade,Lake Town,7.28,Diesel,95,6,2020,Priya Sen,112,1248 CC,83 bhp,210 Nm,20
+Creta,Esplanade,Kasba,6.16,LPG,108,6,2014,Aarav Singh,136,1798 CC,83 bhp,232 Nm,18
+Hyundai i10,Esplanade,Barasat,21.96,Petrol,108,4,2021,Neha Patel,255,1798 CC,99 bhp,136 Nm,18
+Swift Dzire,Esplanade,Baguiati,9.64,Diesel,108,4,2013,Vikram Sinha,143,1493 CC,99 bhp,250 Nm,22
+Hyundai i10,Esplanade,Newtown,13.69,Diesel,98,4,2019,Sneha Das,117,1197 CC,110 bhp,161 Nm,15
+Honda City,Esplanade,Cossipore,7.44,CNG,98,6,2015,Neha Patel,118,1197 CC,83 bhp,181 Nm,20
+Creta,Esplanade,Alipore,3.5,LPG,98,7,2019,Sneha Das,119,1798 CC,110 bhp,167 Nm,22
+Honda City,Esplanade,Kankurgachi,3.58,LPG,98,7,2016,Rohit Menon,55,1493 CC,140 bhp,173 Nm,22
+Swift Dzire,Esplanade,Sodepur,15.29,LPG,108,6,2017,Neha Patel,196,1197 CC,99 bhp,147 Nm,18
+Creta,Esplanade,Baranagar,11.24,LPG,95,4,2015,Rohit Menon,130,1248 CC,140 bhp,141 Nm,18
+Swift Dzire,Esplanade,Bandel,40.18,Diesel,99,7,2020,Aarav Singh,479,1493 CC,74 bhp,211 Nm,22
+Hyundai i10,Esplanade,Serampore,21.01,LPG,98,7,2015,Priya Sen,207,1798 CC,110 bhp,196 Nm,15
+Honda City,Esplanade,Beliaghata,4.33,Petrol,99,4,2013,Aarav Singh,113,1493 CC,110 bhp,215 Nm,22
+Hyundai i10,Shyambazar,Ballygunge,10.09,CNG,98,5,2013,Aarav Singh,114,1248 CC,74 bhp,154 Nm,20
+WagonR,Shyambazar,Dumdum,7.48,Petrol,98,6,2020,Rohit Menon,176,1197 CC,99 bhp,173 Nm,15
+WagonR,Shyambazar,Garia,18.62,Petrol,108,4,2012,Priya Sen,179,1248 CC,110 bhp,204 Nm,15
+Creta,Shyambazar,Howrah,7.01,CNG,95,5,2018,Sneha Das,161,1798 CC,99 bhp,179 Nm,15
+Hyundai i10,Shyambazar,Salt Lake,2.46,Petrol,95,5,2021,Rohit Menon,68,1493 CC,110 bhp,195 Nm,20
+Swift Dzire,Shyambazar,Park Street,7.05,CNG,95,7,2012,Priya Sen,88,1798 CC,140 bhp,161 Nm,22
+WagonR,Shyambazar,Jadavpur,13.13,CNG,108,7,2013,Aarav Singh,171,1493 CC,74 bhp,177 Nm,22
+Hyundai i10,Shyambazar,Tollygunge,12.8,CNG,98,7,2013,Sneha Das,207,1591 CC,110 bhp,131 Nm,15
+Honda City,Shyambazar,Behala,14.15,Diesel,108,4,2017,Vikram Sinha,194,1591 CC,83 bhp,209 Nm,18
+WagonR,Shyambazar,Esplanade,5.99,Diesel,99,4,2014,Neha Patel,92,1591 CC,74 bhp,157 Nm,22
+Swift Dzire,Shyambazar,Lake Town,3.25,LPG,99,4,2018,Neha Patel,148,1493 CC,140 bhp,158 Nm,18
+XUV500,Shyambazar,Kasba,10.44,Diesel,98,5,2020,Neha Patel,163,1798 CC,110 bhp,199 Nm,15
+Creta,Shyambazar,Barasat,16.23,Petrol,95,6,2015,Sneha Das,203,1197 CC,83 bhp,245 Nm,20
+Swift Dzire,Shyambazar,Baguiati,5.56,Diesel,95,5,2022,Priya Sen,76,1493 CC,110 bhp,217 Nm,20
+WagonR,Shyambazar,Newtown,11.05,Petrol,108,4,2020,Priya Sen,123,1493 CC,74 bhp,193 Nm,20
+Honda City,Shyambazar,Cossipore,2.14,Diesel,108,5,2018,Vikram Sinha,76,1197 CC,83 bhp,180 Nm,18
+Creta,Shyambazar,Alipore,9.48,CNG,108,7,2014,Priya Sen,101,1248 CC,125 bhp,210 Nm,18
+Honda City,Shyambazar,Kankurgachi,4.6,Diesel,98,4,2022,Aarav Singh,144,1493 CC,110 bhp,199 Nm,15
+Hyundai i10,Shyambazar,Sodepur,9.6,Petrol,99,5,2018,Vikram Sinha,127,1248 CC,140 bhp,171 Nm,18
+Honda City,Shyambazar,Baranagar,5.37,Diesel,99,6,2016,Vikram Sinha,162,1798 CC,125 bhp,236 Nm,22
+XUV500,Shyambazar,Bandel,34.53,Petrol,98,5,2021,Priya Sen,395,1591 CC,99 bhp,161 Nm,20
+Hyundai i10,Shyambazar,Serampore,15.81,CNG,99,6,2022,Priya Sen,146,1493 CC,74 bhp,148 Nm,20
+Creta,Shyambazar,Beliaghata,5.93,Petrol,95,5,2017,Vikram Sinha,130,1248 CC,74 bhp,168 Nm,22
+Hyundai i10,Lake Town,Ballygunge,9.94,Diesel,95,5,2021,Sneha Das,135,1197 CC,140 bhp,132 Nm,20
+Hyundai i10,Lake Town,Dumdum,4.92,Petrol,99,7,2014,Priya Sen,154,1248 CC,125 bhp,138 Nm,18
+Hyundai i10,Lake Town,Garia,17.49,Diesel,99,4,2017,Sneha Das,176,1591 CC,99 bhp,236 Nm,20
+Creta,Lake Town,Howrah,9.83,CNG,95,7,2019,Neha Patel,181,1493 CC,140 bhp,169 Nm,22
+Honda City,Lake Town,Salt Lake,0.82,LPG,98,6,2021,Vikram Sinha,98,1248 CC,140 bhp,237 Nm,20
+Hyundai i10,Lake Town,Park Street,8.08,LPG,108,4,2022,Vikram Sinha,108,1798 CC,83 bhp,159 Nm,18
+Honda City,Lake Town,Jadavpur,12.89,Diesel,95,4,2020,Sneha Das,210,1248 CC,83 bhp,231 Nm,15
+Hyundai i10,Lake Town,Tollygunge,13.29,Petrol,99,4,2015,Vikram Sinha,129,1197 CC,125 bhp,231 Nm,22
+Swift Dzire,Lake Town,Behala,15.35,CNG,108,6,2014,Sneha Das,258,1493 CC,74 bhp,250 Nm,22
+Swift Dzire,Lake Town,Esplanade,7.28,Petrol,95,4,2022,Aarav Singh,193,1591 CC,110 bhp,135 Nm,20
+WagonR,Lake Town,Shyambazar,3.25,Diesel,95,7,2021,Priya Sen,141,1591 CC,99 bhp,230 Nm,15
+Creta,Lake Town,Kasba,9.74,Petrol,108,7,2018,Aarav Singh,203,1798 CC,110 bhp,147 Nm,22
+Creta,Lake Town,Barasat,14.89,LPG,108,6,2021,Priya Sen,166,1493 CC,99 bhp,194 Nm,20
+WagonR,Lake Town,Baguiati,2.52,Petrol,99,7,2021,Rohit Menon,87,1798 CC,74 bhp,243 Nm,15
+WagonR,Lake Town,Newtown,7.81,Diesel,95,5,2015,Priya Sen,184,1493 CC,140 bhp,161 Nm,22
+WagonR,Lake Town,Cossipore,4.99,Petrol,95,4,2013,Neha Patel,114,1493 CC,110 bhp,201 Nm,22
+Creta,Lake Town,Alipore,10.64,LPG,98,5,2021,Priya Sen,124,1197 CC,99 bhp,177 Nm,20
+Creta,Lake Town,Kankurgachi,4.27,CNG,108,5,2020,Vikram Sinha,126,1197 CC,140 bhp,231 Nm,20
+WagonR,Lake Town,Sodepur,10.81,LPG,98,5,2018,Sneha Das,197,1591 CC,140 bhp,245 Nm,20
+Swift Dzire,Lake Town,Baranagar,6.59,LPG,108,4,2019,Priya Sen,172,1798 CC,140 bhp,180 Nm,20
+XUV500,Lake Town,Bandel,35.29,CNG,108,5,2012,Aarav Singh,315,1591 CC,110 bhp,221 Nm,15
+Hyundai i10,Lake Town,Serampore,17.42,Diesel,95,7,2014,Sneha Das,184,1591 CC,125 bhp,240 Nm,15
+WagonR,Lake Town,Beliaghata,4.98,Diesel,95,5,2019,Rohit Menon,92,1591 CC,99 bhp,206 Nm,18
+Creta,Kasba,Ballygunge,1.73,Petrol,95,6,2020,Rohit Menon,144,1197 CC,83 bhp,167 Nm,18
+Swift Dzire,Kasba,Dumdum,13.69,LPG,95,7,2016,Rohit Menon,146,1493 CC,74 bhp,216 Nm,22
+XUV500,Kasba,Garia,8.23,CNG,98,5,2014,Aarav Singh,127,1248 CC,99 bhp,155 Nm,18
+XUV500,Kasba,Howrah,11.06,LPG,99,7,2018,Rohit Menon,147,1798 CC,83 bhp,186 Nm,20
+Hyundai i10,Kasba,Salt Lake,9.61,Diesel,95,6,2016,Priya Sen,92,1798 CC,83 bhp,170 Nm,20
+Honda City,Kasba,Park Street,5.33,LPG,98,7,2015,Sneha Das,89,1591 CC,74 bhp,228 Nm,22
+Honda City,Kasba,Jadavpur,3.39,CNG,95,4,2020,Vikram Sinha,147,1493 CC,83 bhp,143 Nm,18
+WagonR,Kasba,Tollygunge,5.17,Diesel,98,6,2014,Priya Sen,104,1798 CC,125 bhp,244 Nm,18
+Hyundai i10,Kasba,Behala,8.57,LPG,99,7,2022,Priya Sen,118,1798 CC,83 bhp,176 Nm,22
+XUV500,Kasba,Esplanade,6.16,Petrol,99,6,2020,Vikram Sinha,176,1248 CC,83 bhp,231 Nm,18
+Creta,Kasba,Shyambazar,10.44,CNG,108,4,2012,Vikram Sinha,177,1798 CC,83 bhp,136 Nm,18
+Hyundai i10,Kasba,Lake Town,9.74,Petrol,99,6,2013,Aarav Singh,111,1197 CC,74 bhp,204 Nm,22
+XUV500,Kasba,Barasat,24.2,LPG,108,6,2018,Rohit Menon,241,1591 CC,83 bhp,187 Nm,15
+Hyundai i10,Kasba,Baguiati,11.12,CNG,98,4,2019,Sneha Das,122,1197 CC,140 bhp,154 Nm,20
+Swift Dzire,Kasba,Newtown,12.58,LPG,95,5,2019,Priya Sen,165,1493 CC,74 bhp,233 Nm,18
+WagonR,Kasba,Cossipore,12.44,Diesel,108,6,2017,Rohit Menon,169,1197 CC,74 bhp,178 Nm,18
+Creta,Kasba,Alipore,5.82,Petrol,98,7,2017,Aarav Singh,88,1493 CC,74 bhp,152 Nm,15
+XUV500,Kasba,Kankurgachi,5.88,Diesel,99,5,2017,Neha Patel,150,1197 CC,125 bhp,182 Nm,20
+Honda City,Kasba,Sodepur,19.98,Petrol,99,7,2014,Priya Sen,230,1493 CC,74 bhp,194 Nm,15
+Swift Dzire,Kasba,Baranagar,15.69,Diesel,99,7,2022,Neha Patel,154,1197 CC,110 bhp,237 Nm,18
+Creta,Kasba,Bandel,44.83,Diesel,99,7,2013,Rohit Menon,504,1798 CC,110 bhp,155 Nm,18
+Swift Dzire,Kasba,Serampore,26.24,CNG,95,5,2018,Rohit Menon,241,1197 CC,99 bhp,226 Nm,15
+Creta,Kasba,Beliaghata,4.77,CNG,98,4,2018,Neha Patel,101,1493 CC,99 bhp,133 Nm,18
+Hyundai i10,Barasat,Ballygunge,24.71,LPG,108,4,2015,Priya Sen,324,1591 CC,99 bhp,161 Nm,20
+Hyundai i10,Barasat,Dumdum,10.52,LPG,99,5,2014,Rohit Menon,196,1248 CC,125 bhp,240 Nm,20
+XUV500,Barasat,Garia,30.98,CNG,98,4,2014,Neha Patel,428,1248 CC,140 bhp,148 Nm,15
+Honda City,Barasat,Howrah,22.78,CNG,108,4,2015,Vikram Sinha,327,1798 CC,140 bhp,209 Nm,20
+Swift Dzire,Barasat,Salt Lake,15.36,Diesel,99,6,2015,Rohit Menon,217,1197 CC,140 bhp,137 Nm,20
+Hyundai i10,Barasat,Park Street,22.87,Diesel,95,7,2016,Rohit Menon,201,1798 CC,99 bhp,151 Nm,18
+Honda City,Barasat,Jadavpur,27.53,CNG,108,5,2022,Vikram Sinha,280,1248 CC,110 bhp,134 Nm,18
+Swift Dzire,Barasat,Tollygunge,28.18,Petrol,95,4,2017,Neha Patel,279,1197 CC,99 bhp,155 Nm,20
+Swift Dzire,Barasat,Behala,30.15,Diesel,98,5,2019,Neha Patel,336,1248 CC,83 bhp,212 Nm,20
+Swift Dzire,Barasat,Esplanade,21.96,Petrol,99,4,2017,Neha Patel,215,1591 CC,83 bhp,154 Nm,22
+Swift Dzire,Barasat,Shyambazar,16.23,Diesel,108,4,2013,Neha Patel,176,1798 CC,74 bhp,207 Nm,18
+Hyundai i10,Barasat,Lake Town,14.89,Diesel,95,6,2021,Sneha Das,222,1197 CC,99 bhp,142 Nm,18
+Honda City,Barasat,Kasba,24.2,CNG,98,4,2018,Aarav Singh,228,1493 CC,99 bhp,203 Nm,20
+Swift Dzire,Barasat,Baguiati,13.09,CNG,98,5,2015,Rohit Menon,245,1591 CC,99 bhp,163 Nm,18
+XUV500,Barasat,Newtown,13.88,LPG,108,4,2017,Aarav Singh,159,1248 CC,99 bhp,230 Nm,22
+Creta,Barasat,Cossipore,15.79,Petrol,98,6,2021,Neha Patel,241,1798 CC,83 bhp,138 Nm,22
+Creta,Barasat,Alipore,25.43,LPG,95,5,2021,Vikram Sinha,246,1798 CC,110 bhp,143 Nm,20
+WagonR,Barasat,Kankurgachi,19.16,CNG,99,6,2016,Priya Sen,226,1248 CC,99 bhp,137 Nm,22
+Creta,Barasat,Sodepur,11.25,CNG,95,7,2013,Rohit Menon,145,1493 CC,110 bhp,157 Nm,20
+Swift Dzire,Barasat,Baranagar,12.31,LPG,108,5,2018,Sneha Das,187,1248 CC,125 bhp,218 Nm,18
+Creta,Barasat,Bandel,24.59,Diesel,99,4,2016,Vikram Sinha,293,1197 CC,74 bhp,171 Nm,15
+WagonR,Barasat,Serampore,14.65,LPG,108,7,2012,Aarav Singh,180,1591 CC,83 bhp,186 Nm,22
+WagonR,Barasat,Beliaghata,19.69,Petrol,99,5,2015,Rohit Menon,231,1248 CC,99 bhp,130 Nm,18
+WagonR,Baguiati,Ballygunge,11.64,CNG,108,5,2018,Sneha Das,151,1493 CC,99 bhp,205 Nm,18
+Swift Dzire,Baguiati,Dumdum,2.65,CNG,108,7,2014,Priya Sen,51,1591 CC,83 bhp,200 Nm,15
+Creta,Baguiati,Garia,18.31,Diesel,98,7,2016,Vikram Sinha,209,1197 CC,140 bhp,137 Nm,18
+XUV500,Baguiati,Howrah,12.34,Diesel,108,7,2013,Rohit Menon,184,1798 CC,125 bhp,233 Nm,22
+Swift Dzire,Baguiati,Salt Lake,3.32,Petrol,98,6,2018,Vikram Sinha,93,1493 CC,110 bhp,136 Nm,22
+Hyundai i10,Baguiati,Park Street,10.34,CNG,99,5,2015,Rohit Menon,158,1197 CC,110 bhp,161 Nm,20
+WagonR,Baguiati,Jadavpur,14.44,LPG,98,5,2021,Neha Patel,162,1197 CC,125 bhp,147 Nm,15
+XUV500,Baguiati,Tollygunge,15.21,Diesel,99,6,2019,Neha Patel,231,1798 CC,83 bhp,229 Nm,15
+Hyundai i10,Baguiati,Behala,17.53,Petrol,95,4,2021,Aarav Singh,244,1248 CC,74 bhp,134 Nm,18
+Honda City,Baguiati,Esplanade,9.64,CNG,108,5,2018,Priya Sen,207,1493 CC,83 bhp,210 Nm,20
+Swift Dzire,Baguiati,Shyambazar,5.56,Petrol,99,7,2021,Priya Sen,169,1248 CC,99 bhp,211 Nm,22
+WagonR,Baguiati,Lake Town,2.52,CNG,99,5,2014,Aarav Singh,99,1248 CC,99 bhp,191 Nm,22
+Creta,Baguiati,Kasba,11.12,Diesel,95,6,2012,Priya Sen,217,1798 CC,99 bhp,188 Nm,18
+Creta,Baguiati,Barasat,13.09,Petrol,99,4,2021,Neha Patel,162,1197 CC,83 bhp,166 Nm,20
+WagonR,Baguiati,Newtown,5.67,Petrol,108,5,2018,Aarav Singh,82,1591 CC,74 bhp,131 Nm,22
+XUV500,Baguiati,Cossipore,6.93,Petrol,108,6,2016,Sneha Das,127,1798 CC,140 bhp,213 Nm,22
+Creta,Baguiati,Alipore,12.89,LPG,99,6,2022,Aarav Singh,174,1591 CC,99 bhp,237 Nm,22
+XUV500,Baguiati,Kankurgachi,6.34,Petrol,99,6,2019,Sneha Das,128,1798 CC,125 bhp,133 Nm,20
+XUV500,Baguiati,Sodepur,11.08,LPG,98,4,2012,Vikram Sinha,128,1798 CC,125 bhp,208 Nm,22
+WagonR,Baguiati,Baranagar,7.27,CNG,108,6,2012,Aarav Singh,79,1197 CC,99 bhp,185 Nm,20
+Hyundai i10,Baguiati,Bandel,34.75,Petrol,108,4,2013,Vikram Sinha,393,1798 CC,83 bhp,220 Nm,15
+Honda City,Baguiati,Serampore,17.78,LPG,98,7,2015,Neha Patel,194,1248 CC,110 bhp,166 Nm,18
+Creta,Baguiati,Beliaghata,6.64,Diesel,99,4,2021,Aarav Singh,152,1798 CC,83 bhp,179 Nm,22
+WagonR,Newtown,Ballygunge,13.76,Diesel,95,4,2018,Vikram Sinha,217,1798 CC,74 bhp,156 Nm,18
+Hyundai i10,Newtown,Dumdum,5.52,CNG,99,4,2019,Sneha Das,124,1248 CC,125 bhp,214 Nm,15
+Hyundai i10,Newtown,Garia,17.71,CNG,98,4,2012,Aarav Singh,175,1493 CC,110 bhp,149 Nm,22
+Creta,Newtown,Howrah,17.38,Petrol,108,4,2012,Rohit Menon,251,1248 CC,99 bhp,163 Nm,22
+Creta,Newtown,Salt Lake,8.62,LPG,108,7,2014,Neha Patel,189,1591 CC,99 bhp,217 Nm,18
+XUV500,Newtown,Park Street,14.04,LPG,98,4,2012,Sneha Das,192,1798 CC,74 bhp,156 Nm,20
+Creta,Newtown,Jadavpur,15.89,Diesel,95,6,2012,Sneha Das,229,1591 CC,140 bhp,206 Nm,20
+WagonR,Newtown,Tollygunge,17.56,LPG,95,4,2012,Aarav Singh,271,1248 CC,99 bhp,241 Nm,20
+Hyundai i10,Newtown,Behala,20.55,Petrol,108,5,2022,Aarav Singh,230,1591 CC,110 bhp,146 Nm,18
+WagonR,Newtown,Esplanade,13.69,Petrol,99,5,2014,Sneha Das,185,1798 CC,110 bhp,249 Nm,20
+WagonR,Newtown,Shyambazar,11.05,CNG,108,4,2012,Vikram Sinha,197,1591 CC,74 bhp,180 Nm,15
+Swift Dzire,Newtown,Lake Town,7.81,CNG,99,5,2021,Aarav Singh,150,1591 CC,99 bhp,247 Nm,15
+Hyundai i10,Newtown,Kasba,12.58,Diesel,108,6,2013,Priya Sen,149,1493 CC,140 bhp,237 Nm,15
+XUV500,Newtown,Barasat,13.88,Diesel,95,4,2012,Rohit Menon,196,1591 CC,83 bhp,150 Nm,18
+Honda City,Newtown,Baguiati,5.67,Diesel,108,7,2014,Aarav Singh,104,1798 CC,110 bhp,202 Nm,20
+Swift Dzire,Newtown,Cossipore,12.59,Petrol,99,5,2014,Vikram Sinha,191,1248 CC,99 bhp,153 Nm,15
+Creta,Newtown,Alipore,16.33,LPG,98,4,2012,Sneha Das,248,1197 CC,125 bhp,231 Nm,20
+Honda City,Newtown,Kankurgachi,10.11,CNG,99,4,2012,Priya Sen,134,1248 CC,110 bhp,225 Nm,20
+Hyundai i10,Newtown,Sodepur,15.87,CNG,108,7,2021,Rohit Menon,192,1591 CC,83 bhp,142 Nm,20
+Honda City,Newtown,Baranagar,12.59,Diesel,98,7,2022,Aarav Singh,174,1798 CC,110 bhp,223 Nm,20
+XUV500,Newtown,Bandel,37.7,CNG,98,4,2019,Sneha Das,440,1591 CC,140 bhp,225 Nm,15
+XUV500,Newtown,Serampore,22.41,Petrol,108,4,2018,Rohit Menon,309,1493 CC,83 bhp,142 Nm,20
+Hyundai i10,Newtown,Beliaghata,9.6,Diesel,99,7,2015,Vikram Sinha,111,1197 CC,83 bhp,133 Nm,20
+XUV500,Cossipore,Ballygunge,11.94,Diesel,99,7,2020,Rohit Menon,212,1591 CC,99 bhp,170 Nm,18
+Swift Dzire,Cossipore,Dumdum,8.3,Petrol,95,4,2019,Aarav Singh,180,1798 CC,125 bhp,189 Nm,22
+Swift Dzire,Cossipore,Garia,20.65,Petrol,98,4,2019,Sneha Das,268,1798 CC,140 bhp,235 Nm,20
+XUV500,Cossipore,Howrah,6.99,LPG,108,6,2014,Priya Sen,101,1798 CC,140 bhp,192 Nm,22
+Hyundai i10,Cossipore,Salt Lake,4.32,LPG,98,6,2016,Neha Patel,143,1197 CC,74 bhp,189 Nm,22
+XUV500,Cossipore,Park Street,8.56,LPG,108,6,2022,Aarav Singh,130,1798 CC,83 bhp,145 Nm,18
+Creta,Cossipore,Jadavpur,14.96,Petrol,108,5,2017,Priya Sen,212,1591 CC,110 bhp,133 Nm,22
+WagonR,Cossipore,Tollygunge,14.37,CNG,95,7,2015,Vikram Sinha,239,1493 CC,74 bhp,238 Nm,15
+Honda City,Cossipore,Behala,15.32,CNG,98,7,2019,Neha Patel,211,1493 CC,83 bhp,199 Nm,18
+XUV500,Cossipore,Esplanade,7.44,Petrol,95,6,2017,Sneha Das,122,1591 CC,110 bhp,155 Nm,15
+XUV500,Cossipore,Shyambazar,2.14,LPG,98,5,2015,Neha Patel,43,1248 CC,99 bhp,181 Nm,22
+XUV500,Cossipore,Lake Town,4.99,Petrol,108,6,2019,Aarav Singh,78,1248 CC,140 bhp,192 Nm,22
+XUV500,Cossipore,Kasba,12.44,CNG,95,4,2016,Neha Patel,148,1248 CC,140 bhp,163 Nm,18
+WagonR,Cossipore,Barasat,15.79,Petrol,99,5,2015,Priya Sen,220,1248 CC,110 bhp,188 Nm,15
+Swift Dzire,Cossipore,Baguiati,6.93,Diesel,98,7,2018,Vikram Sinha,172,1248 CC,125 bhp,188 Nm,22
+XUV500,Cossipore,Newtown,12.59,LPG,95,4,2019,Vikram Sinha,145,1197 CC,83 bhp,239 Nm,22
+Honda City,Cossipore,Alipore,10.8,Diesel,98,4,2022,Neha Patel,126,1197 CC,99 bhp,184 Nm,15
+Creta,Cossipore,Kankurgachi,6.67,Petrol,98,5,2022,Neha Patel,91,1248 CC,140 bhp,248 Nm,18
+Creta,Cossipore,Sodepur,7.85,Petrol,98,6,2018,Vikram Sinha,126,1798 CC,99 bhp,184 Nm,22
+Swift Dzire,Cossipore,Baranagar,3.92,CNG,99,6,2021,Neha Patel,126,1493 CC,110 bhp,189 Nm,15
+WagonR,Cossipore,Bandel,32.77,Diesel,95,7,2014,Vikram Sinha,384,1591 CC,99 bhp,242 Nm,20
+XUV500,Cossipore,Serampore,13.81,LPG,98,7,2019,Rohit Menon,211,1197 CC,83 bhp,190 Nm,15
+Hyundai i10,Cossipore,Beliaghata,8.04,LPG,98,4,2021,Vikram Sinha,92,1798 CC,83 bhp,203 Nm,18
+Honda City,Alipore,Ballygunge,4.12,Petrol,108,4,2012,Rohit Menon,134,1197 CC,74 bhp,233 Nm,22
+Swift Dzire,Alipore,Dumdum,15.5,CNG,108,5,2017,Rohit Menon,224,1798 CC,74 bhp,185 Nm,22
+Swift Dzire,Alipore,Garia,12.48,CNG,108,5,2015,Aarav Singh,192,1798 CC,125 bhp,134 Nm,22
+XUV500,Alipore,Howrah,6.38,Diesel,99,6,2015,Rohit Menon,111,1248 CC,83 bhp,201 Nm,22
+Honda City,Alipore,Salt Lake,10.09,Petrol,99,7,2018,Rohit Menon,121,1197 CC,99 bhp,227 Nm,18
+XUV500,Alipore,Park Street,2.56,Petrol,95,4,2016,Aarav Singh,81,1493 CC,140 bhp,162 Nm,18
+WagonR,Alipore,Jadavpur,5.82,Petrol,95,4,2021,Rohit Menon,131,1197 CC,125 bhp,243 Nm,20
+Honda City,Alipore,Tollygunge,3.9,LPG,99,5,2022,Sneha Das,85,1248 CC,140 bhp,194 Nm,22
+Creta,Alipore,Behala,4.73,Petrol,108,6,2019,Priya Sen,159,1798 CC,74 bhp,193 Nm,20
+XUV500,Alipore,Esplanade,3.5,Petrol,95,7,2014,Aarav Singh,135,1493 CC,140 bhp,140 Nm,20
+WagonR,Alipore,Shyambazar,9.48,Diesel,95,5,2013,Neha Patel,129,1248 CC,74 bhp,173 Nm,18
+Honda City,Alipore,Lake Town,10.64,Diesel,108,7,2021,Priya Sen,136,1197 CC,125 bhp,233 Nm,20
+WagonR,Alipore,Kasba,5.82,LPG,98,5,2013,Rohit Menon,137,1248 CC,125 bhp,184 Nm,20
+Swift Dzire,Alipore,Barasat,25.43,Petrol,99,5,2021,Sneha Das,370,1197 CC,99 bhp,156 Nm,20
+Honda City,Alipore,Baguiati,12.89,Diesel,108,4,2017,Aarav Singh,244,1248 CC,140 bhp,152 Nm,20
+XUV500,Alipore,Newtown,16.33,CNG,108,7,2012,Sneha Das,198,1493 CC,125 bhp,171 Nm,18
+XUV500,Alipore,Cossipore,10.8,LPG,99,7,2012,Rohit Menon,221,1591 CC,125 bhp,133 Nm,15
+Honda City,Alipore,Kankurgachi,6.56,Petrol,99,4,2019,Aarav Singh,100,1591 CC,140 bhp,170 Nm,22
+Swift Dzire,Alipore,Sodepur,18.61,LPG,99,7,2018,Priya Sen,198,1591 CC,83 bhp,173 Nm,15
+Hyundai i10,Alipore,Baranagar,14.66,Diesel,95,5,2012,Vikram Sinha,152,1248 CC,83 bhp,206 Nm,18
+Creta,Alipore,Bandel,43.4,Petrol,99,4,2012,Aarav Singh,517,1798 CC,99 bhp,202 Nm,15
+Honda City,Alipore,Serampore,24.07,Petrol,99,4,2020,Rohit Menon,335,1197 CC,99 bhp,231 Nm,20
+WagonR,Alipore,Beliaghata,6.74,CNG,98,4,2021,Rohit Menon,114,1197 CC,140 bhp,147 Nm,22
+Hyundai i10,Kankurgachi,Ballygunge,5.76,Petrol,108,5,2012,Rohit Menon,158,1798 CC,74 bhp,229 Nm,18
+Creta,Kankurgachi,Dumdum,8.98,Petrol,98,6,2018,Sneha Das,180,1493 CC,83 bhp,213 Nm,20
+Creta,Kankurgachi,Garia,14.02,LPG,99,5,2018,Vikram Sinha,233,1493 CC,99 bhp,178 Nm,18
+WagonR,Kankurgachi,Howrah,7.78,CNG,95,4,2012,Aarav Singh,91,1248 CC,74 bhp,190 Nm,18
+XUV500,Kankurgachi,Salt Lake,3.92,Petrol,108,6,2019,Neha Patel,150,1798 CC,125 bhp,201 Nm,22
+Honda City,Kankurgachi,Park Street,4.06,LPG,108,6,2016,Neha Patel,71,1591 CC,99 bhp,197 Nm,22
+XUV500,Kankurgachi,Jadavpur,8.78,Petrol,108,5,2020,Priya Sen,136,1197 CC,125 bhp,236 Nm,15
+Creta,Kankurgachi,Tollygunge,9.02,LPG,99,7,2015,Aarav Singh,192,1248 CC,110 bhp,216 Nm,15
+WagonR,Kankurgachi,Behala,11.19,LPG,98,5,2013,Sneha Das,175,1248 CC,74 bhp,164 Nm,18
+WagonR,Kankurgachi,Esplanade,3.58,Petrol,108,5,2021,Sneha Das,147,1197 CC,110 bhp,209 Nm,22
+Hyundai i10,Kankurgachi,Shyambazar,4.6,Petrol,108,5,2016,Neha Patel,175,1798 CC,110 bhp,167 Nm,20
+XUV500,Kankurgachi,Lake Town,4.27,CNG,99,6,2014,Sneha Das,82,1493 CC,74 bhp,161 Nm,15
+WagonR,Kankurgachi,Kasba,5.88,LPG,108,6,2018,Priya Sen,96,1197 CC,140 bhp,211 Nm,18
+WagonR,Kankurgachi,Barasat,19.16,LPG,98,6,2019,Rohit Menon,277,1493 CC,110 bhp,223 Nm,18
+Creta,Kankurgachi,Baguiati,6.34,Diesel,108,5,2017,Aarav Singh,83,1493 CC,125 bhp,176 Nm,22
+Hyundai i10,Kankurgachi,Newtown,10.11,Diesel,108,6,2022,Aarav Singh,115,1493 CC,110 bhp,242 Nm,22
+Creta,Kankurgachi,Cossipore,6.67,CNG,95,4,2018,Rohit Menon,157,1248 CC,83 bhp,197 Nm,22
+Hyundai i10,Kankurgachi,Alipore,6.56,LPG,95,6,2015,Priya Sen,131,1248 CC,140 bhp,161 Nm,18
+Creta,Kankurgachi,Sodepur,14.11,CNG,98,5,2022,Sneha Das,181,1248 CC,83 bhp,176 Nm,20
+Swift Dzire,Kankurgachi,Baranagar,9.82,LPG,95,6,2019,Rohit Menon,206,1197 CC,99 bhp,146 Nm,15
+XUV500,Kankurgachi,Bandel,38.97,LPG,108,5,2022,Priya Sen,374,1493 CC,99 bhp,166 Nm,20
+XUV500,Kankurgachi,Serampore,20.41,LPG,99,5,2012,Priya Sen,257,1493 CC,74 bhp,181 Nm,15
+WagonR,Kankurgachi,Beliaghata,1.44,Petrol,108,7,2016,Sneha Das,73,1591 CC,83 bhp,211 Nm,15
+Swift Dzire,Sodepur,Ballygunge,19.68,Diesel,99,5,2020,Sneha Das,265,1591 CC,140 bhp,242 Nm,22
+Swift Dzire,Sodepur,Dumdum,10.35,LPG,99,5,2018,Neha Patel,188,1248 CC,83 bhp,223 Nm,15
+Swift Dzire,Sodepur,Garia,28.08,CNG,108,7,2016,Aarav Singh,362,1493 CC,99 bhp,132 Nm,20
+Honda City,Sodepur,Howrah,13.87,CNG,95,4,2017,Aarav Singh,167,1591 CC,140 bhp,216 Nm,18
+Hyundai i10,Sodepur,Salt Lake,10.62,Petrol,108,5,2022,Vikram Sinha,145,1591 CC,125 bhp,215 Nm,18
+Swift Dzire,Sodepur,Park Street,16.41,Diesel,98,4,2013,Aarav Singh,226,1493 CC,99 bhp,153 Nm,20
+Hyundai i10,Sodepur,Jadavpur,22.72,CNG,95,6,2018,Neha Patel,288,1591 CC,125 bhp,205 Nm,22
+Hyundai i10,Sodepur,Tollygunge,22.22,Petrol,108,4,2014,Vikram Sinha,228,1197 CC,110 bhp,168 Nm,20
+Hyundai i10,Sodepur,Behala,23.03,Diesel,98,6,2017,Aarav Singh,220,1798 CC,83 bhp,192 Nm,22
+WagonR,Sodepur,Esplanade,15.29,Diesel,99,5,2021,Neha Patel,206,1197 CC,110 bhp,250 Nm,18
+Creta,Sodepur,Shyambazar,9.6,Petrol,108,5,2017,Sneha Das,150,1493 CC,125 bhp,247 Nm,22
+Swift Dzire,Sodepur,Lake Town,10.81,LPG,99,5,2022,Priya Sen,194,1591 CC,110 bhp,177 Nm,15
+Hyundai i10,Sodepur,Kasba,19.98,Petrol,98,5,2016,Priya Sen,265,1197 CC,140 bhp,194 Nm,15
+WagonR,Sodepur,Barasat,11.25,Diesel,95,5,2021,Neha Patel,198,1798 CC,125 bhp,206 Nm,18
+Hyundai i10,Sodepur,Baguiati,11.08,LPG,98,4,2014,Aarav Singh,208,1798 CC,99 bhp,231 Nm,22
+Swift Dzire,Sodepur,Newtown,15.87,CNG,95,5,2013,Rohit Menon,251,1493 CC,74 bhp,226 Nm,20
+Creta,Sodepur,Cossipore,7.85,Petrol,108,4,2014,Vikram Sinha,150,1248 CC,74 bhp,241 Nm,22
+Honda City,Sodepur,Alipore,18.61,LPG,95,4,2016,Aarav Singh,178,1798 CC,110 bhp,158 Nm,18
+Hyundai i10,Sodepur,Kankurgachi,14.11,Diesel,98,6,2022,Rohit Menon,208,1493 CC,99 bhp,245 Nm,15
+Swift Dzire,Sodepur,Baranagar,4.3,CNG,99,4,2020,Priya Sen,135,1197 CC,110 bhp,172 Nm,15
+Honda City,Sodepur,Bandel,24.94,Diesel,99,7,2012,Priya Sen,321,1493 CC,74 bhp,159 Nm,15
+WagonR,Sodepur,Serampore,6.7,CNG,108,5,2018,Neha Patel,116,1493 CC,99 bhp,248 Nm,18
+Creta,Sodepur,Beliaghata,15.31,LPG,95,6,2012,Vikram Sinha,206,1197 CC,99 bhp,195 Nm,18
+Hyundai i10,Baranagar,Ballygunge,15.44,Petrol,98,5,2017,Vikram Sinha,230,1591 CC,125 bhp,144 Nm,20
+XUV500,Baranagar,Dumdum,7.3,Petrol,99,7,2021,Priya Sen,135,1248 CC,83 bhp,206 Nm,22
+Swift Dzire,Baranagar,Garia,23.78,Diesel,108,6,2017,Aarav Singh,313,1591 CC,125 bhp,171 Nm,20
+Swift Dzire,Baranagar,Howrah,10.7,CNG,99,6,2015,Neha Patel,184,1197 CC,140 bhp,214 Nm,20
+Creta,Baranagar,Salt Lake,6.34,LPG,108,7,2020,Priya Sen,128,1798 CC,83 bhp,247 Nm,18
+Hyundai i10,Baranagar,Park Street,12.34,Diesel,95,6,2021,Sneha Das,152,1197 CC,110 bhp,147 Nm,15
+XUV500,Baranagar,Jadavpur,18.49,LPG,98,7,2019,Priya Sen,289,1798 CC,83 bhp,199 Nm,18
+Creta,Baranagar,Tollygunge,18.14,Diesel,98,7,2018,Rohit Menon,200,1197 CC,99 bhp,173 Nm,18
+WagonR,Baranagar,Behala,19.23,Petrol,99,7,2017,Vikram Sinha,264,1798 CC,125 bhp,148 Nm,20
+Honda City,Baranagar,Esplanade,11.24,Petrol,98,6,2021,Sneha Das,185,1493 CC,125 bhp,180 Nm,22
+XUV500,Baranagar,Shyambazar,5.37,Petrol,99,5,2022,Priya Sen,136,1248 CC,83 bhp,221 Nm,18
+XUV500,Baranagar,Lake Town,6.59,CNG,108,7,2016,Sneha Das,177,1197 CC,110 bhp,184 Nm,20
+XUV500,Baranagar,Kasba,15.69,LPG,95,7,2016,Neha Patel,258,1798 CC,83 bhp,218 Nm,18
+WagonR,Baranagar,Barasat,12.31,Diesel,95,7,2015,Rohit Menon,204,1248 CC,110 bhp,200 Nm,18
+XUV500,Baranagar,Baguiati,7.27,Petrol,99,6,2019,Aarav Singh,102,1248 CC,140 bhp,167 Nm,20
+Hyundai i10,Baranagar,Newtown,12.59,Petrol,99,4,2015,Vikram Sinha,167,1248 CC,110 bhp,148 Nm,20
+XUV500,Baranagar,Cossipore,3.92,LPG,98,6,2013,Priya Sen,112,1591 CC,140 bhp,174 Nm,22
+Hyundai i10,Baranagar,Alipore,14.66,CNG,108,6,2019,Vikram Sinha,168,1591 CC,140 bhp,136 Nm,15
+XUV500,Baranagar,Kankurgachi,9.82,CNG,99,4,2015,Vikram Sinha,138,1197 CC,74 bhp,143 Nm,20
+Honda City,Baranagar,Sodepur,4.3,Petrol,99,5,2013,Sneha Das,55,1197 CC,83 bhp,175 Nm,20
+Creta,Baranagar,Bandel,29.17,Diesel,95,6,2016,Sneha Das,403,1248 CC,125 bhp,195 Nm,15
+WagonR,Baranagar,Serampore,10.84,Petrol,99,4,2022,Vikram Sinha,175,1798 CC,110 bhp,161 Nm,18
+Hyundai i10,Baranagar,Beliaghata,11.01,Petrol,98,5,2020,Neha Patel,151,1798 CC,74 bhp,230 Nm,20
+WagonR,Bandel,Ballygunge,44.61,Diesel,98,4,2012,Sneha Das,370,1591 CC,99 bhp,229 Nm,20
+Swift Dzire,Bandel,Dumdum,32.91,CNG,108,7,2021,Vikram Sinha,312,1493 CC,125 bhp,200 Nm,18
+Swift Dzire,Bandel,Garia,52.78,Diesel,99,4,2016,Priya Sen,516,1197 CC,74 bhp,140 Nm,18
+XUV500,Bandel,Howrah,37.97,LPG,99,6,2017,Priya Sen,353,1591 CC,110 bhp,184 Nm,22
+Swift Dzire,Bandel,Salt Lake,35.28,Petrol,108,4,2018,Aarav Singh,389,1798 CC,99 bhp,150 Nm,15
+Honda City,Bandel,Park Street,41.31,LPG,108,7,2022,Sneha Das,412,1798 CC,83 bhp,214 Nm,18
+XUV500,Bandel,Jadavpur,47.65,CNG,99,4,2016,Aarav Singh,486,1248 CC,74 bhp,242 Nm,20
+Swift Dzire,Bandel,Tollygunge,47.1,CNG,108,7,2013,Vikram Sinha,456,1798 CC,83 bhp,166 Nm,20
+Swift Dzire,Bandel,Behala,47.59,Diesel,95,4,2014,Neha Patel,517,1493 CC,140 bhp,168 Nm,22
+Honda City,Bandel,Esplanade,40.18,LPG,99,7,2016,Vikram Sinha,383,1197 CC,140 bhp,192 Nm,15
+Swift Dzire,Bandel,Shyambazar,34.53,Petrol,95,5,2012,Aarav Singh,315,1248 CC,125 bhp,191 Nm,22
+Honda City,Bandel,Lake Town,35.29,Petrol,95,5,2013,Sneha Das,341,1591 CC,125 bhp,190 Nm,22
+Honda City,Bandel,Kasba,44.83,LPG,108,7,2022,Rohit Menon,464,1248 CC,140 bhp,199 Nm,18
+XUV500,Bandel,Barasat,24.59,Diesel,108,4,2022,Rohit Menon,326,1197 CC,125 bhp,166 Nm,22
+Swift Dzire,Bandel,Baguiati,34.75,CNG,108,5,2017,Sneha Das,344,1493 CC,83 bhp,198 Nm,18
+Hyundai i10,Bandel,Newtown,37.7,Diesel,99,4,2019,Priya Sen,350,1197 CC,125 bhp,187 Nm,18
+Swift Dzire,Bandel,Cossipore,32.77,Diesel,99,4,2015,Aarav Singh,402,1197 CC,74 bhp,187 Nm,15
+WagonR,Bandel,Alipore,43.4,Diesel,99,5,2019,Vikram Sinha,496,1197 CC,74 bhp,138 Nm,18
+Hyundai i10,Bandel,Kankurgachi,38.97,CNG,95,6,2014,Rohit Menon,474,1591 CC,83 bhp,164 Nm,22
+Hyundai i10,Bandel,Sodepur,24.94,Petrol,99,6,2017,Rohit Menon,236,1798 CC,140 bhp,248 Nm,22
+WagonR,Bandel,Baranagar,29.17,LPG,98,6,2018,Neha Patel,327,1591 CC,99 bhp,154 Nm,20
+WagonR,Bandel,Serampore,19.54,LPG,108,7,2017,Sneha Das,271,1248 CC,140 bhp,172 Nm,18
+Creta,Bandel,Beliaghata,40.09,CNG,95,4,2018,Vikram Sinha,365,1798 CC,83 bhp,149 Nm,18
+Swift Dzire,Serampore,Ballygunge,25.74,LPG,99,4,2015,Rohit Menon,348,1493 CC,110 bhp,136 Nm,18
+WagonR,Serampore,Dumdum,16.91,Petrol,98,4,2018,Aarav Singh,247,1248 CC,140 bhp,206 Nm,15
+Swift Dzire,Serampore,Garia,34.43,LPG,99,5,2020,Sneha Das,337,1197 CC,140 bhp,148 Nm,22
+XUV500,Serampore,Howrah,18.45,Diesel,98,5,2018,Vikram Sinha,188,1798 CC,125 bhp,169 Nm,15
+Hyundai i10,Serampore,Salt Lake,17.16,Petrol,95,5,2013,Sneha Das,175,1798 CC,99 bhp,190 Nm,22
+XUV500,Serampore,Park Street,22.15,Diesel,99,7,2014,Neha Patel,266,1591 CC,83 bhp,212 Nm,20
+Swift Dzire,Serampore,Jadavpur,28.74,LPG,108,7,2021,Neha Patel,276,1197 CC,83 bhp,201 Nm,20
+Creta,Serampore,Tollygunge,27.87,Petrol,108,5,2013,Aarav Singh,384,1591 CC,110 bhp,225 Nm,15
+Hyundai i10,Serampore,Behala,28.12,CNG,95,7,2020,Priya Sen,265,1493 CC,125 bhp,145 Nm,22
+Swift Dzire,Serampore,Esplanade,21.01,Petrol,98,5,2013,Rohit Menon,228,1493 CC,74 bhp,250 Nm,15
+Hyundai i10,Serampore,Shyambazar,15.81,LPG,95,6,2022,Vikram Sinha,256,1591 CC,125 bhp,242 Nm,22
+Honda City,Serampore,Lake Town,17.42,Diesel,95,5,2014,Priya Sen,238,1798 CC,83 bhp,202 Nm,15
+Hyundai i10,Serampore,Kasba,26.24,Diesel,98,6,2017,Neha Patel,288,1591 CC,74 bhp,130 Nm,20
+Honda City,Serampore,Barasat,14.65,CNG,95,6,2020,Aarav Singh,212,1493 CC,74 bhp,234 Nm,22
+Swift Dzire,Serampore,Baguiati,17.78,CNG,95,4,2013,Priya Sen,217,1197 CC,110 bhp,184 Nm,20
+Creta,Serampore,Newtown,22.41,LPG,95,6,2020,Rohit Menon,248,1493 CC,74 bhp,195 Nm,15
+XUV500,Serampore,Cossipore,13.81,LPG,108,4,2020,Sneha Das,194,1591 CC,110 bhp,220 Nm,15
+XUV500,Serampore,Alipore,24.07,Petrol,98,4,2015,Sneha Das,258,1591 CC,83 bhp,220 Nm,15
+Hyundai i10,Serampore,Kankurgachi,20.41,Petrol,108,5,2020,Vikram Sinha,271,1798 CC,74 bhp,164 Nm,20
+Swift Dzire,Serampore,Sodepur,6.7,Diesel,108,6,2021,Neha Patel,94,1248 CC,74 bhp,150 Nm,22
+XUV500,Serampore,Baranagar,10.84,Petrol,98,6,2018,Priya Sen,151,1197 CC,74 bhp,145 Nm,22
+Creta,Serampore,Bandel,19.54,CNG,95,5,2018,Vikram Sinha,170,1248 CC,140 bhp,137 Nm,22
+Creta,Serampore,Beliaghata,21.7,LPG,108,6,2022,Priya Sen,258,1248 CC,110 bhp,226 Nm,18
+Swift Dzire,Beliaghata,Ballygunge,5.02,CNG,98,4,2018,Aarav Singh,134,1248 CC,83 bhp,162 Nm,20
+Creta,Beliaghata,Dumdum,9.29,CNG,99,5,2015,Rohit Menon,130,1798 CC,140 bhp,168 Nm,15
+Creta,Beliaghata,Garia,12.77,Diesel,95,5,2018,Vikram Sinha,155,1798 CC,140 bhp,176 Nm,18
+Creta,Beliaghata,Howrah,8.96,CNG,95,6,2014,Neha Patel,124,1493 CC,99 bhp,179 Nm,18
+Hyundai i10,Beliaghata,Salt Lake,4.84,Diesel,95,6,2020,Rohit Menon,120,1591 CC,99 bhp,223 Nm,18
+WagonR,Beliaghata,Park Street,4.47,Petrol,99,5,2016,Rohit Menon,67,1248 CC,74 bhp,133 Nm,15
+Swift Dzire,Beliaghata,Jadavpur,7.92,Petrol,95,5,2022,Sneha Das,177,1493 CC,110 bhp,176 Nm,15
+Honda City,Beliaghata,Tollygunge,8.59,Diesel,108,6,2014,Rohit Menon,161,1798 CC,110 bhp,240 Nm,22
+XUV500,Beliaghata,Behala,11.14,LPG,98,4,2020,Aarav Singh,188,1493 CC,140 bhp,214 Nm,22
+Creta,Beliaghata,Esplanade,4.33,Petrol,95,7,2017,Aarav Singh,135,1591 CC,99 bhp,223 Nm,22
+Honda City,Beliaghata,Shyambazar,5.93,Petrol,95,7,2020,Priya Sen,185,1248 CC,74 bhp,149 Nm,15
+Honda City,Beliaghata,Lake Town,4.98,CNG,98,5,2018,Vikram Sinha,73,1798 CC,110 bhp,154 Nm,22
+WagonR,Beliaghata,Kasba,4.77,LPG,98,4,2022,Rohit Menon,144,1591 CC,125 bhp,132 Nm,18
+Creta,Beliaghata,Barasat,19.69,LPG,98,6,2016,Priya Sen,266,1248 CC,83 bhp,169 Nm,22
+XUV500,Beliaghata,Baguiati,6.64,Petrol,98,4,2013,Neha Patel,113,1493 CC,110 bhp,202 Nm,22
+Swift Dzire,Beliaghata,Newtown,9.6,Petrol,99,7,2012,Aarav Singh,174,1493 CC,99 bhp,151 Nm,15
+Swift Dzire,Beliaghata,Cossipore,8.04,LPG,98,7,2018,Vikram Sinha,139,1591 CC,74 bhp,159 Nm,15
+Honda City,Beliaghata,Alipore,6.74,Diesel,99,5,2012,Vikram Sinha,76,1493 CC,83 bhp,164 Nm,18
+Swift Dzire,Beliaghata,Kankurgachi,1.44,CNG,99,6,2015,Neha Patel,56,1197 CC,74 bhp,161 Nm,20
+XUV500,Beliaghata,Sodepur,15.31,LPG,98,7,2020,Aarav Singh,139,1798 CC,125 bhp,184 Nm,22
+Honda City,Beliaghata,Baranagar,11.01,Diesel,95,7,2019,Neha Patel,192,1248 CC,99 bhp,200 Nm,18
+XUV500,Beliaghata,Bandel,40.09,Diesel,95,7,2015,Rohit Menon,373,1248 CC,140 bhp,242 Nm,18
+Hyundai i10,Beliaghata,Serampore,21.7,Diesel,99,4,2021,Aarav Singh,237,1493 CC,125 bhp,135 Nm,20
+Honda City,Ballygunge,Dumdum,14.27,Petrol,98,6,2020,Rohit Menon,151,1798 CC,83 bhp,141 Nm,20
+Creta,Ballygunge,Garia,9.1,CNG,95,4,2013,Rohit Menon,178,1248 CC,110 bhp,190 Nm,15
+WagonR,Ballygunge,Howrah,9.71,LPG,98,7,2014,Neha Patel,109,1197 CC,125 bhp,162 Nm,18
+Swift Dzire,Ballygunge,Salt Lake,9.67,LPG,98,5,2022,Priya Sen,119,1248 CC,74 bhp,240 Nm,15
+XUV500,Ballygunge,Park Street,4.05,LPG,98,5,2013,Neha Patel,66,1248 CC,99 bhp,145 Nm,20
+XUV500,Ballygunge,Jadavpur,3.04,Diesel,98,6,2020,Vikram Sinha,99,1493 CC,99 bhp,202 Nm,20
+Hyundai i10,Ballygunge,Tollygunge,3.81,LPG,98,7,2021,Neha Patel,68,1197 CC,74 bhp,165 Nm,18
+WagonR,Ballygunge,Behala,6.99,Diesel,98,6,2022,Neha Patel,120,1493 CC,110 bhp,236 Nm,22
+XUV500,Ballygunge,Esplanade,5.04,CNG,99,6,2018,Vikram Sinha,128,1798 CC,140 bhp,218 Nm,18
+WagonR,Ballygunge,Shyambazar,10.09,LPG,98,5,2013,Vikram Sinha,118,1798 CC,99 bhp,235 Nm,20
+XUV500,Ballygunge,Lake Town,9.94,LPG,108,5,2014,Rohit Menon,189,1248 CC,125 bhp,161 Nm,22
+Honda City,Ballygunge,Kasba,1.73,Petrol,98,6,2022,Rohit Menon,135,1798 CC,140 bhp,161 Nm,18
+Creta,Ballygunge,Barasat,24.71,Diesel,95,6,2016,Priya Sen,289,1798 CC,140 bhp,161 Nm,22
+WagonR,Ballygunge,Baguiati,11.64,CNG,98,7,2019,Priya Sen,178,1248 CC,110 bhp,165 Nm,22
+Creta,Ballygunge,Newtown,13.76,LPG,99,6,2021,Vikram Sinha,155,1493 CC,83 bhp,234 Nm,22
+XUV500,Ballygunge,Cossipore,11.94,Petrol,95,4,2021,Neha Patel,182,1591 CC,140 bhp,166 Nm,15
+WagonR,Ballygunge,Alipore,4.12,Diesel,108,5,2019,Sneha Das,55,1493 CC,110 bhp,225 Nm,22
+WagonR,Ballygunge,Kankurgachi,5.76,CNG,108,5,2022,Neha Patel,94,1493 CC,140 bhp,134 Nm,15
+Swift Dzire,Ballygunge,Sodepur,19.68,CNG,98,6,2018,Rohit Menon,242,1493 CC,83 bhp,226 Nm,22
+XUV500,Ballygunge,Baranagar,15.44,Diesel,99,5,2015,Aarav Singh,255,1798 CC,74 bhp,161 Nm,15
+Hyundai i10,Ballygunge,Bandel,44.61,Petrol,108,4,2017,Neha Patel,558,1197 CC,99 bhp,173 Nm,22
+Swift Dzire,Ballygunge,Serampore,25.74,CNG,98,7,2022,Aarav Singh,376,1248 CC,140 bhp,152 Nm,18
+XUV500,Ballygunge,Beliaghata,5.02,Petrol,99,5,2016,Vikram Sinha,147,1591 CC,125 bhp,182 Nm,18
+Hyundai i10,Dumdum,Ballygunge,14.27,Diesel,95,7,2017,Vikram Sinha,186,1591 CC,110 bhp,180 Nm,18
+WagonR,Dumdum,Garia,20.61,Diesel,108,4,2012,Priya Sen,275,1248 CC,125 bhp,196 Nm,20
+Hyundai i10,Dumdum,Howrah,14.47,Petrol,98,6,2013,Neha Patel,152,1591 CC,110 bhp,148 Nm,22
+Honda City,Dumdum,Salt Lake,5.62,Petrol,95,7,2020,Sneha Das,113,1197 CC,140 bhp,234 Nm,22
+Honda City,Dumdum,Park Street,12.94,CNG,99,4,2012,Sneha Das,190,1197 CC,99 bhp,159 Nm,18
+Honda City,Dumdum,Jadavpur,17.03,LPG,95,6,2021,Neha Patel,175,1493 CC,74 bhp,204 Nm,18
+Honda City,Dumdum,Tollygunge,17.86,CNG,99,5,2017,Neha Patel,219,1798 CC,110 bhp,190 Nm,20
+Creta,Dumdum,Behala,20.16,CNG,99,4,2017,Vikram Sinha,244,1591 CC,74 bhp,241 Nm,22
+XUV500,Dumdum,Esplanade,12.19,Petrol,95,5,2013,Aarav Singh,189,1248 CC,140 bhp,136 Nm,18
+WagonR,Dumdum,Shyambazar,7.48,Diesel,95,5,2012,Priya Sen,150,1197 CC,83 bhp,214 Nm,20
+XUV500,Dumdum,Lake Town,4.92,Petrol,95,6,2021,Sneha Das,142,1493 CC,140 bhp,134 Nm,18
+Swift Dzire,Dumdum,Kasba,13.69,Petrol,99,5,2019,Vikram Sinha,263,1197 CC,83 bhp,210 Nm,22
+XUV500,Dumdum,Barasat,10.52,LPG,99,5,2017,Vikram Sinha,155,1591 CC,99 bhp,217 Nm,22
+Honda City,Dumdum,Baguiati,2.65,Petrol,108,6,2021,Aarav Singh,58,1798 CC,99 bhp,217 Nm,20
+Hyundai i10,Dumdum,Newtown,5.52,CNG,98,6,2019,Neha Patel,121,1197 CC,99 bhp,237 Nm,18
+Hyundai i10,Dumdum,Cossipore,8.3,CNG,99,4,2014,Neha Patel,136,1591 CC,110 bhp,210 Nm,22
+WagonR,Dumdum,Alipore,15.5,LPG,108,7,2014,Priya Sen,183,1798 CC,140 bhp,217 Nm,18
+WagonR,Dumdum,Kankurgachi,8.98,CNG,95,4,2017,Aarav Singh,196,1248 CC,110 bhp,249 Nm,18
+XUV500,Dumdum,Sodepur,10.35,LPG,95,6,2019,Sneha Das,142,1493 CC,140 bhp,170 Nm,20
+Swift Dzire,Dumdum,Baranagar,7.3,Diesel,95,7,2017,Neha Patel,128,1493 CC,110 bhp,234 Nm,20
+Swift Dzire,Dumdum,Bandel,32.91,CNG,95,7,2015,Vikram Sinha,408,1798 CC,74 bhp,159 Nm,15
+Swift Dzire,Dumdum,Serampore,16.91,LPG,98,6,2021,Neha Patel,288,1798 CC,125 bhp,130 Nm,22
+Swift Dzire,Dumdum,Beliaghata,9.29,Diesel,99,6,2014,Rohit Menon,202,1798 CC,74 bhp,183 Nm,18
+Creta,Garia,Ballygunge,9.1,LPG,108,5,2021,Sneha Das,189,1798 CC,74 bhp,232 Nm,18
+WagonR,Garia,Dumdum,20.61,CNG,95,4,2018,Sneha Das,279,1591 CC,83 bhp,168 Nm,15
+Honda City,Garia,Howrah,18.67,LPG,98,7,2013,Priya Sen,199,1493 CC,140 bhp,221 Nm,22
+XUV500,Garia,Salt Lake,17.53,Diesel,95,7,2015,Vikram Sinha,217,1798 CC,99 bhp,187 Nm,18
+WagonR,Garia,Park Street,13.13,Petrol,98,5,2016,Vikram Sinha,127,1493 CC,140 bhp,185 Nm,18
+Swift Dzire,Garia,Jadavpur,6.66,Diesel,95,7,2012,Priya Sen,138,1798 CC,110 bhp,236 Nm,18
+Creta,Garia,Tollygunge,9.2,Petrol,99,7,2015,Neha Patel,178,1248 CC,83 bhp,181 Nm,22
+Honda City,Garia,Behala,12.16,Petrol,98,6,2013,Vikram Sinha,115,1493 CC,83 bhp,134 Nm,15
+XUV500,Garia,Esplanade,14.14,Petrol,95,4,2022,Priya Sen,201,1248 CC,83 bhp,149 Nm,20
+Swift Dzire,Garia,Shyambazar,18.62,LPG,95,6,2019,Sneha Das,288,1798 CC,83 bhp,211 Nm,15
+Creta,Garia,Lake Town,17.49,Diesel,108,6,2017,Sneha Das,273,1248 CC,74 bhp,130 Nm,20
+Hyundai i10,Garia,Kasba,8.23,LPG,98,6,2013,Priya Sen,79,1493 CC,83 bhp,191 Nm,18
+Swift Dzire,Garia,Barasat,30.98,CNG,108,7,2021,Priya Sen,307,1248 CC,125 bhp,151 Nm,15
+WagonR,Garia,Baguiati,18.31,CNG,99,4,2018,Priya Sen,255,1591 CC,140 bhp,202 Nm,15
+Creta,Garia,Newtown,17.71,CNG,98,7,2017,Neha Patel,223,1591 CC,125 bhp,241 Nm,20
+Swift Dzire,Garia,Cossipore,20.65,Petrol,108,6,2012,Aarav Singh,221,1493 CC,140 bhp,222 Nm,15
+Honda City,Garia,Alipore,12.48,CNG,95,4,2020,Sneha Das,217,1493 CC,110 bhp,204 Nm,18
+Creta,Garia,Kankurgachi,14.02,LPG,99,5,2014,Rohit Menon,178,1197 CC,110 bhp,231 Nm,22
+Hyundai i10,Garia,Sodepur,28.08,Diesel,99,4,2022,Priya Sen,328,1591 CC,99 bhp,246 Nm,15
+Honda City,Garia,Baranagar,23.78,Petrol,99,5,2019,Vikram Sinha,255,1197 CC,74 bhp,219 Nm,15
+Honda City,Garia,Bandel,52.78,CNG,98,7,2016,Neha Patel,611,1248 CC,83 bhp,235 Nm,15
+WagonR,Garia,Serampore,34.43,LPG,108,5,2012,Rohit Menon,426,1493 CC,99 bhp,166 Nm,15
+XUV500,Garia,Beliaghata,12.77,LPG,99,7,2012,Aarav Singh,215,1493 CC,83 bhp,232 Nm,20
+Creta,Howrah,Ballygunge,9.71,CNG,98,5,2019,Neha Patel,126,1197 CC,140 bhp,202 Nm,22
+WagonR,Howrah,Dumdum,14.47,CNG,98,4,2012,Priya Sen,160,1798 CC,140 bhp,235 Nm,15
+Hyundai i10,Howrah,Garia,18.67,Petrol,108,6,2020,Priya Sen,276,1591 CC,140 bhp,143 Nm,20
+XUV500,Howrah,Salt Lake,9.03,Petrol,98,4,2018,Aarav Singh,204,1248 CC,99 bhp,205 Nm,20
+Hyundai i10,Howrah,Park Street,5.73,LPG,95,7,2019,Sneha Das,157,1493 CC,140 bhp,249 Nm,20
+Honda City,Howrah,Jadavpur,12.08,CNG,98,6,2020,Aarav Singh,136,1591 CC,99 bhp,206 Nm,20
+Swift Dzire,Howrah,Tollygunge,10.24,CNG,95,5,2018,Aarav Singh,149,1248 CC,99 bhp,247 Nm,20
+XUV500,Howrah,Behala,9.73,Petrol,98,7,2013,Sneha Das,186,1248 CC,83 bhp,133 Nm,15
+Honda City,Howrah,Esplanade,5.02,LPG,98,6,2022,Sneha Das,160,1591 CC,140 bhp,183 Nm,18
+Hyundai i10,Howrah,Shyambazar,7.01,CNG,108,5,2022,Aarav Singh,94,1591 CC,125 bhp,244 Nm,22
+WagonR,Howrah,Lake Town,9.83,Diesel,99,7,2021,Sneha Das,149,1591 CC,99 bhp,177 Nm,15
+XUV500,Howrah,Kasba,11.06,Petrol,108,5,2016,Neha Patel,106,1493 CC,125 bhp,142 Nm,20
+Honda City,Howrah,Barasat,22.78,CNG,108,4,2016,Rohit Menon,223,1798 CC,83 bhp,227 Nm,18
+Swift Dzire,Howrah,Baguiati,12.34,CNG,108,5,2020,Vikram Sinha,171,1493 CC,125 bhp,231 Nm,20
+Swift Dzire,Howrah,Newtown,17.38,Petrol,99,6,2013,Sneha Das,276,1798 CC,140 bhp,148 Nm,18
+Creta,Howrah,Cossipore,6.99,LPG,99,6,2013,Sneha Das,105,1591 CC,83 bhp,232 Nm,18
+Swift Dzire,Howrah,Alipore,6.38,Diesel,108,6,2012,Neha Patel,74,1591 CC,99 bhp,156 Nm,18
+Honda City,Howrah,Kankurgachi,7.78,CNG,108,5,2022,Aarav Singh,166,1248 CC,83 bhp,130 Nm,20
+Creta,Howrah,Sodepur,13.87,Diesel,108,6,2022,Aarav Singh,121,1197 CC,74 bhp,231 Nm,15
+Honda City,Howrah,Baranagar,10.7,LPG,99,6,2016,Aarav Singh,184,1798 CC,125 bhp,175 Nm,22
+Hyundai i10,Howrah,Bandel,37.97,CNG,99,6,2019,Sneha Das,450,1197 CC,110 bhp,189 Nm,20
+Creta,Howrah,Serampore,18.45,Petrol,99,5,2019,Priya Sen,257,1591 CC,99 bhp,214 Nm,15
+Honda City,Howrah,Beliaghata,8.96,LPG,99,4,2016,Neha Patel,144,1493 CC,110 bhp,131 Nm,20
+Swift Dzire,Salt Lake,Ballygunge,9.67,LPG,108,4,2020,Priya Sen,198,1197 CC,125 bhp,141 Nm,20
+WagonR,Salt Lake,Dumdum,5.62,Petrol,98,6,2017,Vikram Sinha,133,1798 CC,110 bhp,224 Nm,18
+Honda City,Salt Lake,Garia,17.53,Diesel,99,4,2012,Sneha Das,262,1591 CC,83 bhp,205 Nm,18
+Honda City,Salt Lake,Howrah,9.03,LPG,98,4,2020,Rohit Menon,139,1197 CC,99 bhp,167 Nm,20
+Creta,Salt Lake,Park Street,7.53,Petrol,108,6,2012,Neha Patel,146,1591 CC,125 bhp,217 Nm,15
+Creta,Salt Lake,Jadavpur,12.67,LPG,95,7,2016,Vikram Sinha,151,1197 CC,74 bhp,185 Nm,20
+XUV500,Salt Lake,Tollygunge,12.9,Petrol,95,6,2017,Neha Patel,207,1493 CC,125 bhp,151 Nm,22
+Hyundai i10,Salt Lake,Behala,14.81,Petrol,95,5,2016,Aarav Singh,237,1493 CC,74 bhp,190 Nm,15
+Hyundai i10,Salt Lake,Esplanade,6.67,CNG,95,6,2017,Sneha Das,175,1197 CC,99 bhp,248 Nm,15
+Hyundai i10,Salt Lake,Shyambazar,2.46,LPG,99,7,2014,Vikram Sinha,83,1197 CC,83 bhp,136 Nm,15
+WagonR,Salt Lake,Lake Town,0.82,Diesel,108,4,2022,Neha Patel,135,1591 CC,83 bhp,246 Nm,15
+Hyundai i10,Salt Lake,Kasba,9.61,CNG,98,7,2018,Neha Patel,204,1197 CC,140 bhp,214 Nm,15
+Honda City,Salt Lake,Barasat,15.36,CNG,108,5,2014,Rohit Menon,264,1493 CC,140 bhp,240 Nm,18
+Swift Dzire,Salt Lake,Baguiati,3.32,Petrol,99,4,2016,Vikram Sinha,143,1798 CC,99 bhp,131 Nm,20
+Creta,Salt Lake,Newtown,8.62,LPG,98,6,2016,Aarav Singh,121,1493 CC,110 bhp,246 Nm,18
+XUV500,Salt Lake,Cossipore,4.32,Petrol,99,5,2017,Aarav Singh,78,1493 CC,83 bhp,190 Nm,20
+Swift Dzire,Salt Lake,Alipore,10.09,Petrol,98,7,2016,Rohit Menon,138,1493 CC,140 bhp,239 Nm,22
+Honda City,Salt Lake,Kankurgachi,3.92,LPG,108,6,2021,Vikram Sinha,81,1248 CC,125 bhp,169 Nm,22
+WagonR,Salt Lake,Sodepur,10.62,CNG,95,6,2013,Aarav Singh,150,1591 CC,110 bhp,215 Nm,22
+Honda City,Salt Lake,Baranagar,6.34,CNG,99,6,2015,Aarav Singh,105,1798 CC,83 bhp,218 Nm,15
+Creta,Salt Lake,Bandel,35.28,LPG,95,6,2021,Sneha Das,354,1248 CC,99 bhp,172 Nm,20
+XUV500,Salt Lake,Serampore,17.16,Diesel,108,7,2021,Priya Sen,212,1248 CC,83 bhp,139 Nm,20
+Swift Dzire,Salt Lake,Beliaghata,4.84,Petrol,95,5,2016,Neha Patel,128,1591 CC,140 bhp,231 Nm,22
+XUV500,Park Street,Ballygunge,4.05,Petrol,98,6,2020,Sneha Das,125,1798 CC,110 bhp,149 Nm,18
+Hyundai i10,Park Street,Dumdum,12.94,LPG,95,5,2016,Aarav Singh,214,1798 CC,140 bhp,200 Nm,15
+Creta,Park Street,Garia,13.13,Diesel,98,6,2014,Neha Patel,200,1591 CC,83 bhp,239 Nm,15
+XUV500,Park Street,Howrah,5.73,LPG,108,4,2020,Priya Sen,148,1591 CC,74 bhp,130 Nm,15
+Honda City,Park Street,Salt Lake,7.53,CNG,95,5,2014,Priya Sen,131,1248 CC,110 bhp,218 Nm,18
+Swift Dzire,Park Street,Jadavpur,6.75,Petrol,98,6,2022,Vikram Sinha,168,1798 CC,74 bhp,213 Nm,15
+Creta,Park Street,Tollygunge,5.81,Diesel,95,7,2018,Aarav Singh,148,1248 CC,74 bhp,189 Nm,20
+Creta,Park Street,Behala,7.28,LPG,99,6,2021,Vikram Sinha,116,1248 CC,140 bhp,135 Nm,15
+WagonR,Park Street,Esplanade,1.13,CNG,108,7,2020,Aarav Singh,120,1197 CC,74 bhp,148 Nm,15
+Swift Dzire,Park Street,Shyambazar,7.05,LPG,99,7,2016,Vikram Sinha,115,1197 CC,83 bhp,153 Nm,18
+Creta,Park Street,Lake Town,8.08,Petrol,108,5,2012,Rohit Menon,96,1197 CC,99 bhp,241 Nm,18
+Swift Dzire,Park Street,Kasba,5.33,LPG,95,7,2018,Neha Patel,128,1798 CC,110 bhp,213 Nm,15
+Hyundai i10,Park Street,Barasat,22.87,LPG,98,5,2014,Sneha Das,270,1248 CC,99 bhp,193 Nm,15
+Swift Dzire,Park Street,Baguiati,10.34,CNG,99,4,2018,Aarav Singh,171,1248 CC,74 bhp,217 Nm,22
+WagonR,Park Street,Newtown,14.04,Petrol,95,4,2012,Aarav Singh,162,1197 CC,140 bhp,165 Nm,22
+Honda City,Park Street,Cossipore,8.56,LPG,99,4,2012,Sneha Das,187,1248 CC,110 bhp,193 Nm,22
+XUV500,Park Street,Alipore,2.56,LPG,108,4,2021,Neha Patel,115,1248 CC,140 bhp,147 Nm,20
+XUV500,Park Street,Kankurgachi,4.06,LPG,108,5,2014,Vikram Sinha,105,1197 CC,99 bhp,163 Nm,22
+WagonR,Park Street,Sodepur,16.41,LPG,99,6,2021,Rohit Menon,202,1248 CC,99 bhp,158 Nm,15
+Creta,Park Street,Baranagar,12.34,LPG,95,7,2013,Rohit Menon,163,1248 CC,83 bhp,241 Nm,20
+WagonR,Park Street,Bandel,41.31,Petrol,99,5,2014,Neha Patel,450,1248 CC,83 bhp,218 Nm,15
+Honda City,Park Street,Serampore,22.15,LPG,108,5,2017,Neha Patel,221,1493 CC,74 bhp,237 Nm,18
+Honda City,Park Street,Beliaghata,4.47,Petrol,99,4,2012,Sneha Das,84,1248 CC,125 bhp,196 Nm,15
+XUV500,Jadavpur,Ballygunge,3.04,CNG,108,7,2014,Neha Patel,59,1493 CC,125 bhp,131 Nm,18
+Honda City,Jadavpur,Dumdum,17.03,Diesel,108,4,2016,Priya Sen,226,1591 CC,74 bhp,191 Nm,15
+XUV500,Jadavpur,Garia,6.66,Diesel,98,7,2016,Vikram Sinha,135,1798 CC,125 bhp,186 Nm,20
+Swift Dzire,Jadavpur,Howrah,12.08,Diesel,108,6,2020,Sneha Das,143,1798 CC,110 bhp,243 Nm,20
+XUV500,Jadavpur,Salt Lake,12.67,CNG,95,6,2022,Neha Patel,183,1248 CC,83 bhp,132 Nm,15
+Creta,Jadavpur,Park Street,6.75,Diesel,99,7,2019,Aarav Singh,86,1248 CC,83 bhp,194 Nm,15
+Honda City,Jadavpur,Tollygunge,2.92,LPG,95,5,2020,Neha Patel,127,1248 CC,74 bhp,145 Nm,15
+Hyundai i10,Jadavpur,Behala,6.43,Petrol,108,6,2015,Neha Patel,74,1591 CC,140 bhp,172 Nm,20
+Hyundai i10,Jadavpur,Esplanade,7.84,Diesel,99,5,2013,Priya Sen,156,1798 CC,110 bhp,196 Nm,22
+Swift Dzire,Jadavpur,Shyambazar,13.13,CNG,108,5,2017,Vikram Sinha,190,1798 CC,110 bhp,201 Nm,18
+Creta,Jadavpur,Lake Town,12.89,Diesel,108,7,2018,Priya Sen,148,1798 CC,110 bhp,141 Nm,18
+Swift Dzire,Jadavpur,Kasba,3.39,CNG,95,6,2020,Aarav Singh,152,1591 CC,110 bhp,247 Nm,15
+Honda City,Jadavpur,Barasat,27.53,CNG,99,5,2015,Neha Patel,298,1248 CC,125 bhp,189 Nm,20
+Swift Dzire,Jadavpur,Baguiati,14.44,Diesel,98,7,2022,Rohit Menon,183,1248 CC,83 bhp,249 Nm,22
+Hyundai i10,Jadavpur,Newtown,15.89,Diesel,99,6,2018,Sneha Das,216,1197 CC,110 bhp,230 Nm,15
+Swift Dzire,Jadavpur,Cossipore,14.96,CNG,99,4,2012,Neha Patel,149,1798 CC,140 bhp,165 Nm,15
+Hyundai i10,Jadavpur,Alipore,5.82,Diesel,108,6,2016,Rohit Menon,113,1248 CC,125 bhp,145 Nm,22
+WagonR,Jadavpur,Kankurgachi,8.78,CNG,98,4,2012,Vikram Sinha,193,1493 CC,125 bhp,221 Nm,18
+WagonR,Jadavpur,Sodepur,22.72,Diesel,98,6,2022,Sneha Das,199,1591 CC,140 bhp,146 Nm,20
+Swift Dzire,Jadavpur,Baranagar,18.49,Petrol,108,7,2022,Sneha Das,238,1493 CC,99 bhp,190 Nm,20
+Honda City,Jadavpur,Bandel,47.65,LPG,108,7,2014,Rohit Menon,417,1493 CC,140 bhp,193 Nm,22
+XUV500,Jadavpur,Serampore,28.74,Diesel,98,4,2013,Aarav Singh,233,1197 CC,110 bhp,196 Nm,22
+Creta,Jadavpur,Beliaghata,7.92,Diesel,95,6,2013,Sneha Das,142,1197 CC,140 bhp,218 Nm,15
+Honda City,Tollygunge,Ballygunge,3.81,Petrol,108,4,2017,Neha Patel,129,1798 CC,74 bhp,145 Nm,20
+XUV500,Tollygunge,Dumdum,17.86,Petrol,108,5,2015,Vikram Sinha,188,1591 CC,110 bhp,200 Nm,18
+Hyundai i10,Tollygunge,Garia,9.2,Diesel,98,7,2022,Neha Patel,202,1493 CC,99 bhp,154 Nm,15
+Honda City,Tollygunge,Howrah,10.24,CNG,99,6,2018,Rohit Menon,196,1248 CC,83 bhp,170 Nm,22
+Hyundai i10,Tollygunge,Salt Lake,12.9,LPG,98,4,2013,Aarav Singh,218,1798 CC,99 bhp,140 Nm,18
+Creta,Tollygunge,Park Street,5.81,Diesel,98,7,2020,Neha Patel,161,1798 CC,125 bhp,156 Nm,22
+XUV500,Tollygunge,Jadavpur,2.92,Petrol,99,6,2019,Vikram Sinha,48,1248 CC,110 bhp,141 Nm,15
+Honda City,Tollygunge,Behala,3.56,Petrol,99,7,2022,Priya Sen,59,1493 CC,125 bhp,245 Nm,20
+Hyundai i10,Tollygunge,Esplanade,6.93,Diesel,95,5,2014,Sneha Das,106,1798 CC,99 bhp,236 Nm,15
+Swift Dzire,Tollygunge,Shyambazar,12.8,Diesel,95,6,2013,Rohit Menon,229,1591 CC,74 bhp,151 Nm,20
+XUV500,Tollygunge,Lake Town,13.29,Petrol,98,6,2016,Priya Sen,212,1248 CC,125 bhp,133 Nm,22
+WagonR,Tollygunge,Kasba,5.17,Diesel,95,7,2016,Rohit Menon,88,1798 CC,110 bhp,195 Nm,22
+Swift Dzire,Tollygunge,Barasat,28.18,Diesel,99,7,2021,Sneha Das,325,1197 CC,125 bhp,237 Nm,22
+Swift Dzire,Tollygunge,Baguiati,15.21,Petrol,99,4,2021,Rohit Menon,207,1197 CC,74 bhp,131 Nm,18
+Hyundai i10,Tollygunge,Newtown,17.56,LPG,95,7,2015,Vikram Sinha,250,1798 CC,83 bhp,166 Nm,22
+WagonR,Tollygunge,Cossipore,14.37,CNG,99,4,2017,Priya Sen,214,1248 CC,74 bhp,132 Nm,20
+WagonR,Tollygunge,Alipore,3.9,Diesel,95,5,2017,Sneha Das,106,1493 CC,140 bhp,141 Nm,15
+Honda City,Tollygunge,Kankurgachi,9.02,Petrol,95,7,2014,Priya Sen,178,1493 CC,125 bhp,180 Nm,18
+Hyundai i10,Tollygunge,Sodepur,22.22,CNG,99,7,2016,Neha Patel,278,1493 CC,125 bhp,238 Nm,18
+Creta,Tollygunge,Baranagar,18.14,Petrol,99,6,2013,Sneha Das,277,1493 CC,125 bhp,170 Nm,22
+Hyundai i10,Tollygunge,Bandel,47.1,Diesel,99,5,2022,Rohit Menon,483,1493 CC,140 bhp,239 Nm,20
+XUV500,Tollygunge,Serampore,27.87,CNG,108,6,2018,Neha Patel,347,1248 CC,110 bhp,188 Nm,22
+Honda City,Tollygunge,Beliaghata,8.59,Petrol,99,4,2022,Aarav Singh,119,1493 CC,74 bhp,190 Nm,18
+WagonR,Behala,Ballygunge,6.99,Petrol,99,6,2019,Aarav Singh,105,1493 CC,125 bhp,144 Nm,22
+Hyundai i10,Behala,Dumdum,20.16,CNG,99,4,2021,Vikram Sinha,214,1197 CC,125 bhp,167 Nm,15
+Swift Dzire,Behala,Garia,12.16,Petrol,99,5,2018,Sneha Das,203,1591 CC,125 bhp,178 Nm,15
+Creta,Behala,Howrah,9.73,LPG,95,7,2016,Sneha Das,117,1197 CC,140 bhp,247 Nm,15
+Hyundai i10,Behala,Salt Lake,14.81,Diesel,108,7,2017,Sneha Das,191,1591 CC,125 bhp,226 Nm,22
+Swift Dzire,Behala,Park Street,7.28,Diesel,108,5,2013,Vikram Sinha,118,1248 CC,110 bhp,184 Nm,20
+Honda City,Behala,Jadavpur,6.43,Petrol,99,6,2018,Neha Patel,119,1197 CC,110 bhp,190 Nm,22
+Swift Dzire,Behala,Tollygunge,3.56,LPG,108,6,2020,Sneha Das,139,1197 CC,140 bhp,171 Nm,22
+Hyundai i10,Behala,Esplanade,8.22,LPG,108,5,2018,Rohit Menon,130,1798 CC,125 bhp,208 Nm,18
+Creta,Behala,Shyambazar,14.15,Petrol,99,4,2012,Aarav Singh,229,1591 CC,99 bhp,132 Nm,22
+Swift Dzire,Behala,Lake Town,15.35,LPG,108,7,2016,Vikram Sinha,180,1197 CC,140 bhp,205 Nm,18
+Swift Dzire,Behala,Kasba,8.57,Diesel,99,4,2014,Sneha Das,162,1248 CC,140 bhp,218 Nm,20
+XUV500,Behala,Barasat,30.15,LPG,99,5,2012,Rohit Menon,309,1798 CC,140 bhp,149 Nm,18
+Honda City,Behala,Baguiati,17.53,Petrol,98,6,2018,Rohit Menon,248,1798 CC,99 bhp,199 Nm,20
+Swift Dzire,Behala,Newtown,20.55,CNG,95,4,2017,Vikram Sinha,242,1591 CC,99 bhp,231 Nm,20
+Swift Dzire,Behala,Cossipore,15.32,Petrol,98,7,2019,Neha Patel,225,1591 CC,125 bhp,199 Nm,18
+Swift Dzire,Behala,Alipore,4.73,Diesel,98,4,2018,Sneha Das,98,1197 CC,110 bhp,237 Nm,22
+Hyundai i10,Behala,Kankurgachi,11.19,Petrol,98,6,2017,Sneha Das,146,1197 CC,140 bhp,190 Nm,20
+Honda City,Behala,Sodepur,23.03,CNG,108,5,2012,Sneha Das,303,1493 CC,140 bhp,180 Nm,20
+WagonR,Behala,Baranagar,19.23,CNG,98,4,2022,Rohit Menon,279,1248 CC,140 bhp,163 Nm,20
+Creta,Behala,Bandel,47.59,LPG,108,4,2016,Vikram Sinha,521,1591 CC,110 bhp,204 Nm,20
+Hyundai i10,Behala,Serampore,28.12,Diesel,99,7,2013,Aarav Singh,286,1197 CC,125 bhp,184 Nm,20
+Swift Dzire,Behala,Beliaghata,11.14,Diesel,98,5,2015,Priya Sen,144,1493 CC,74 bhp,182 Nm,15
+WagonR,Esplanade,Ballygunge,5.04,LPG,95,4,2013,Rohit Menon,140,1493 CC,110 bhp,182 Nm,20
+Honda City,Esplanade,Dumdum,12.19,LPG,98,5,2019,Rohit Menon,161,1248 CC,140 bhp,227 Nm,15
+Honda City,Esplanade,Garia,14.14,Diesel,95,7,2021,Rohit Menon,217,1248 CC,140 bhp,229 Nm,22
+XUV500,Esplanade,Howrah,5.02,LPG,108,5,2018,Aarav Singh,155,1197 CC,125 bhp,163 Nm,18
+XUV500,Esplanade,Salt Lake,6.67,CNG,99,6,2016,Rohit Menon,175,1493 CC,140 bhp,171 Nm,20
+Honda City,Esplanade,Park Street,1.13,Petrol,95,7,2021,Vikram Sinha,97,1248 CC,74 bhp,161 Nm,15
+WagonR,Esplanade,Jadavpur,7.84,CNG,98,5,2015,Priya Sen,129,1591 CC,83 bhp,179 Nm,20
+Swift Dzire,Esplanade,Tollygunge,6.93,Petrol,98,6,2017,Priya Sen,150,1493 CC,99 bhp,200 Nm,20
+Honda City,Esplanade,Behala,8.22,Diesel,98,6,2012,Sneha Das,146,1197 CC,83 bhp,173 Nm,18
+Creta,Esplanade,Shyambazar,5.99,CNG,108,6,2018,Aarav Singh,100,1591 CC,140 bhp,242 Nm,22
+Hyundai i10,Esplanade,Lake Town,7.28,LPG,99,7,2019,Sneha Das,197,1248 CC,83 bhp,214 Nm,22
+Hyundai i10,Esplanade,Kasba,6.16,LPG,108,5,2015,Vikram Sinha,99,1591 CC,125 bhp,248 Nm,20
+Hyundai i10,Esplanade,Barasat,21.96,LPG,99,7,2019,Rohit Menon,230,1493 CC,125 bhp,246 Nm,15
+Hyundai i10,Esplanade,Baguiati,9.64,Petrol,95,5,2020,Vikram Sinha,160,1493 CC,110 bhp,182 Nm,22
+Honda City,Esplanade,Newtown,13.69,Petrol,99,7,2019,Sneha Das,194,1493 CC,99 bhp,134 Nm,20
+XUV500,Esplanade,Cossipore,7.44,Petrol,98,7,2021,Vikram Sinha,133,1591 CC,140 bhp,132 Nm,18
+XUV500,Esplanade,Alipore,3.5,Petrol,95,5,2012,Aarav Singh,142,1591 CC,125 bhp,164 Nm,20
+XUV500,Esplanade,Kankurgachi,3.58,Petrol,95,6,2014,Vikram Sinha,116,1493 CC,125 bhp,223 Nm,18
+WagonR,Esplanade,Sodepur,15.29,Petrol,98,5,2012,Vikram Sinha,138,1248 CC,83 bhp,243 Nm,20
+Swift Dzire,Esplanade,Baranagar,11.24,CNG,99,6,2020,Priya Sen,143,1591 CC,99 bhp,197 Nm,18
+Swift Dzire,Esplanade,Bandel,40.18,CNG,108,4,2013,Neha Patel,496,1493 CC,140 bhp,248 Nm,15
+Honda City,Esplanade,Serampore,21.01,Diesel,95,6,2022,Neha Patel,239,1591 CC,83 bhp,166 Nm,18
+Swift Dzire,Esplanade,Beliaghata,4.33,Petrol,99,5,2018,Sneha Das,168,1248 CC,99 bhp,198 Nm,20
+Creta,Shyambazar,Ballygunge,10.09,CNG,95,4,2015,Vikram Sinha,177,1798 CC,99 bhp,134 Nm,18
+WagonR,Shyambazar,Dumdum,7.48,Diesel,98,7,2018,Neha Patel,118,1197 CC,99 bhp,200 Nm,20
+Hyundai i10,Shyambazar,Garia,18.62,CNG,99,7,2022,Sneha Das,246,1591 CC,74 bhp,156 Nm,20
+Hyundai i10,Shyambazar,Howrah,7.01,LPG,108,6,2021,Rohit Menon,169,1248 CC,140 bhp,142 Nm,20
+Creta,Shyambazar,Salt Lake,2.46,LPG,99,4,2022,Vikram Sinha,134,1248 CC,110 bhp,162 Nm,22
+WagonR,Shyambazar,Park Street,7.05,LPG,98,6,2017,Vikram Sinha,178,1591 CC,83 bhp,147 Nm,15
+Swift Dzire,Shyambazar,Jadavpur,13.13,LPG,108,6,2018,Sneha Das,224,1197 CC,99 bhp,181 Nm,18
+Honda City,Shyambazar,Tollygunge,12.8,Diesel,99,7,2021,Aarav Singh,176,1197 CC,83 bhp,171 Nm,18
+Creta,Shyambazar,Behala,14.15,CNG,108,5,2020,Priya Sen,200,1798 CC,74 bhp,246 Nm,22
+XUV500,Shyambazar,Esplanade,5.99,CNG,99,4,2022,Rohit Menon,176,1591 CC,110 bhp,248 Nm,18
+Creta,Shyambazar,Lake Town,3.25,Petrol,108,6,2018,Aarav Singh,92,1798 CC,125 bhp,228 Nm,22
+WagonR,Shyambazar,Kasba,10.44,CNG,95,6,2022,Vikram Sinha,120,1248 CC,125 bhp,149 Nm,20
+XUV500,Shyambazar,Barasat,16.23,LPG,95,4,2020,Sneha Das,263,1493 CC,74 bhp,140 Nm,20
+WagonR,Shyambazar,Baguiati,5.56,Diesel,108,6,2022,Sneha Das,73,1248 CC,83 bhp,232 Nm,15
+XUV500,Shyambazar,Newtown,11.05,LPG,98,5,2012,Vikram Sinha,156,1798 CC,74 bhp,231 Nm,15
+Honda City,Shyambazar,Cossipore,2.14,Diesel,95,7,2021,Vikram Sinha,99,1591 CC,110 bhp,179 Nm,20
+Swift Dzire,Shyambazar,Alipore,9.48,LPG,98,6,2019,Vikram Sinha,137,1798 CC,74 bhp,147 Nm,18
+Creta,Shyambazar,Kankurgachi,4.6,Petrol,98,5,2022,Aarav Singh,91,1591 CC,83 bhp,163 Nm,20
+Hyundai i10,Shyambazar,Sodepur,9.6,Petrol,99,5,2012,Neha Patel,192,1798 CC,125 bhp,166 Nm,20
+Hyundai i10,Shyambazar,Baranagar,5.37,CNG,98,5,2012,Sneha Das,108,1591 CC,125 bhp,241 Nm,15
+WagonR,Shyambazar,Bandel,34.53,Petrol,98,6,2012,Priya Sen,374,1493 CC,74 bhp,234 Nm,20
+Swift Dzire,Shyambazar,Serampore,15.81,CNG,108,7,2014,Sneha Das,187,1248 CC,74 bhp,140 Nm,18
+WagonR,Shyambazar,Beliaghata,5.93,Diesel,99,4,2015,Vikram Sinha,171,1798 CC,83 bhp,170 Nm,22
+WagonR,Lake Town,Ballygunge,9.94,Petrol,95,4,2016,Aarav Singh,100,1493 CC,99 bhp,221 Nm,22
+Hyundai i10,Lake Town,Dumdum,4.92,CNG,99,7,2016,Neha Patel,119,1248 CC,110 bhp,176 Nm,20
+WagonR,Lake Town,Garia,17.49,Diesel,95,6,2013,Sneha Das,183,1798 CC,125 bhp,241 Nm,22
+Swift Dzire,Lake Town,Howrah,9.83,CNG,95,5,2019,Sneha Das,120,1197 CC,74 bhp,249 Nm,15
+Honda City,Lake Town,Salt Lake,0.82,LPG,108,5,2022,Rohit Menon,134,1248 CC,99 bhp,181 Nm,15
+XUV500,Lake Town,Park Street,8.08,Petrol,99,7,2021,Aarav Singh,133,1591 CC,83 bhp,215 Nm,15
+XUV500,Lake Town,Jadavpur,12.89,Petrol,95,7,2013,Priya Sen,242,1798 CC,140 bhp,144 Nm,20
+XUV500,Lake Town,Tollygunge,13.29,Diesel,99,6,2017,Priya Sen,154,1591 CC,83 bhp,230 Nm,20
+XUV500,Lake Town,Behala,15.35,Diesel,98,4,2021,Neha Patel,255,1493 CC,140 bhp,206 Nm,22
+Creta,Lake Town,Esplanade,7.28,Petrol,95,4,2012,Neha Patel,176,1248 CC,125 bhp,203 Nm,15
+WagonR,Lake Town,Shyambazar,3.25,Diesel,99,6,2019,Aarav Singh,101,1493 CC,125 bhp,240 Nm,20
+Swift Dzire,Lake Town,Kasba,9.74,Petrol,95,6,2012,Priya Sen,177,1493 CC,110 bhp,197 Nm,18
+Swift Dzire,Lake Town,Barasat,14.89,CNG,108,6,2018,Neha Patel,175,1197 CC,110 bhp,155 Nm,20
+XUV500,Lake Town,Baguiati,2.52,Diesel,98,7,2016,Neha Patel,82,1197 CC,83 bhp,225 Nm,15
+Hyundai i10,Lake Town,Newtown,7.81,Diesel,99,5,2020,Rohit Menon,101,1248 CC,110 bhp,204 Nm,20
+Creta,Lake Town,Cossipore,4.99,Diesel,99,5,2019,Sneha Das,126,1591 CC,74 bhp,184 Nm,20
+WagonR,Lake Town,Alipore,10.64,Petrol,98,5,2017,Vikram Sinha,119,1493 CC,74 bhp,142 Nm,18
+Swift Dzire,Lake Town,Kankurgachi,4.27,LPG,99,4,2020,Aarav Singh,107,1493 CC,83 bhp,211 Nm,15
+Swift Dzire,Lake Town,Sodepur,10.81,Diesel,99,4,2021,Neha Patel,142,1248 CC,83 bhp,246 Nm,20
+WagonR,Lake Town,Baranagar,6.59,Diesel,98,4,2022,Rohit Menon,116,1798 CC,83 bhp,176 Nm,18
+XUV500,Lake Town,Bandel,35.29,CNG,98,7,2014,Neha Patel,307,1798 CC,110 bhp,205 Nm,22
+Honda City,Lake Town,Serampore,17.42,LPG,108,5,2021,Neha Patel,227,1798 CC,99 bhp,214 Nm,18
+Creta,Lake Town,Beliaghata,4.98,LPG,98,4,2012,Aarav Singh,92,1591 CC,74 bhp,142 Nm,15
+Honda City,Kasba,Ballygunge,1.73,Diesel,95,6,2016,Vikram Sinha,143,1493 CC,99 bhp,158 Nm,18
+Honda City,Kasba,Dumdum,13.69,LPG,98,6,2016,Vikram Sinha,181,1493 CC,83 bhp,194 Nm,22
+XUV500,Kasba,Garia,8.23,Diesel,108,7,2017,Priya Sen,134,1197 CC,99 bhp,156 Nm,15
+Creta,Kasba,Howrah,11.06,CNG,95,6,2013,Neha Patel,182,1197 CC,74 bhp,197 Nm,15
+WagonR,Kasba,Salt Lake,9.61,Petrol,95,4,2021,Sneha Das,219,1197 CC,74 bhp,190 Nm,15
+Hyundai i10,Kasba,Park Street,5.33,Diesel,98,5,2017,Priya Sen,99,1591 CC,83 bhp,130 Nm,18
+XUV500,Kasba,Jadavpur,3.39,CNG,108,7,2013,Neha Patel,154,1798 CC,140 bhp,207 Nm,22
+WagonR,Kasba,Tollygunge,5.17,CNG,108,6,2021,Sneha Das,68,1197 CC,140 bhp,171 Nm,22
+Hyundai i10,Kasba,Behala,8.57,LPG,98,7,2017,Priya Sen,125,1248 CC,99 bhp,180 Nm,20
+Hyundai i10,Kasba,Esplanade,6.16,Diesel,108,5,2019,Aarav Singh,133,1798 CC,125 bhp,223 Nm,22
+WagonR,Kasba,Shyambazar,10.44,Diesel,99,5,2022,Aarav Singh,130,1248 CC,74 bhp,208 Nm,22
+Swift Dzire,Kasba,Lake Town,9.74,Petrol,99,6,2013,Aarav Singh,104,1591 CC,140 bhp,199 Nm,15
+XUV500,Kasba,Barasat,24.2,Petrol,95,5,2018,Aarav Singh,318,1798 CC,110 bhp,133 Nm,15
+XUV500,Kasba,Baguiati,11.12,Petrol,98,5,2022,Vikram Sinha,193,1591 CC,140 bhp,212 Nm,22
+XUV500,Kasba,Newtown,12.58,Diesel,99,5,2013,Neha Patel,217,1591 CC,140 bhp,236 Nm,20
+XUV500,Kasba,Cossipore,12.44,CNG,98,6,2022,Aarav Singh,187,1493 CC,83 bhp,198 Nm,22
+Hyundai i10,Kasba,Alipore,5.82,Petrol,108,5,2018,Priya Sen,76,1197 CC,99 bhp,141 Nm,18
+WagonR,Kasba,Kankurgachi,5.88,Diesel,108,5,2015,Sneha Das,158,1798 CC,140 bhp,248 Nm,20
+WagonR,Kasba,Sodepur,19.98,LPG,108,6,2019,Vikram Sinha,187,1197 CC,83 bhp,156 Nm,15
+Honda City,Kasba,Baranagar,15.69,Petrol,95,5,2012,Sneha Das,207,1248 CC,83 bhp,246 Nm,15
+XUV500,Kasba,Bandel,44.83,Diesel,95,7,2016,Neha Patel,513,1798 CC,99 bhp,216 Nm,18
+Hyundai i10,Kasba,Serampore,26.24,Petrol,99,5,2020,Priya Sen,303,1197 CC,99 bhp,151 Nm,18
+Hyundai i10,Kasba,Beliaghata,4.77,Diesel,95,4,2016,Vikram Sinha,132,1197 CC,140 bhp,209 Nm,20
+Honda City,Barasat,Ballygunge,24.71,CNG,98,4,2020,Rohit Menon,295,1493 CC,110 bhp,178 Nm,20
+Honda City,Barasat,Dumdum,10.52,Petrol,95,5,2012,Vikram Sinha,173,1591 CC,74 bhp,218 Nm,20
+Swift Dzire,Barasat,Garia,30.98,CNG,98,5,2016,Vikram Sinha,306,1493 CC,140 bhp,130 Nm,20
+Hyundai i10,Barasat,Howrah,22.78,Petrol,108,6,2016,Aarav Singh,311,1493 CC,74 bhp,228 Nm,18
+Swift Dzire,Barasat,Salt Lake,15.36,LPG,108,5,2021,Rohit Menon,192,1798 CC,74 bhp,168 Nm,20
+Swift Dzire,Barasat,Park Street,22.87,CNG,99,4,2019,Rohit Menon,198,1248 CC,99 bhp,139 Nm,22
+Swift Dzire,Barasat,Jadavpur,27.53,Petrol,98,6,2021,Vikram Sinha,377,1591 CC,83 bhp,227 Nm,15
+Creta,Barasat,Tollygunge,28.18,LPG,99,4,2015,Sneha Das,384,1798 CC,99 bhp,142 Nm,18
+XUV500,Barasat,Behala,30.15,Petrol,95,7,2019,Neha Patel,331,1798 CC,83 bhp,203 Nm,18
+Swift Dzire,Barasat,Esplanade,21.96,Diesel,98,4,2019,Sneha Das,311,1591 CC,110 bhp,162 Nm,15
+XUV500,Barasat,Shyambazar,16.23,LPG,99,6,2014,Neha Patel,190,1248 CC,83 bhp,214 Nm,22
+XUV500,Barasat,Lake Town,14.89,Diesel,98,6,2022,Sneha Das,195,1798 CC,74 bhp,164 Nm,15
+Creta,Barasat,Kasba,24.2,Petrol,98,6,2013,Aarav Singh,320,1197 CC,125 bhp,142 Nm,22
+Swift Dzire,Barasat,Baguiati,13.09,CNG,108,5,2014,Neha Patel,219,1493 CC,74 bhp,212 Nm,18
+XUV500,Barasat,Newtown,13.88,Diesel,95,6,2013,Vikram Sinha,232,1591 CC,83 bhp,191 Nm,15
+Honda City,Barasat,Cossipore,15.79,Diesel,98,5,2019,Priya Sen,244,1798 CC,140 bhp,136 Nm,22
+Honda City,Barasat,Alipore,25.43,CNG,108,6,2014,Vikram Sinha,304,1248 CC,125 bhp,183 Nm,20
+Hyundai i10,Barasat,Kankurgachi,19.16,CNG,99,6,2021,Priya Sen,199,1248 CC,83 bhp,152 Nm,15
+Swift Dzire,Barasat,Sodepur,11.25,CNG,98,6,2018,Aarav Singh,172,1591 CC,140 bhp,130 Nm,15
+Creta,Barasat,Baranagar,12.31,Petrol,98,4,2021,Sneha Das,146,1197 CC,110 bhp,243 Nm,18
+XUV500,Barasat,Bandel,24.59,CNG,98,4,2022,Priya Sen,306,1591 CC,110 bhp,241 Nm,20
+XUV500,Barasat,Serampore,14.65,LPG,108,5,2015,Neha Patel,260,1798 CC,140 bhp,156 Nm,20
+Creta,Barasat,Beliaghata,19.69,Diesel,98,5,2021,Aarav Singh,276,1248 CC,74 bhp,210 Nm,22
+WagonR,Baguiati,Ballygunge,11.64,Petrol,108,5,2015,Aarav Singh,145,1197 CC,83 bhp,220 Nm,18
+Creta,Baguiati,Dumdum,2.65,Diesel,98,7,2015,Sneha Das,135,1248 CC,110 bhp,145 Nm,22
+Swift Dzire,Baguiati,Garia,18.31,CNG,108,7,2017,Neha Patel,205,1493 CC,74 bhp,188 Nm,20
+WagonR,Baguiati,Howrah,12.34,CNG,108,6,2015,Vikram Sinha,117,1798 CC,110 bhp,220 Nm,15
+Creta,Baguiati,Salt Lake,3.32,Petrol,95,5,2016,Neha Patel,86,1248 CC,140 bhp,240 Nm,20
+WagonR,Baguiati,Park Street,10.34,LPG,98,6,2013,Neha Patel,140,1248 CC,83 bhp,214 Nm,18
+Creta,Baguiati,Jadavpur,14.44,Diesel,108,5,2022,Aarav Singh,251,1197 CC,140 bhp,151 Nm,22
+Hyundai i10,Baguiati,Tollygunge,15.21,Diesel,95,7,2015,Aarav Singh,230,1248 CC,74 bhp,190 Nm,22
+WagonR,Baguiati,Behala,17.53,LPG,108,7,2012,Aarav Singh,181,1493 CC,74 bhp,231 Nm,22
+Hyundai i10,Baguiati,Esplanade,9.64,CNG,95,6,2012,Neha Patel,128,1197 CC,99 bhp,137 Nm,15
+Hyundai i10,Baguiati,Shyambazar,5.56,Petrol,99,4,2022,Priya Sen,158,1248 CC,140 bhp,176 Nm,20
+WagonR,Baguiati,Lake Town,2.52,Diesel,108,5,2013,Aarav Singh,62,1197 CC,74 bhp,160 Nm,18
+Swift Dzire,Baguiati,Kasba,11.12,Diesel,99,5,2014,Rohit Menon,192,1248 CC,99 bhp,229 Nm,18
+XUV500,Baguiati,Barasat,13.09,Petrol,99,4,2013,Neha Patel,230,1591 CC,125 bhp,195 Nm,20
+Hyundai i10,Baguiati,Newtown,5.67,CNG,95,5,2013,Rohit Menon,174,1197 CC,125 bhp,237 Nm,20
+WagonR,Baguiati,Cossipore,6.93,Diesel,95,4,2012,Aarav Singh,187,1248 CC,74 bhp,195 Nm,18
+Honda City,Baguiati,Alipore,12.89,CNG,95,4,2015,Vikram Sinha,233,1493 CC,99 bhp,178 Nm,22
+Hyundai i10,Baguiati,Kankurgachi,6.34,LPG,95,5,2020,Aarav Singh,98,1493 CC,110 bhp,186 Nm,22
+Creta,Baguiati,Sodepur,11.08,Diesel,99,4,2012,Aarav Singh,224,1197 CC,99 bhp,196 Nm,22
+Honda City,Baguiati,Baranagar,7.27,LPG,98,5,2017,Vikram Sinha,110,1248 CC,74 bhp,152 Nm,20
+Swift Dzire,Baguiati,Bandel,34.75,Diesel,95,4,2018,Neha Patel,421,1248 CC,74 bhp,235 Nm,20
+Hyundai i10,Baguiati,Serampore,17.78,CNG,108,4,2018,Priya Sen,209,1798 CC,83 bhp,168 Nm,22
+Creta,Baguiati,Beliaghata,6.64,CNG,99,7,2020,Priya Sen,109,1798 CC,99 bhp,187 Nm,18
+WagonR,Newtown,Ballygunge,13.76,Diesel,98,5,2017,Priya Sen,150,1591 CC,140 bhp,159 Nm,15
+Hyundai i10,Newtown,Dumdum,5.52,LPG,98,5,2012,Vikram Sinha,179,1197 CC,110 bhp,176 Nm,18
+WagonR,Newtown,Garia,17.71,Petrol,95,5,2018,Neha Patel,263,1493 CC,99 bhp,198 Nm,15
+Creta,Newtown,Howrah,17.38,Petrol,98,4,2020,Vikram Sinha,182,1798 CC,140 bhp,225 Nm,22
+Creta,Newtown,Salt Lake,8.62,LPG,99,7,2014,Neha Patel,160,1197 CC,99 bhp,235 Nm,20
+Hyundai i10,Newtown,Park Street,14.04,LPG,98,6,2022,Rohit Menon,210,1591 CC,74 bhp,211 Nm,22
+WagonR,Newtown,Jadavpur,15.89,Diesel,95,6,2019,Neha Patel,266,1248 CC,83 bhp,202 Nm,18
+Hyundai i10,Newtown,Tollygunge,17.56,LPG,99,7,2021,Rohit Menon,199,1591 CC,99 bhp,156 Nm,22
+WagonR,Newtown,Behala,20.55,Petrol,108,7,2021,Priya Sen,274,1591 CC,83 bhp,202 Nm,22
+WagonR,Newtown,Esplanade,13.69,CNG,98,4,2015,Aarav Singh,248,1798 CC,83 bhp,211 Nm,18
+Honda City,Newtown,Shyambazar,11.05,Diesel,95,5,2022,Vikram Sinha,204,1197 CC,99 bhp,248 Nm,18
+Swift Dzire,Newtown,Lake Town,7.81,Petrol,98,7,2015,Priya Sen,184,1197 CC,110 bhp,216 Nm,20
+WagonR,Newtown,Kasba,12.58,Diesel,99,6,2022,Aarav Singh,140,1248 CC,83 bhp,214 Nm,22
+Swift Dzire,Newtown,Barasat,13.88,Petrol,108,4,2021,Rohit Menon,155,1197 CC,125 bhp,148 Nm,18
+Honda City,Newtown,Baguiati,5.67,CNG,108,4,2020,Vikram Sinha,102,1493 CC,99 bhp,181 Nm,22
+Hyundai i10,Newtown,Cossipore,12.59,CNG,98,5,2017,Priya Sen,211,1493 CC,125 bhp,138 Nm,22
+XUV500,Newtown,Alipore,16.33,LPG,108,6,2014,Priya Sen,198,1591 CC,99 bhp,189 Nm,18
+XUV500,Newtown,Kankurgachi,10.11,Petrol,108,4,2012,Rohit Menon,161,1248 CC,125 bhp,140 Nm,22
+Hyundai i10,Newtown,Sodepur,15.87,Petrol,95,5,2019,Vikram Sinha,227,1591 CC,125 bhp,198 Nm,18
+Swift Dzire,Newtown,Baranagar,12.59,CNG,98,5,2013,Rohit Menon,153,1493 CC,140 bhp,203 Nm,22
+XUV500,Newtown,Bandel,37.7,LPG,108,7,2014,Rohit Menon,339,1591 CC,99 bhp,214 Nm,22
+XUV500,Newtown,Serampore,22.41,Diesel,99,7,2016,Neha Patel,283,1798 CC,140 bhp,239 Nm,22
+Swift Dzire,Newtown,Beliaghata,9.6,CNG,95,7,2013,Rohit Menon,146,1248 CC,99 bhp,195 Nm,22
+Hyundai i10,Cossipore,Ballygunge,11.94,Petrol,95,7,2013,Priya Sen,124,1197 CC,125 bhp,223 Nm,22
+WagonR,Cossipore,Dumdum,8.3,LPG,108,6,2014,Vikram Sinha,134,1197 CC,74 bhp,159 Nm,20
+Swift Dzire,Cossipore,Garia,20.65,LPG,108,6,2021,Priya Sen,252,1591 CC,74 bhp,216 Nm,15
+Honda City,Cossipore,Howrah,6.99,LPG,108,6,2016,Sneha Das,177,1197 CC,110 bhp,208 Nm,22
+Creta,Cossipore,Salt Lake,4.32,CNG,108,4,2012,Aarav Singh,98,1798 CC,83 bhp,189 Nm,15
+WagonR,Cossipore,Park Street,8.56,Diesel,108,4,2012,Neha Patel,144,1493 CC,110 bhp,159 Nm,15
+Swift Dzire,Cossipore,Jadavpur,14.96,Diesel,108,5,2016,Priya Sen,236,1798 CC,110 bhp,130 Nm,15
+Swift Dzire,Cossipore,Tollygunge,14.37,CNG,108,6,2015,Sneha Das,211,1248 CC,83 bhp,176 Nm,20
+Honda City,Cossipore,Behala,15.32,LPG,108,4,2016,Vikram Sinha,189,1248 CC,110 bhp,189 Nm,20
+Creta,Cossipore,Esplanade,7.44,Petrol,99,4,2019,Aarav Singh,182,1197 CC,74 bhp,175 Nm,20
+XUV500,Cossipore,Shyambazar,2.14,CNG,95,5,2017,Aarav Singh,75,1493 CC,125 bhp,138 Nm,15
+Honda City,Cossipore,Lake Town,4.99,Petrol,95,4,2013,Priya Sen,139,1197 CC,140 bhp,139 Nm,22
+XUV500,Cossipore,Kasba,12.44,Petrol,95,5,2014,Rohit Menon,111,1248 CC,99 bhp,152 Nm,15
+Swift Dzire,Cossipore,Barasat,15.79,LPG,99,5,2018,Rohit Menon,141,1493 CC,125 bhp,133 Nm,22
+Creta,Cossipore,Baguiati,6.93,Petrol,108,4,2016,Sneha Das,164,1197 CC,110 bhp,152 Nm,18
+XUV500,Cossipore,Newtown,12.59,Petrol,108,6,2022,Priya Sen,200,1493 CC,83 bhp,187 Nm,20
+Hyundai i10,Cossipore,Alipore,10.8,CNG,95,4,2021,Vikram Sinha,166,1493 CC,74 bhp,228 Nm,20
+XUV500,Cossipore,Kankurgachi,6.67,Diesel,99,6,2018,Aarav Singh,154,1591 CC,74 bhp,155 Nm,20
+Honda City,Cossipore,Sodepur,7.85,Diesel,98,4,2015,Priya Sen,107,1591 CC,74 bhp,224 Nm,18
+Hyundai i10,Cossipore,Baranagar,3.92,Petrol,98,4,2022,Neha Patel,103,1798 CC,110 bhp,231 Nm,15
+Creta,Cossipore,Bandel,32.77,Petrol,95,7,2012,Rohit Menon,366,1197 CC,99 bhp,207 Nm,18
+Creta,Cossipore,Serampore,13.81,LPG,95,7,2014,Aarav Singh,165,1197 CC,110 bhp,191 Nm,20
+Swift Dzire,Cossipore,Beliaghata,8.04,Petrol,98,5,2021,Rohit Menon,99,1591 CC,74 bhp,212 Nm,20
+Creta,Alipore,Ballygunge,4.12,Petrol,99,4,2019,Vikram Sinha,142,1197 CC,99 bhp,207 Nm,15
+Honda City,Alipore,Dumdum,15.5,LPG,95,4,2013,Priya Sen,185,1591 CC,110 bhp,248 Nm,15
+Honda City,Alipore,Garia,12.48,Diesel,98,5,2022,Priya Sen,222,1248 CC,125 bhp,171 Nm,20
+Hyundai i10,Alipore,Howrah,6.38,LPG,95,4,2018,Vikram Sinha,155,1248 CC,140 bhp,193 Nm,18
+Creta,Alipore,Salt Lake,10.09,LPG,98,4,2022,Aarav Singh,171,1591 CC,83 bhp,179 Nm,15
+Creta,Alipore,Park Street,2.56,Petrol,99,6,2022,Neha Patel,61,1493 CC,110 bhp,222 Nm,20
+Swift Dzire,Alipore,Jadavpur,5.82,Petrol,95,6,2018,Priya Sen,147,1493 CC,140 bhp,225 Nm,20
+Hyundai i10,Alipore,Tollygunge,3.9,CNG,95,7,2015,Aarav Singh,73,1591 CC,74 bhp,170 Nm,20
+WagonR,Alipore,Behala,4.73,Diesel,98,4,2014,Neha Patel,120,1798 CC,83 bhp,135 Nm,15
+Honda City,Alipore,Esplanade,3.5,CNG,95,6,2017,Neha Patel,66,1248 CC,99 bhp,220 Nm,22
+Creta,Alipore,Shyambazar,9.48,LPG,99,7,2021,Neha Patel,217,1248 CC,110 bhp,175 Nm,20
+XUV500,Alipore,Lake Town,10.64,CNG,99,4,2021,Neha Patel,178,1248 CC,99 bhp,136 Nm,22
+Hyundai i10,Alipore,Kasba,5.82,Petrol,98,4,2021,Rohit Menon,146,1197 CC,140 bhp,137 Nm,22
+Creta,Alipore,Barasat,25.43,Petrol,99,5,2021,Neha Patel,253,1493 CC,99 bhp,235 Nm,22
+Swift Dzire,Alipore,Baguiati,12.89,LPG,99,4,2018,Vikram Sinha,141,1798 CC,125 bhp,176 Nm,15
+WagonR,Alipore,Newtown,16.33,CNG,98,6,2016,Aarav Singh,255,1493 CC,99 bhp,182 Nm,20
+Honda City,Alipore,Cossipore,10.8,Diesel,98,4,2016,Rohit Menon,168,1591 CC,125 bhp,151 Nm,15
+Swift Dzire,Alipore,Kankurgachi,6.56,CNG,99,4,2018,Neha Patel,122,1248 CC,140 bhp,188 Nm,18
+Creta,Alipore,Sodepur,18.61,CNG,95,5,2015,Priya Sen,277,1248 CC,110 bhp,248 Nm,18
+WagonR,Alipore,Baranagar,14.66,Diesel,98,7,2014,Rohit Menon,237,1248 CC,110 bhp,217 Nm,15
+WagonR,Alipore,Bandel,43.4,Petrol,99,7,2020,Rohit Menon,400,1493 CC,110 bhp,194 Nm,18
+Creta,Alipore,Serampore,24.07,Diesel,98,7,2014,Aarav Singh,313,1798 CC,110 bhp,159 Nm,22
+Hyundai i10,Alipore,Beliaghata,6.74,Diesel,95,5,2015,Rohit Menon,185,1798 CC,110 bhp,158 Nm,20
+XUV500,Kankurgachi,Ballygunge,5.76,LPG,99,5,2017,Aarav Singh,91,1591 CC,83 bhp,186 Nm,22
+XUV500,Kankurgachi,Dumdum,8.98,CNG,98,7,2020,Priya Sen,100,1493 CC,125 bhp,196 Nm,18
+Hyundai i10,Kankurgachi,Garia,14.02,Diesel,99,5,2013,Priya Sen,137,1197 CC,125 bhp,189 Nm,22
+Swift Dzire,Kankurgachi,Howrah,7.78,Petrol,98,7,2017,Priya Sen,188,1248 CC,140 bhp,220 Nm,18
+Swift Dzire,Kankurgachi,Salt Lake,3.92,Petrol,108,4,2021,Sneha Das,156,1591 CC,74 bhp,164 Nm,18
+Creta,Kankurgachi,Park Street,4.06,LPG,95,5,2020,Vikram Sinha,108,1248 CC,125 bhp,142 Nm,22
+XUV500,Kankurgachi,Jadavpur,8.78,LPG,98,7,2016,Priya Sen,94,1798 CC,83 bhp,132 Nm,15
+Creta,Kankurgachi,Tollygunge,9.02,LPG,95,5,2013,Sneha Das,138,1798 CC,140 bhp,191 Nm,22
+Hyundai i10,Kankurgachi,Behala,11.19,LPG,108,5,2021,Vikram Sinha,163,1798 CC,125 bhp,232 Nm,22
+Creta,Kankurgachi,Esplanade,3.58,LPG,98,6,2019,Sneha Das,120,1248 CC,125 bhp,149 Nm,22
+Honda City,Kankurgachi,Shyambazar,4.6,CNG,98,6,2018,Rohit Menon,67,1798 CC,125 bhp,238 Nm,22
+Creta,Kankurgachi,Lake Town,4.27,LPG,99,4,2018,Vikram Sinha,86,1248 CC,110 bhp,234 Nm,22
+XUV500,Kankurgachi,Kasba,5.88,CNG,95,6,2020,Priya Sen,175,1197 CC,74 bhp,193 Nm,18
+XUV500,Kankurgachi,Barasat,19.16,LPG,99,5,2022,Rohit Menon,233,1591 CC,125 bhp,148 Nm,22
+WagonR,Kankurgachi,Baguiati,6.34,CNG,98,4,2014,Priya Sen,155,1493 CC,99 bhp,210 Nm,20
+Hyundai i10,Kankurgachi,Newtown,10.11,CNG,99,7,2018,Aarav Singh,179,1197 CC,140 bhp,158 Nm,22
+XUV500,Kankurgachi,Cossipore,6.67,Petrol,98,5,2012,Sneha Das,173,1248 CC,140 bhp,130 Nm,18
+Swift Dzire,Kankurgachi,Alipore,6.56,Diesel,95,6,2016,Priya Sen,104,1197 CC,99 bhp,201 Nm,15
+Swift Dzire,Kankurgachi,Sodepur,14.11,CNG,108,4,2016,Vikram Sinha,243,1798 CC,83 bhp,236 Nm,18
+Hyundai i10,Kankurgachi,Baranagar,9.82,LPG,95,7,2015,Sneha Das,202,1197 CC,140 bhp,167 Nm,18
+XUV500,Kankurgachi,Bandel,38.97,Petrol,95,7,2020,Sneha Das,429,1493 CC,140 bhp,168 Nm,22
+Hyundai i10,Kankurgachi,Serampore,20.41,Petrol,95,6,2020,Sneha Das,216,1591 CC,99 bhp,150 Nm,15
+Creta,Kankurgachi,Beliaghata,1.44,CNG,95,7,2012,Neha Patel,111,1197 CC,110 bhp,140 Nm,22
+WagonR,Sodepur,Ballygunge,19.68,Petrol,99,4,2020,Vikram Sinha,242,1248 CC,74 bhp,160 Nm,22
+Honda City,Sodepur,Dumdum,10.35,Petrol,95,4,2022,Priya Sen,170,1248 CC,99 bhp,206 Nm,18
+Creta,Sodepur,Garia,28.08,Petrol,98,4,2015,Rohit Menon,300,1591 CC,125 bhp,183 Nm,22
+WagonR,Sodepur,Howrah,13.87,CNG,95,7,2016,Aarav Singh,197,1591 CC,74 bhp,196 Nm,18
+Swift Dzire,Sodepur,Salt Lake,10.62,LPG,98,6,2012,Rohit Menon,227,1197 CC,74 bhp,205 Nm,15
+WagonR,Sodepur,Park Street,16.41,Diesel,98,7,2021,Aarav Singh,251,1493 CC,125 bhp,208 Nm,22
+Hyundai i10,Sodepur,Jadavpur,22.72,CNG,98,5,2013,Rohit Menon,252,1248 CC,74 bhp,180 Nm,22
+Honda City,Sodepur,Tollygunge,22.22,CNG,99,5,2016,Neha Patel,324,1493 CC,110 bhp,230 Nm,20
+Honda City,Sodepur,Behala,23.03,LPG,98,6,2019,Aarav Singh,259,1591 CC,99 bhp,192 Nm,22
+Swift Dzire,Sodepur,Esplanade,15.29,Petrol,95,7,2016,Priya Sen,226,1197 CC,74 bhp,156 Nm,20
+XUV500,Sodepur,Shyambazar,9.6,Petrol,108,7,2015,Neha Patel,139,1493 CC,74 bhp,147 Nm,22
+Hyundai i10,Sodepur,Lake Town,10.81,Diesel,108,5,2019,Vikram Sinha,221,1493 CC,125 bhp,151 Nm,15
+WagonR,Sodepur,Kasba,19.98,Petrol,98,7,2013,Vikram Sinha,307,1591 CC,110 bhp,177 Nm,18
+Hyundai i10,Sodepur,Barasat,11.25,Petrol,98,5,2015,Vikram Sinha,168,1493 CC,99 bhp,219 Nm,20
+Hyundai i10,Sodepur,Baguiati,11.08,Diesel,95,5,2014,Sneha Das,149,1493 CC,110 bhp,159 Nm,18
+Hyundai i10,Sodepur,Newtown,15.87,Petrol,99,6,2017,Neha Patel,181,1493 CC,99 bhp,159 Nm,18
+Creta,Sodepur,Cossipore,7.85,CNG,95,4,2022,Sneha Das,174,1197 CC,83 bhp,211 Nm,15
+Hyundai i10,Sodepur,Alipore,18.61,Petrol,95,5,2018,Aarav Singh,265,1197 CC,83 bhp,154 Nm,20
+WagonR,Sodepur,Kankurgachi,14.11,LPG,98,4,2012,Sneha Das,217,1197 CC,83 bhp,214 Nm,20
+Creta,Sodepur,Baranagar,4.3,Diesel,95,7,2022,Vikram Sinha,75,1798 CC,99 bhp,250 Nm,15
+Creta,Sodepur,Bandel,24.94,Diesel,108,7,2016,Neha Patel,289,1798 CC,110 bhp,137 Nm,22
+Honda City,Sodepur,Serampore,6.7,CNG,99,6,2012,Aarav Singh,168,1493 CC,110 bhp,218 Nm,20
+Creta,Sodepur,Beliaghata,15.31,Diesel,98,4,2019,Vikram Sinha,252,1493 CC,140 bhp,175 Nm,18
+Hyundai i10,Baranagar,Ballygunge,15.44,Diesel,98,4,2015,Neha Patel,174,1798 CC,99 bhp,203 Nm,15
+Honda City,Baranagar,Dumdum,7.3,CNG,99,6,2012,Sneha Das,87,1248 CC,99 bhp,215 Nm,20
+XUV500,Baranagar,Garia,23.78,Petrol,98,6,2014,Vikram Sinha,292,1248 CC,140 bhp,209 Nm,15
+Hyundai i10,Baranagar,Howrah,10.7,Petrol,108,5,2022,Sneha Das,127,1798 CC,99 bhp,229 Nm,18
+Creta,Baranagar,Salt Lake,6.34,Diesel,99,7,2012,Sneha Das,173,1591 CC,110 bhp,235 Nm,18
+Hyundai i10,Baranagar,Park Street,12.34,Diesel,98,6,2018,Vikram Sinha,220,1591 CC,83 bhp,238 Nm,20
+Creta,Baranagar,Jadavpur,18.49,LPG,99,4,2022,Vikram Sinha,227,1798 CC,110 bhp,197 Nm,15
+Hyundai i10,Baranagar,Tollygunge,18.14,LPG,108,5,2014,Aarav Singh,209,1798 CC,125 bhp,165 Nm,15
+XUV500,Baranagar,Behala,19.23,Petrol,95,7,2015,Priya Sen,253,1798 CC,125 bhp,199 Nm,15
+Swift Dzire,Baranagar,Esplanade,11.24,Petrol,98,6,2016,Sneha Das,196,1197 CC,74 bhp,197 Nm,22
+Honda City,Baranagar,Shyambazar,5.37,CNG,98,4,2022,Vikram Sinha,111,1197 CC,74 bhp,194 Nm,15
+XUV500,Baranagar,Lake Town,6.59,Petrol,108,4,2015,Rohit Menon,136,1493 CC,140 bhp,154 Nm,22
+XUV500,Baranagar,Kasba,15.69,LPG,108,7,2017,Priya Sen,207,1798 CC,83 bhp,190 Nm,20
+WagonR,Baranagar,Barasat,12.31,Diesel,95,5,2012,Priya Sen,173,1197 CC,140 bhp,134 Nm,20
+Honda City,Baranagar,Baguiati,7.27,Diesel,95,7,2017,Neha Patel,177,1197 CC,110 bhp,185 Nm,20
+Creta,Baranagar,Newtown,12.59,LPG,99,6,2018,Sneha Das,149,1798 CC,99 bhp,217 Nm,20
+Swift Dzire,Baranagar,Cossipore,3.92,Petrol,108,6,2015,Vikram Sinha,89,1591 CC,74 bhp,248 Nm,18
+XUV500,Baranagar,Alipore,14.66,Petrol,99,5,2018,Aarav Singh,221,1798 CC,74 bhp,176 Nm,15
+WagonR,Baranagar,Kankurgachi,9.82,Diesel,108,5,2018,Neha Patel,163,1591 CC,83 bhp,173 Nm,22
+Hyundai i10,Baranagar,Sodepur,4.3,LPG,108,5,2013,Aarav Singh,73,1248 CC,99 bhp,145 Nm,15
+XUV500,Baranagar,Bandel,29.17,Petrol,99,4,2021,Aarav Singh,373,1493 CC,74 bhp,234 Nm,22
+Creta,Baranagar,Serampore,10.84,CNG,108,6,2016,Priya Sen,158,1493 CC,140 bhp,229 Nm,18
+Honda City,Baranagar,Beliaghata,11.01,CNG,98,4,2022,Vikram Sinha,178,1197 CC,99 bhp,148 Nm,20
+Swift Dzire,Bandel,Ballygunge,44.61,Diesel,98,5,2018,Sneha Das,421,1493 CC,74 bhp,154 Nm,20
+Honda City,Bandel,Dumdum,32.91,CNG,99,7,2015,Aarav Singh,394,1248 CC,83 bhp,249 Nm,18
+Honda City,Bandel,Garia,52.78,LPG,99,7,2016,Vikram Sinha,605,1591 CC,83 bhp,186 Nm,18
+WagonR,Bandel,Howrah,37.97,Diesel,95,6,2014,Rohit Menon,445,1248 CC,99 bhp,223 Nm,22
+Swift Dzire,Bandel,Salt Lake,35.28,LPG,95,5,2019,Rohit Menon,424,1591 CC,140 bhp,190 Nm,22
+Honda City,Bandel,Park Street,41.31,Diesel,95,7,2021,Aarav Singh,523,1591 CC,125 bhp,236 Nm,22
+WagonR,Bandel,Jadavpur,47.65,Diesel,108,5,2013,Vikram Sinha,508,1493 CC,125 bhp,243 Nm,15
+XUV500,Bandel,Tollygunge,47.1,Petrol,108,5,2017,Neha Patel,510,1493 CC,83 bhp,223 Nm,15
+Creta,Bandel,Behala,47.59,Diesel,108,7,2019,Vikram Sinha,467,1798 CC,125 bhp,211 Nm,20
+Creta,Bandel,Esplanade,40.18,Diesel,98,7,2014,Vikram Sinha,373,1798 CC,83 bhp,158 Nm,18
+XUV500,Bandel,Shyambazar,34.53,CNG,108,7,2022,Aarav Singh,335,1248 CC,83 bhp,209 Nm,15
+Swift Dzire,Bandel,Lake Town,35.29,LPG,95,4,2012,Rohit Menon,397,1798 CC,99 bhp,141 Nm,18
+Creta,Bandel,Kasba,44.83,Petrol,98,5,2013,Priya Sen,426,1248 CC,83 bhp,132 Nm,18
+Honda City,Bandel,Barasat,24.59,Diesel,108,6,2021,Neha Patel,261,1493 CC,140 bhp,240 Nm,20
+Swift Dzire,Bandel,Baguiati,34.75,LPG,98,7,2020,Vikram Sinha,430,1493 CC,110 bhp,245 Nm,18
+Hyundai i10,Bandel,Newtown,37.7,CNG,99,5,2013,Neha Patel,436,1248 CC,125 bhp,179 Nm,22
+Swift Dzire,Bandel,Cossipore,32.77,CNG,99,6,2014,Neha Patel,397,1197 CC,110 bhp,159 Nm,22
+Swift Dzire,Bandel,Alipore,43.4,CNG,98,7,2020,Vikram Sinha,480,1248 CC,125 bhp,177 Nm,20
+Honda City,Bandel,Kankurgachi,38.97,LPG,95,6,2014,Neha Patel,388,1591 CC,110 bhp,232 Nm,18
+Honda City,Bandel,Sodepur,24.94,CNG,98,5,2021,Sneha Das,247,1493 CC,110 bhp,137 Nm,15
+Swift Dzire,Bandel,Baranagar,29.17,CNG,98,5,2020,Rohit Menon,391,1248 CC,140 bhp,130 Nm,22
+Honda City,Bandel,Serampore,19.54,Petrol,108,5,2021,Vikram Sinha,282,1493 CC,110 bhp,215 Nm,20
+Creta,Bandel,Beliaghata,40.09,Petrol,108,7,2012,Priya Sen,377,1798 CC,110 bhp,170 Nm,18
+Hyundai i10,Serampore,Ballygunge,25.74,Diesel,95,4,2020,Rohit Menon,341,1197 CC,140 bhp,141 Nm,20
+WagonR,Serampore,Dumdum,16.91,CNG,95,4,2016,Vikram Sinha,200,1798 CC,125 bhp,175 Nm,20
+Hyundai i10,Serampore,Garia,34.43,CNG,98,7,2017,Neha Patel,355,1248 CC,99 bhp,171 Nm,15
+Hyundai i10,Serampore,Howrah,18.45,Petrol,95,7,2018,Priya Sen,183,1798 CC,83 bhp,203 Nm,22
+WagonR,Serampore,Salt Lake,17.16,LPG,98,4,2012,Vikram Sinha,204,1248 CC,99 bhp,243 Nm,22
+Hyundai i10,Serampore,Park Street,22.15,LPG,98,4,2015,Vikram Sinha,267,1493 CC,125 bhp,180 Nm,20
+Honda City,Serampore,Jadavpur,28.74,CNG,108,7,2013,Rohit Menon,313,1197 CC,125 bhp,156 Nm,20
+Creta,Serampore,Tollygunge,27.87,LPG,98,6,2012,Sneha Das,382,1798 CC,99 bhp,244 Nm,22
+Honda City,Serampore,Behala,28.12,LPG,99,5,2017,Aarav Singh,327,1197 CC,110 bhp,239 Nm,20
+Creta,Serampore,Esplanade,21.01,LPG,95,7,2022,Aarav Singh,243,1493 CC,99 bhp,218 Nm,15
+Swift Dzire,Serampore,Shyambazar,15.81,Petrol,98,7,2019,Sneha Das,241,1197 CC,83 bhp,205 Nm,15
+Honda City,Serampore,Lake Town,17.42,LPG,95,6,2016,Neha Patel,229,1248 CC,110 bhp,208 Nm,22
+XUV500,Serampore,Kasba,26.24,Petrol,98,7,2014,Neha Patel,256,1197 CC,125 bhp,143 Nm,20
+XUV500,Serampore,Barasat,14.65,CNG,108,4,2017,Priya Sen,224,1591 CC,125 bhp,188 Nm,20
+Honda City,Serampore,Baguiati,17.78,CNG,95,6,2014,Sneha Das,276,1591 CC,99 bhp,248 Nm,20
+Honda City,Serampore,Newtown,22.41,Petrol,95,7,2018,Sneha Das,238,1493 CC,110 bhp,214 Nm,20
+Swift Dzire,Serampore,Cossipore,13.81,LPG,108,5,2019,Neha Patel,171,1493 CC,74 bhp,190 Nm,18
+Hyundai i10,Serampore,Alipore,24.07,Petrol,98,5,2022,Sneha Das,339,1798 CC,140 bhp,151 Nm,18
+XUV500,Serampore,Kankurgachi,20.41,CNG,99,4,2021,Priya Sen,239,1591 CC,125 bhp,243 Nm,20
+Hyundai i10,Serampore,Sodepur,6.7,Petrol,95,5,2019,Aarav Singh,85,1197 CC,83 bhp,184 Nm,15
+Hyundai i10,Serampore,Baranagar,10.84,CNG,108,7,2014,Aarav Singh,176,1197 CC,74 bhp,189 Nm,18
+Creta,Serampore,Bandel,19.54,CNG,95,6,2020,Neha Patel,200,1197 CC,99 bhp,158 Nm,18
+Swift Dzire,Serampore,Beliaghata,21.7,CNG,95,5,2015,Sneha Das,236,1591 CC,83 bhp,226 Nm,15
+WagonR,Beliaghata,Ballygunge,5.02,Diesel,95,7,2017,Vikram Sinha,85,1248 CC,83 bhp,159 Nm,15
+Honda City,Beliaghata,Dumdum,9.29,LPG,98,6,2015,Sneha Das,112,1493 CC,110 bhp,187 Nm,20
+Honda City,Beliaghata,Garia,12.77,Diesel,108,4,2022,Rohit Menon,173,1248 CC,125 bhp,161 Nm,15
+Creta,Beliaghata,Howrah,8.96,Petrol,99,6,2021,Vikram Sinha,142,1493 CC,83 bhp,140 Nm,22
+Honda City,Beliaghata,Salt Lake,4.84,CNG,98,5,2017,Vikram Sinha,121,1248 CC,74 bhp,206 Nm,20
+Creta,Beliaghata,Park Street,4.47,LPG,99,4,2018,Aarav Singh,82,1197 CC,140 bhp,199 Nm,22
+XUV500,Beliaghata,Jadavpur,7.92,CNG,99,4,2020,Sneha Das,119,1248 CC,140 bhp,237 Nm,22
+Honda City,Beliaghata,Tollygunge,8.59,Diesel,108,5,2013,Vikram Sinha,122,1248 CC,99 bhp,237 Nm,20
+Hyundai i10,Beliaghata,Behala,11.14,LPG,98,6,2022,Aarav Singh,179,1197 CC,140 bhp,212 Nm,18
+Swift Dzire,Beliaghata,Esplanade,4.33,Diesel,99,6,2014,Vikram Sinha,99,1197 CC,110 bhp,249 Nm,18
+Creta,Beliaghata,Shyambazar,5.93,CNG,95,7,2020,Neha Patel,97,1798 CC,99 bhp,197 Nm,22
+Swift Dzire,Beliaghata,Lake Town,4.98,CNG,99,7,2017,Neha Patel,66,1493 CC,110 bhp,212 Nm,22
+Honda City,Beliaghata,Kasba,4.77,LPG,98,5,2020,Neha Patel,168,1493 CC,83 bhp,165 Nm,20
+Hyundai i10,Beliaghata,Barasat,19.69,Petrol,95,6,2020,Vikram Sinha,265,1248 CC,74 bhp,184 Nm,20
+Creta,Beliaghata,Baguiati,6.64,Diesel,108,6,2018,Rohit Menon,73,1197 CC,110 bhp,167 Nm,20
+Swift Dzire,Beliaghata,Newtown,9.6,Diesel,108,4,2013,Vikram Sinha,191,1798 CC,110 bhp,235 Nm,15
+Hyundai i10,Beliaghata,Cossipore,8.04,LPG,95,5,2022,Aarav Singh,87,1591 CC,110 bhp,142 Nm,18
+Hyundai i10,Beliaghata,Alipore,6.74,Petrol,98,7,2013,Priya Sen,151,1591 CC,74 bhp,182 Nm,15
+Swift Dzire,Beliaghata,Kankurgachi,1.44,LPG,98,5,2015,Neha Patel,98,1591 CC,140 bhp,216 Nm,22
+XUV500,Beliaghata,Sodepur,15.31,Diesel,108,4,2016,Vikram Sinha,178,1591 CC,74 bhp,146 Nm,15
+Honda City,Beliaghata,Baranagar,11.01,CNG,95,6,2020,Rohit Menon,198,1248 CC,110 bhp,220 Nm,20
+Creta,Beliaghata,Bandel,40.09,Petrol,98,6,2012,Sneha Das,332,1591 CC,125 bhp,150 Nm,20
+Creta,Beliaghata,Serampore,21.7,Diesel,98,5,2019,Rohit Menon,295,1197 CC,74 bhp,176 Nm,22
+Creta,Ballygunge,Dumdum,14.27,Petrol,99,7,2017,Rohit Menon,177,1798 CC,125 bhp,172 Nm,22
+Creta,Ballygunge,Garia,9.1,Petrol,99,7,2015,Sneha Das,172,1197 CC,125 bhp,158 Nm,22
+Creta,Ballygunge,Howrah,9.71,Petrol,108,6,2021,Vikram Sinha,164,1591 CC,99 bhp,205 Nm,15
+XUV500,Ballygunge,Salt Lake,9.67,CNG,95,4,2012,Priya Sen,161,1493 CC,74 bhp,221 Nm,15
+Honda City,Ballygunge,Park Street,4.05,Petrol,95,6,2021,Sneha Das,137,1798 CC,140 bhp,217 Nm,18
+Hyundai i10,Ballygunge,Jadavpur,3.04,Diesel,108,4,2012,Neha Patel,69,1493 CC,110 bhp,149 Nm,22
+Hyundai i10,Ballygunge,Tollygunge,3.81,LPG,95,6,2021,Aarav Singh,97,1197 CC,140 bhp,130 Nm,22
+Creta,Ballygunge,Behala,6.99,LPG,99,7,2022,Sneha Das,102,1197 CC,99 bhp,231 Nm,20
+Hyundai i10,Ballygunge,Esplanade,5.04,CNG,108,4,2016,Rohit Menon,168,1493 CC,74 bhp,221 Nm,18
+Creta,Ballygunge,Shyambazar,10.09,LPG,108,4,2021,Rohit Menon,222,1798 CC,125 bhp,175 Nm,20
+XUV500,Ballygunge,Lake Town,9.94,CNG,108,6,2014,Vikram Sinha,131,1591 CC,99 bhp,193 Nm,15
+Creta,Ballygunge,Kasba,1.73,Diesel,98,7,2013,Rohit Menon,65,1197 CC,110 bhp,242 Nm,15
+Hyundai i10,Ballygunge,Barasat,24.71,Diesel,95,6,2021,Priya Sen,250,1197 CC,83 bhp,214 Nm,20
+Hyundai i10,Ballygunge,Baguiati,11.64,Petrol,98,5,2021,Vikram Sinha,174,1248 CC,83 bhp,244 Nm,15
+Honda City,Ballygunge,Newtown,13.76,Petrol,99,7,2022,Aarav Singh,208,1591 CC,99 bhp,169 Nm,22
+WagonR,Ballygunge,Cossipore,11.94,Diesel,95,5,2019,Priya Sen,175,1493 CC,99 bhp,212 Nm,15
+Swift Dzire,Ballygunge,Alipore,4.12,CNG,95,7,2013,Neha Patel,67,1248 CC,125 bhp,176 Nm,20
+WagonR,Ballygunge,Kankurgachi,5.76,CNG,99,4,2017,Priya Sen,152,1248 CC,74 bhp,169 Nm,22
+Honda City,Ballygunge,Sodepur,19.68,LPG,99,7,2015,Priya Sen,259,1197 CC,74 bhp,160 Nm,22
+Creta,Ballygunge,Baranagar,15.44,CNG,108,5,2018,Sneha Das,255,1248 CC,125 bhp,143 Nm,18
+XUV500,Ballygunge,Bandel,44.61,CNG,95,7,2022,Aarav Singh,379,1248 CC,125 bhp,199 Nm,18
+XUV500,Ballygunge,Serampore,25.74,Petrol,108,4,2012,Neha Patel,225,1798 CC,140 bhp,152 Nm,18
+Hyundai i10,Ballygunge,Beliaghata,5.02,CNG,108,6,2021,Aarav Singh,160,1493 CC,99 bhp,161 Nm,18
+Creta,Dumdum,Ballygunge,14.27,Diesel,99,7,2017,Priya Sen,211,1591 CC,140 bhp,141 Nm,22
+Hyundai i10,Dumdum,Garia,20.61,CNG,95,7,2014,Neha Patel,247,1493 CC,110 bhp,137 Nm,15
+WagonR,Dumdum,Howrah,14.47,Petrol,98,6,2021,Priya Sen,224,1248 CC,99 bhp,241 Nm,22
+Hyundai i10,Dumdum,Salt Lake,5.62,Diesel,108,6,2019,Priya Sen,162,1248 CC,140 bhp,179 Nm,18
+WagonR,Dumdum,Park Street,12.94,CNG,98,4,2017,Priya Sen,113,1493 CC,74 bhp,225 Nm,22
+XUV500,Dumdum,Jadavpur,17.03,Petrol,95,4,2014,Aarav Singh,257,1197 CC,99 bhp,164 Nm,20
+Honda City,Dumdum,Tollygunge,17.86,CNG,108,6,2019,Vikram Sinha,300,1197 CC,99 bhp,169 Nm,20
+Honda City,Dumdum,Behala,20.16,Diesel,99,7,2018,Priya Sen,227,1591 CC,110 bhp,155 Nm,20
+XUV500,Dumdum,Esplanade,12.19,Petrol,95,6,2016,Vikram Sinha,158,1591 CC,140 bhp,212 Nm,22
+Honda City,Dumdum,Shyambazar,7.48,LPG,95,5,2021,Rohit Menon,164,1798 CC,74 bhp,184 Nm,20
+Swift Dzire,Dumdum,Lake Town,4.92,LPG,98,7,2020,Vikram Sinha,128,1197 CC,110 bhp,144 Nm,15
+Honda City,Dumdum,Kasba,13.69,CNG,108,4,2016,Priya Sen,172,1591 CC,140 bhp,234 Nm,18
+Swift Dzire,Dumdum,Barasat,10.52,Petrol,95,5,2021,Vikram Sinha,132,1197 CC,125 bhp,181 Nm,15
+XUV500,Dumdum,Baguiati,2.65,LPG,95,5,2020,Rohit Menon,109,1197 CC,140 bhp,171 Nm,18
+Honda City,Dumdum,Newtown,5.52,CNG,99,5,2013,Vikram Sinha,82,1248 CC,74 bhp,205 Nm,18
+XUV500,Dumdum,Cossipore,8.3,LPG,108,4,2016,Rohit Menon,196,1493 CC,140 bhp,144 Nm,18
+WagonR,Dumdum,Alipore,15.5,Petrol,108,4,2016,Priya Sen,252,1248 CC,83 bhp,157 Nm,22
+Hyundai i10,Dumdum,Kankurgachi,8.98,Petrol,108,4,2019,Neha Patel,160,1798 CC,110 bhp,238 Nm,20
+Creta,Dumdum,Sodepur,10.35,CNG,95,6,2014,Priya Sen,174,1798 CC,74 bhp,204 Nm,15
+Hyundai i10,Dumdum,Baranagar,7.3,LPG,98,6,2014,Aarav Singh,95,1248 CC,125 bhp,212 Nm,20
+Honda City,Dumdum,Bandel,32.91,LPG,98,4,2019,Neha Patel,298,1248 CC,125 bhp,141 Nm,22
+WagonR,Dumdum,Serampore,16.91,Diesel,98,7,2020,Rohit Menon,217,1591 CC,74 bhp,149 Nm,20
+Creta,Dumdum,Beliaghata,9.29,Petrol,98,4,2015,Neha Patel,206,1197 CC,74 bhp,187 Nm,15
+WagonR,Garia,Ballygunge,9.1,Petrol,98,6,2015,Aarav Singh,192,1493 CC,125 bhp,154 Nm,18
+Honda City,Garia,Dumdum,20.61,Petrol,99,5,2016,Priya Sen,293,1493 CC,110 bhp,175 Nm,20
+XUV500,Garia,Howrah,18.67,Diesel,108,7,2013,Vikram Sinha,212,1197 CC,140 bhp,187 Nm,22
+Swift Dzire,Garia,Salt Lake,17.53,LPG,95,6,2017,Sneha Das,253,1591 CC,83 bhp,186 Nm,22
+Swift Dzire,Garia,Park Street,13.13,CNG,95,5,2017,Neha Patel,173,1798 CC,83 bhp,220 Nm,22
+Swift Dzire,Garia,Jadavpur,6.66,Petrol,108,5,2022,Neha Patel,184,1248 CC,99 bhp,223 Nm,15
+Hyundai i10,Garia,Tollygunge,9.2,Diesel,108,5,2012,Vikram Sinha,142,1591 CC,125 bhp,185 Nm,20
+Swift Dzire,Garia,Behala,12.16,CNG,98,7,2014,Priya Sen,149,1591 CC,125 bhp,234 Nm,20
+Honda City,Garia,Esplanade,14.14,LPG,95,4,2015,Neha Patel,156,1493 CC,99 bhp,145 Nm,18
+XUV500,Garia,Shyambazar,18.62,Petrol,99,6,2017,Priya Sen,300,1591 CC,125 bhp,179 Nm,20
+XUV500,Garia,Lake Town,17.49,CNG,95,7,2019,Neha Patel,160,1493 CC,140 bhp,248 Nm,22
+Honda City,Garia,Kasba,8.23,CNG,98,4,2016,Sneha Das,174,1591 CC,125 bhp,206 Nm,15
+XUV500,Garia,Barasat,30.98,LPG,95,5,2016,Vikram Sinha,322,1493 CC,83 bhp,245 Nm,20
+Hyundai i10,Garia,Baguiati,18.31,LPG,95,5,2021,Vikram Sinha,229,1591 CC,140 bhp,156 Nm,15
+XUV500,Garia,Newtown,17.71,Petrol,99,4,2017,Vikram Sinha,216,1798 CC,99 bhp,133 Nm,18
+XUV500,Garia,Cossipore,20.65,Petrol,108,5,2022,Sneha Das,281,1591 CC,110 bhp,138 Nm,18
+XUV500,Garia,Alipore,12.48,Diesel,99,5,2022,Sneha Das,145,1798 CC,99 bhp,153 Nm,18
+Swift Dzire,Garia,Kankurgachi,14.02,LPG,95,4,2021,Priya Sen,180,1591 CC,99 bhp,175 Nm,22
+Creta,Garia,Sodepur,28.08,LPG,95,4,2018,Rohit Menon,313,1197 CC,140 bhp,137 Nm,20
+WagonR,Garia,Baranagar,23.78,LPG,95,6,2017,Rohit Menon,220,1493 CC,99 bhp,146 Nm,22
+Honda City,Garia,Bandel,52.78,Diesel,99,6,2020,Aarav Singh,443,1493 CC,74 bhp,246 Nm,20
+Hyundai i10,Garia,Serampore,34.43,LPG,108,6,2015,Rohit Menon,402,1798 CC,110 bhp,159 Nm,20
+XUV500,Garia,Beliaghata,12.77,LPG,95,5,2018,Sneha Das,160,1197 CC,125 bhp,188 Nm,15
+Honda City,Howrah,Ballygunge,9.71,Diesel,108,7,2015,Neha Patel,204,1248 CC,110 bhp,195 Nm,20
+WagonR,Howrah,Dumdum,14.47,Diesel,108,4,2012,Aarav Singh,189,1248 CC,83 bhp,233 Nm,22
+Swift Dzire,Howrah,Garia,18.67,Diesel,98,4,2021,Rohit Menon,254,1591 CC,110 bhp,181 Nm,20
+XUV500,Howrah,Salt Lake,9.03,Petrol,108,4,2018,Neha Patel,146,1798 CC,125 bhp,221 Nm,18
+Hyundai i10,Howrah,Park Street,5.73,LPG,108,6,2015,Vikram Sinha,108,1248 CC,83 bhp,239 Nm,18
+WagonR,Howrah,Jadavpur,12.08,LPG,108,4,2013,Aarav Singh,208,1798 CC,110 bhp,194 Nm,22
+Honda City,Howrah,Tollygunge,10.24,CNG,99,5,2013,Sneha Das,196,1197 CC,140 bhp,236 Nm,15
+WagonR,Howrah,Behala,9.73,Diesel,95,7,2017,Neha Patel,124,1493 CC,125 bhp,216 Nm,18
+WagonR,Howrah,Esplanade,5.02,Petrol,98,7,2016,Vikram Sinha,162,1248 CC,140 bhp,195 Nm,15
+Creta,Howrah,Shyambazar,7.01,Petrol,99,7,2021,Rohit Menon,117,1197 CC,140 bhp,142 Nm,22
+Honda City,Howrah,Lake Town,9.83,Diesel,108,6,2016,Aarav Singh,115,1798 CC,110 bhp,246 Nm,15
+Swift Dzire,Howrah,Kasba,11.06,Diesel,108,6,2019,Neha Patel,197,1248 CC,110 bhp,185 Nm,15
+Swift Dzire,Howrah,Barasat,22.78,CNG,108,6,2019,Neha Patel,289,1197 CC,140 bhp,163 Nm,18
+Honda City,Howrah,Baguiati,12.34,CNG,108,4,2012,Vikram Sinha,230,1197 CC,140 bhp,157 Nm,22
+WagonR,Howrah,Newtown,17.38,Diesel,108,6,2013,Priya Sen,228,1248 CC,83 bhp,144 Nm,22
+Creta,Howrah,Cossipore,6.99,LPG,98,6,2014,Vikram Sinha,137,1248 CC,125 bhp,220 Nm,20
+Swift Dzire,Howrah,Alipore,6.38,CNG,108,4,2019,Rohit Menon,126,1493 CC,99 bhp,146 Nm,15
+XUV500,Howrah,Kankurgachi,7.78,Diesel,95,6,2017,Sneha Das,135,1197 CC,140 bhp,207 Nm,18
+XUV500,Howrah,Sodepur,13.87,LPG,108,6,2019,Neha Patel,219,1248 CC,110 bhp,244 Nm,15
+Creta,Howrah,Baranagar,10.7,LPG,99,5,2017,Vikram Sinha,137,1493 CC,74 bhp,142 Nm,15
+Honda City,Howrah,Bandel,37.97,Diesel,99,6,2019,Sneha Das,328,1591 CC,83 bhp,152 Nm,20
+XUV500,Howrah,Serampore,18.45,CNG,99,6,2018,Neha Patel,249,1798 CC,125 bhp,143 Nm,18
+Creta,Howrah,Beliaghata,8.96,Petrol,108,7,2018,Vikram Sinha,183,1798 CC,99 bhp,206 Nm,18
+Hyundai i10,Salt Lake,Ballygunge,9.67,CNG,95,4,2018,Sneha Das,204,1591 CC,74 bhp,185 Nm,15
+WagonR,Salt Lake,Dumdum,5.62,Diesel,98,7,2022,Priya Sen,68,1493 CC,83 bhp,193 Nm,15
+Swift Dzire,Salt Lake,Garia,17.53,Diesel,108,4,2021,Aarav Singh,199,1493 CC,140 bhp,180 Nm,18
+Swift Dzire,Salt Lake,Howrah,9.03,LPG,99,4,2016,Priya Sen,203,1591 CC,110 bhp,192 Nm,15
+Hyundai i10,Salt Lake,Park Street,7.53,CNG,108,5,2021,Sneha Das,116,1248 CC,110 bhp,214 Nm,15
+Swift Dzire,Salt Lake,Jadavpur,12.67,LPG,108,7,2012,Vikram Sinha,174,1197 CC,125 bhp,170 Nm,15
+Hyundai i10,Salt Lake,Tollygunge,12.9,CNG,95,4,2022,Vikram Sinha,207,1798 CC,83 bhp,134 Nm,20
+Creta,Salt Lake,Behala,14.81,CNG,99,4,2015,Aarav Singh,272,1493 CC,110 bhp,176 Nm,18
+WagonR,Salt Lake,Esplanade,6.67,Diesel,99,6,2015,Aarav Singh,145,1591 CC,125 bhp,214 Nm,18
+Creta,Salt Lake,Shyambazar,2.46,Diesel,95,6,2018,Aarav Singh,118,1493 CC,74 bhp,212 Nm,22
+WagonR,Salt Lake,Lake Town,0.82,CNG,99,6,2019,Vikram Sinha,52,1248 CC,74 bhp,141 Nm,15
+WagonR,Salt Lake,Kasba,9.61,LPG,95,6,2018,Priya Sen,134,1591 CC,83 bhp,209 Nm,20
+XUV500,Salt Lake,Barasat,15.36,CNG,108,4,2012,Priya Sen,205,1591 CC,140 bhp,133 Nm,18
+XUV500,Salt Lake,Baguiati,3.32,Diesel,108,4,2012,Rohit Menon,49,1197 CC,125 bhp,211 Nm,15
+Creta,Salt Lake,Newtown,8.62,Diesel,98,7,2017,Sneha Das,201,1591 CC,140 bhp,159 Nm,15
+WagonR,Salt Lake,Cossipore,4.32,Petrol,95,6,2021,Aarav Singh,90,1248 CC,125 bhp,209 Nm,18
+XUV500,Salt Lake,Alipore,10.09,CNG,108,5,2018,Rohit Menon,118,1197 CC,74 bhp,216 Nm,15
+WagonR,Salt Lake,Kankurgachi,3.92,CNG,98,5,2022,Sneha Das,129,1591 CC,74 bhp,181 Nm,22
+Creta,Salt Lake,Sodepur,10.62,LPG,99,4,2015,Aarav Singh,219,1798 CC,125 bhp,209 Nm,20
+Honda City,Salt Lake,Baranagar,6.34,CNG,108,7,2020,Aarav Singh,131,1493 CC,110 bhp,212 Nm,15
+WagonR,Salt Lake,Bandel,35.28,Diesel,98,4,2015,Priya Sen,417,1591 CC,74 bhp,214 Nm,18
+WagonR,Salt Lake,Serampore,17.16,CNG,99,5,2014,Aarav Singh,193,1248 CC,99 bhp,145 Nm,15
+WagonR,Salt Lake,Beliaghata,4.84,CNG,99,4,2014,Aarav Singh,95,1197 CC,125 bhp,155 Nm,18
+WagonR,Park Street,Ballygunge,4.05,LPG,98,7,2020,Priya Sen,154,1798 CC,99 bhp,205 Nm,22
+Hyundai i10,Park Street,Dumdum,12.94,Diesel,99,6,2020,Priya Sen,121,1248 CC,83 bhp,162 Nm,20
+Honda City,Park Street,Garia,13.13,CNG,99,6,2022,Priya Sen,227,1591 CC,125 bhp,242 Nm,15
+Honda City,Park Street,Howrah,5.73,Petrol,98,7,2018,Vikram Sinha,72,1798 CC,125 bhp,167 Nm,20
+XUV500,Park Street,Salt Lake,7.53,Diesel,98,7,2013,Rohit Menon,147,1248 CC,83 bhp,208 Nm,20
+XUV500,Park Street,Jadavpur,6.75,Petrol,99,6,2016,Vikram Sinha,108,1591 CC,83 bhp,246 Nm,15
+XUV500,Park Street,Tollygunge,5.81,LPG,108,7,2019,Vikram Sinha,76,1197 CC,74 bhp,234 Nm,15
+WagonR,Park Street,Behala,7.28,Petrol,98,6,2014,Priya Sen,197,1591 CC,110 bhp,163 Nm,20
+Hyundai i10,Park Street,Esplanade,1.13,CNG,98,5,2013,Aarav Singh,107,1197 CC,99 bhp,240 Nm,20
+Creta,Park Street,Shyambazar,7.05,Petrol,108,7,2015,Vikram Sinha,145,1798 CC,83 bhp,197 Nm,22
+Swift Dzire,Park Street,Lake Town,8.08,Petrol,99,4,2019,Priya Sen,113,1197 CC,74 bhp,222 Nm,22
+WagonR,Park Street,Kasba,5.33,Diesel,108,5,2014,Sneha Das,161,1248 CC,140 bhp,158 Nm,15
+Hyundai i10,Park Street,Barasat,22.87,Diesel,95,7,2012,Aarav Singh,186,1493 CC,74 bhp,165 Nm,15
+Hyundai i10,Park Street,Baguiati,10.34,Diesel,99,6,2016,Rohit Menon,149,1248 CC,125 bhp,162 Nm,18
+WagonR,Park Street,Newtown,14.04,Petrol,108,5,2021,Aarav Singh,212,1798 CC,140 bhp,143 Nm,22
+Honda City,Park Street,Cossipore,8.56,Petrol,108,4,2013,Sneha Das,138,1248 CC,99 bhp,245 Nm,22
+XUV500,Park Street,Alipore,2.56,Diesel,98,4,2015,Aarav Singh,146,1248 CC,125 bhp,181 Nm,22
+WagonR,Park Street,Kankurgachi,4.06,CNG,98,6,2021,Neha Patel,106,1798 CC,99 bhp,199 Nm,22
+XUV500,Park Street,Sodepur,16.41,CNG,95,4,2014,Aarav Singh,259,1197 CC,83 bhp,185 Nm,15
+Honda City,Park Street,Baranagar,12.34,Diesel,98,4,2018,Priya Sen,202,1248 CC,125 bhp,198 Nm,22
+Hyundai i10,Park Street,Bandel,41.31,CNG,108,5,2012,Priya Sen,470,1798 CC,140 bhp,205 Nm,20
+Honda City,Park Street,Serampore,22.15,Diesel,98,5,2019,Vikram Sinha,267,1248 CC,99 bhp,189 Nm,18
+Honda City,Park Street,Beliaghata,4.47,CNG,95,7,2017,Rohit Menon,156,1591 CC,125 bhp,158 Nm,15
+Honda City,Jadavpur,Ballygunge,3.04,LPG,95,6,2022,Sneha Das,96,1591 CC,83 bhp,224 Nm,15
+Honda City,Jadavpur,Dumdum,17.03,Petrol,99,5,2013,Sneha Das,237,1197 CC,110 bhp,157 Nm,20
+Honda City,Jadavpur,Garia,6.66,Diesel,99,7,2013,Rohit Menon,91,1197 CC,83 bhp,215 Nm,20
+Honda City,Jadavpur,Howrah,12.08,LPG,95,5,2017,Priya Sen,183,1248 CC,125 bhp,193 Nm,20
+Hyundai i10,Jadavpur,Salt Lake,12.67,LPG,99,4,2013,Vikram Sinha,187,1798 CC,83 bhp,141 Nm,15
+Creta,Jadavpur,Park Street,6.75,LPG,99,5,2016,Sneha Das,136,1248 CC,99 bhp,243 Nm,15
+Swift Dzire,Jadavpur,Tollygunge,2.92,LPG,108,7,2015,Rohit Menon,71,1248 CC,140 bhp,138 Nm,20
+WagonR,Jadavpur,Behala,6.43,LPG,99,5,2018,Neha Patel,163,1197 CC,125 bhp,244 Nm,15
+WagonR,Jadavpur,Esplanade,7.84,Petrol,95,7,2015,Rohit Menon,168,1197 CC,74 bhp,195 Nm,15
+XUV500,Jadavpur,Shyambazar,13.13,Petrol,99,4,2021,Neha Patel,186,1248 CC,83 bhp,235 Nm,15
+Swift Dzire,Jadavpur,Lake Town,12.89,Petrol,95,6,2020,Vikram Sinha,175,1197 CC,125 bhp,138 Nm,15
+Hyundai i10,Jadavpur,Kasba,3.39,LPG,98,6,2015,Neha Patel,47,1197 CC,83 bhp,206 Nm,15
+XUV500,Jadavpur,Barasat,27.53,LPG,99,6,2022,Priya Sen,316,1493 CC,110 bhp,171 Nm,18
+Creta,Jadavpur,Baguiati,14.44,CNG,99,6,2021,Priya Sen,250,1591 CC,140 bhp,186 Nm,22
+Swift Dzire,Jadavpur,Newtown,15.89,Petrol,95,6,2015,Rohit Menon,230,1493 CC,140 bhp,183 Nm,15
+WagonR,Jadavpur,Cossipore,14.96,Diesel,99,5,2014,Neha Patel,223,1493 CC,125 bhp,206 Nm,20
+Creta,Jadavpur,Alipore,5.82,CNG,99,4,2020,Rohit Menon,69,1798 CC,99 bhp,175 Nm,18
+Honda City,Jadavpur,Kankurgachi,8.78,CNG,99,7,2020,Aarav Singh,112,1798 CC,99 bhp,241 Nm,20
+Honda City,Jadavpur,Sodepur,22.72,Diesel,99,7,2019,Aarav Singh,193,1591 CC,125 bhp,178 Nm,20
+Hyundai i10,Jadavpur,Baranagar,18.49,Diesel,108,6,2015,Priya Sen,271,1493 CC,110 bhp,199 Nm,22
+Creta,Jadavpur,Bandel,47.65,LPG,99,4,2020,Aarav Singh,543,1248 CC,110 bhp,205 Nm,18
+Honda City,Jadavpur,Serampore,28.74,CNG,108,6,2021,Priya Sen,298,1493 CC,99 bhp,131 Nm,18
+WagonR,Jadavpur,Beliaghata,7.92,Diesel,99,5,2022,Sneha Das,164,1493 CC,125 bhp,205 Nm,20
+Honda City,Tollygunge,Ballygunge,3.81,Petrol,108,5,2018,Sneha Das,90,1493 CC,125 bhp,245 Nm,20
+Creta,Tollygunge,Dumdum,17.86,Petrol,98,7,2019,Priya Sen,248,1798 CC,125 bhp,149 Nm,22
+Honda City,Tollygunge,Garia,9.2,LPG,108,5,2020,Priya Sen,189,1493 CC,74 bhp,138 Nm,18
+Creta,Tollygunge,Howrah,10.24,CNG,99,4,2022,Neha Patel,213,1591 CC,125 bhp,202 Nm,20
+Swift Dzire,Tollygunge,Salt Lake,12.9,Petrol,108,4,2012,Priya Sen,165,1591 CC,140 bhp,136 Nm,18
+Swift Dzire,Tollygunge,Park Street,5.81,Petrol,98,7,2020,Priya Sen,107,1248 CC,125 bhp,245 Nm,22
+WagonR,Tollygunge,Jadavpur,2.92,CNG,99,5,2012,Neha Patel,47,1197 CC,83 bhp,156 Nm,20
+WagonR,Tollygunge,Behala,3.56,Diesel,98,5,2013,Aarav Singh,61,1248 CC,99 bhp,131 Nm,18
+Creta,Tollygunge,Esplanade,6.93,LPG,99,5,2022,Aarav Singh,131,1798 CC,125 bhp,245 Nm,15
+Honda City,Tollygunge,Shyambazar,12.8,CNG,98,5,2013,Aarav Singh,208,1248 CC,83 bhp,161 Nm,15
+WagonR,Tollygunge,Lake Town,13.29,Diesel,98,4,2015,Neha Patel,217,1798 CC,140 bhp,208 Nm,20
+Hyundai i10,Tollygunge,Kasba,5.17,Petrol,108,6,2012,Aarav Singh,172,1493 CC,110 bhp,196 Nm,20
+Hyundai i10,Tollygunge,Barasat,28.18,Diesel,95,7,2016,Rohit Menon,356,1591 CC,74 bhp,206 Nm,20
+XUV500,Tollygunge,Baguiati,15.21,CNG,108,4,2021,Neha Patel,203,1591 CC,83 bhp,167 Nm,22
+WagonR,Tollygunge,Newtown,17.56,Petrol,108,5,2012,Sneha Das,277,1798 CC,110 bhp,223 Nm,18
+Creta,Tollygunge,Cossipore,14.37,CNG,99,6,2018,Priya Sen,196,1493 CC,74 bhp,202 Nm,18
+XUV500,Tollygunge,Alipore,3.9,Petrol,99,7,2018,Aarav Singh,70,1798 CC,74 bhp,208 Nm,18
+WagonR,Tollygunge,Kankurgachi,9.02,LPG,95,4,2017,Aarav Singh,182,1197 CC,110 bhp,221 Nm,22
+Swift Dzire,Tollygunge,Sodepur,22.22,Diesel,98,5,2013,Vikram Sinha,319,1248 CC,140 bhp,210 Nm,15
+XUV500,Tollygunge,Baranagar,18.14,Petrol,99,7,2017,Priya Sen,175,1248 CC,74 bhp,245 Nm,18
+Swift Dzire,Tollygunge,Bandel,47.1,Petrol,98,4,2021,Vikram Sinha,467,1197 CC,125 bhp,132 Nm,18
+Creta,Tollygunge,Serampore,27.87,Petrol,108,5,2017,Sneha Das,345,1493 CC,83 bhp,198 Nm,22
+Swift Dzire,Tollygunge,Beliaghata,8.59,LPG,99,6,2020,Neha Patel,204,1798 CC,83 bhp,219 Nm,15
+WagonR,Behala,Ballygunge,6.99,LPG,98,5,2016,Rohit Menon,123,1591 CC,74 bhp,221 Nm,15
+Hyundai i10,Behala,Dumdum,20.16,LPG,108,6,2018,Sneha Das,264,1197 CC,140 bhp,157 Nm,15
+Swift Dzire,Behala,Garia,12.16,CNG,108,5,2021,Rohit Menon,235,1493 CC,83 bhp,244 Nm,15
+Honda City,Behala,Howrah,9.73,Petrol,108,4,2018,Aarav Singh,208,1197 CC,83 bhp,139 Nm,20
+Creta,Behala,Salt Lake,14.81,LPG,99,4,2017,Vikram Sinha,232,1798 CC,83 bhp,206 Nm,15
+Creta,Behala,Park Street,7.28,Petrol,99,6,2020,Neha Patel,105,1591 CC,110 bhp,223 Nm,15
+Creta,Behala,Jadavpur,6.43,Petrol,95,5,2022,Priya Sen,83,1493 CC,83 bhp,184 Nm,18
+Creta,Behala,Tollygunge,3.56,LPG,108,5,2020,Neha Patel,147,1591 CC,83 bhp,244 Nm,18
+Honda City,Behala,Esplanade,8.22,Petrol,108,5,2017,Rohit Menon,125,1493 CC,125 bhp,185 Nm,18
+Creta,Behala,Shyambazar,14.15,CNG,99,5,2016,Priya Sen,178,1197 CC,74 bhp,184 Nm,18
+Hyundai i10,Behala,Lake Town,15.35,LPG,99,4,2018,Aarav Singh,190,1798 CC,110 bhp,249 Nm,22
+WagonR,Behala,Kasba,8.57,LPG,98,5,2015,Vikram Sinha,116,1798 CC,140 bhp,211 Nm,18
+Creta,Behala,Barasat,30.15,Petrol,98,6,2020,Rohit Menon,327,1248 CC,99 bhp,229 Nm,22
+Creta,Behala,Baguiati,17.53,Petrol,95,5,2019,Vikram Sinha,257,1248 CC,125 bhp,215 Nm,22
+WagonR,Behala,Newtown,20.55,LPG,99,7,2018,Rohit Menon,226,1197 CC,74 bhp,188 Nm,15
+Hyundai i10,Behala,Cossipore,15.32,Diesel,98,6,2012,Vikram Sinha,204,1197 CC,99 bhp,142 Nm,20
+Honda City,Behala,Alipore,4.73,CNG,95,7,2017,Sneha Das,118,1493 CC,125 bhp,206 Nm,15
+Honda City,Behala,Kankurgachi,11.19,CNG,98,7,2012,Rohit Menon,150,1493 CC,140 bhp,195 Nm,18
+Swift Dzire,Behala,Sodepur,23.03,LPG,108,7,2014,Sneha Das,333,1798 CC,83 bhp,237 Nm,20
+Hyundai i10,Behala,Baranagar,19.23,Petrol,98,4,2020,Neha Patel,229,1493 CC,99 bhp,218 Nm,20
+Creta,Behala,Bandel,47.59,CNG,98,7,2016,Rohit Menon,411,1798 CC,99 bhp,210 Nm,18
+Honda City,Behala,Serampore,28.12,CNG,99,5,2018,Neha Patel,320,1591 CC,74 bhp,201 Nm,20
+Honda City,Behala,Beliaghata,11.14,CNG,99,4,2018,Priya Sen,167,1197 CC,125 bhp,217 Nm,20
+XUV500,Esplanade,Ballygunge,5.04,LPG,98,6,2018,Priya Sen,126,1493 CC,83 bhp,180 Nm,18
+Creta,Esplanade,Dumdum,12.19,CNG,108,6,2017,Rohit Menon,219,1591 CC,74 bhp,241 Nm,20
+Creta,Esplanade,Garia,14.14,LPG,98,6,2022,Rohit Menon,172,1591 CC,74 bhp,147 Nm,20
+Creta,Esplanade,Howrah,5.02,CNG,98,5,2012,Priya Sen,162,1493 CC,110 bhp,144 Nm,15
+Hyundai i10,Esplanade,Salt Lake,6.67,Petrol,108,4,2016,Vikram Sinha,92,1197 CC,83 bhp,242 Nm,18
+Hyundai i10,Esplanade,Park Street,1.13,CNG,108,6,2021,Sneha Das,90,1591 CC,125 bhp,195 Nm,22
+XUV500,Esplanade,Jadavpur,7.84,Diesel,98,4,2021,Rohit Menon,108,1591 CC,99 bhp,182 Nm,20
+Honda City,Esplanade,Tollygunge,6.93,Diesel,99,7,2022,Aarav Singh,175,1798 CC,83 bhp,155 Nm,22
+Honda City,Esplanade,Behala,8.22,CNG,108,4,2018,Vikram Sinha,116,1798 CC,140 bhp,223 Nm,18
+XUV500,Esplanade,Shyambazar,5.99,Petrol,99,6,2012,Priya Sen,184,1197 CC,140 bhp,133 Nm,20
+Creta,Esplanade,Lake Town,7.28,LPG,98,6,2013,Rohit Menon,95,1248 CC,125 bhp,210 Nm,15
+Creta,Esplanade,Kasba,6.16,LPG,99,5,2015,Aarav Singh,140,1591 CC,83 bhp,176 Nm,22
+Swift Dzire,Esplanade,Barasat,21.96,LPG,95,4,2015,Aarav Singh,206,1197 CC,74 bhp,199 Nm,22
+Swift Dzire,Esplanade,Baguiati,9.64,Petrol,108,7,2014,Neha Patel,130,1197 CC,99 bhp,134 Nm,22
+Swift Dzire,Esplanade,Newtown,13.69,LPG,98,6,2013,Vikram Sinha,212,1591 CC,74 bhp,157 Nm,15
+Swift Dzire,Esplanade,Cossipore,7.44,Diesel,98,6,2017,Rohit Menon,188,1248 CC,140 bhp,228 Nm,20
+Creta,Esplanade,Alipore,3.5,Diesel,108,5,2015,Priya Sen,96,1248 CC,125 bhp,181 Nm,18
+Hyundai i10,Esplanade,Kankurgachi,3.58,LPG,108,4,2019,Sneha Das,158,1248 CC,140 bhp,153 Nm,20
+Swift Dzire,Esplanade,Sodepur,15.29,LPG,98,6,2020,Rohit Menon,181,1798 CC,140 bhp,220 Nm,18
+Creta,Esplanade,Baranagar,11.24,Petrol,95,5,2014,Rohit Menon,161,1591 CC,140 bhp,226 Nm,20
+XUV500,Esplanade,Bandel,40.18,Petrol,98,4,2020,Aarav Singh,447,1591 CC,140 bhp,200 Nm,15
+Swift Dzire,Esplanade,Serampore,21.01,LPG,98,5,2014,Neha Patel,314,1493 CC,74 bhp,192 Nm,20
+XUV500,Esplanade,Beliaghata,4.33,Diesel,99,5,2021,Sneha Das,112,1197 CC,110 bhp,164 Nm,22
+Honda City,Shyambazar,Ballygunge,10.09,CNG,99,7,2016,Sneha Das,158,1493 CC,140 bhp,217 Nm,20
+Creta,Shyambazar,Dumdum,7.48,Diesel,95,4,2021,Vikram Sinha,133,1591 CC,99 bhp,226 Nm,15
+Hyundai i10,Shyambazar,Garia,18.62,CNG,98,6,2021,Priya Sen,288,1591 CC,74 bhp,173 Nm,15
+Creta,Shyambazar,Howrah,7.01,LPG,95,5,2019,Neha Patel,127,1493 CC,99 bhp,214 Nm,20
+Hyundai i10,Shyambazar,Salt Lake,2.46,Petrol,95,4,2020,Vikram Sinha,78,1493 CC,74 bhp,244 Nm,22
+Hyundai i10,Shyambazar,Park Street,7.05,CNG,108,7,2019,Priya Sen,170,1798 CC,99 bhp,182 Nm,18
+Creta,Shyambazar,Jadavpur,13.13,CNG,98,5,2019,Priya Sen,140,1591 CC,110 bhp,217 Nm,20
+WagonR,Shyambazar,Tollygunge,12.8,Petrol,99,7,2015,Vikram Sinha,170,1493 CC,83 bhp,244 Nm,15
+Creta,Shyambazar,Behala,14.15,Petrol,108,5,2015,Neha Patel,207,1493 CC,83 bhp,218 Nm,20
+XUV500,Shyambazar,Esplanade,5.99,LPG,95,4,2013,Rohit Menon,160,1798 CC,83 bhp,195 Nm,18
+Creta,Shyambazar,Lake Town,3.25,Diesel,98,5,2015,Sneha Das,51,1493 CC,74 bhp,238 Nm,18
+Creta,Shyambazar,Kasba,10.44,Diesel,95,4,2020,Rohit Menon,142,1197 CC,125 bhp,163 Nm,15
+WagonR,Shyambazar,Barasat,16.23,CNG,98,6,2016,Aarav Singh,175,1197 CC,140 bhp,191 Nm,22
+Creta,Shyambazar,Baguiati,5.56,LPG,95,5,2012,Neha Patel,125,1197 CC,125 bhp,219 Nm,20
+WagonR,Shyambazar,Newtown,11.05,CNG,108,7,2017,Priya Sen,166,1798 CC,110 bhp,224 Nm,20
+Hyundai i10,Shyambazar,Cossipore,2.14,LPG,99,4,2015,Vikram Sinha,113,1591 CC,110 bhp,239 Nm,22
+Honda City,Shyambazar,Alipore,9.48,Diesel,108,4,2021,Neha Patel,212,1591 CC,83 bhp,141 Nm,20
+WagonR,Shyambazar,Kankurgachi,4.6,LPG,99,6,2014,Priya Sen,78,1591 CC,140 bhp,209 Nm,22
+Swift Dzire,Shyambazar,Sodepur,9.6,Diesel,108,7,2022,Rohit Menon,130,1493 CC,83 bhp,188 Nm,20
+Swift Dzire,Shyambazar,Baranagar,5.37,Petrol,98,4,2019,Rohit Menon,73,1591 CC,74 bhp,205 Nm,22
+Creta,Shyambazar,Bandel,34.53,Diesel,99,6,2022,Rohit Menon,445,1798 CC,140 bhp,131 Nm,15
+Swift Dzire,Shyambazar,Serampore,15.81,Petrol,108,5,2020,Neha Patel,146,1798 CC,125 bhp,164 Nm,15
+Hyundai i10,Shyambazar,Beliaghata,5.93,LPG,98,4,2022,Sneha Das,108,1197 CC,140 bhp,180 Nm,18
+Creta,Lake Town,Ballygunge,9.94,LPG,95,4,2022,Rohit Menon,193,1197 CC,83 bhp,243 Nm,22
+XUV500,Lake Town,Dumdum,4.92,CNG,99,4,2019,Aarav Singh,71,1493 CC,74 bhp,145 Nm,22
+XUV500,Lake Town,Garia,17.49,Diesel,95,7,2020,Neha Patel,216,1197 CC,83 bhp,133 Nm,22
+Hyundai i10,Lake Town,Howrah,9.83,LPG,108,4,2012,Priya Sen,139,1197 CC,110 bhp,190 Nm,22
+Hyundai i10,Lake Town,Salt Lake,0.82,CNG,98,7,2015,Aarav Singh,53,1197 CC,99 bhp,224 Nm,18
+Honda City,Lake Town,Park Street,8.08,Diesel,108,6,2019,Priya Sen,115,1591 CC,110 bhp,225 Nm,22
+Creta,Lake Town,Jadavpur,12.89,Petrol,99,7,2016,Neha Patel,185,1798 CC,83 bhp,158 Nm,18
+Swift Dzire,Lake Town,Tollygunge,13.29,Diesel,98,6,2018,Vikram Sinha,128,1248 CC,99 bhp,218 Nm,18
+Hyundai i10,Lake Town,Behala,15.35,Petrol,98,6,2022,Priya Sen,210,1798 CC,83 bhp,161 Nm,22
+Creta,Lake Town,Esplanade,7.28,Diesel,108,7,2017,Neha Patel,110,1493 CC,74 bhp,232 Nm,20
+WagonR,Lake Town,Shyambazar,3.25,CNG,99,4,2022,Priya Sen,140,1591 CC,140 bhp,235 Nm,18
+Creta,Lake Town,Kasba,9.74,Diesel,95,5,2015,Vikram Sinha,209,1493 CC,140 bhp,190 Nm,20
+WagonR,Lake Town,Barasat,14.89,Petrol,95,5,2021,Sneha Das,213,1197 CC,83 bhp,199 Nm,22
+Creta,Lake Town,Baguiati,2.52,Petrol,95,7,2016,Priya Sen,64,1197 CC,125 bhp,250 Nm,22
+WagonR,Lake Town,Newtown,7.81,LPG,108,5,2015,Vikram Sinha,155,1591 CC,110 bhp,245 Nm,15
+Creta,Lake Town,Cossipore,4.99,Diesel,99,7,2017,Rohit Menon,135,1798 CC,110 bhp,161 Nm,20
+Hyundai i10,Lake Town,Alipore,10.64,CNG,98,4,2015,Rohit Menon,100,1493 CC,140 bhp,194 Nm,20
+Swift Dzire,Lake Town,Kankurgachi,4.27,Diesel,108,5,2013,Rohit Menon,98,1798 CC,99 bhp,197 Nm,20
+Swift Dzire,Lake Town,Sodepur,10.81,Diesel,99,7,2022,Sneha Das,134,1591 CC,110 bhp,182 Nm,18
+Creta,Lake Town,Baranagar,6.59,CNG,99,7,2016,Aarav Singh,110,1248 CC,83 bhp,211 Nm,20
+Swift Dzire,Lake Town,Bandel,35.29,Diesel,99,5,2021,Aarav Singh,331,1591 CC,74 bhp,198 Nm,20
+Swift Dzire,Lake Town,Serampore,17.42,Petrol,98,5,2015,Aarav Singh,201,1248 CC,140 bhp,150 Nm,22
+Hyundai i10,Lake Town,Beliaghata,4.98,Diesel,98,6,2014,Rohit Menon,90,1493 CC,140 bhp,212 Nm,15
+Swift Dzire,Kasba,Ballygunge,1.73,LPG,98,6,2013,Sneha Das,130,1197 CC,140 bhp,204 Nm,20
+Creta,Kasba,Dumdum,13.69,Petrol,98,6,2013,Sneha Das,200,1248 CC,110 bhp,243 Nm,15
+Creta,Kasba,Garia,8.23,CNG,99,5,2020,Priya Sen,165,1591 CC,140 bhp,152 Nm,15
+Hyundai i10,Kasba,Howrah,11.06,CNG,98,7,2016,Aarav Singh,165,1798 CC,74 bhp,200 Nm,22
+Hyundai i10,Kasba,Salt Lake,9.61,LPG,98,4,2020,Vikram Sinha,210,1248 CC,99 bhp,149 Nm,22
+Swift Dzire,Kasba,Park Street,5.33,Diesel,98,4,2020,Vikram Sinha,73,1248 CC,110 bhp,216 Nm,15
+XUV500,Kasba,Jadavpur,3.39,CNG,98,7,2012,Neha Patel,141,1798 CC,74 bhp,232 Nm,18
+Hyundai i10,Kasba,Tollygunge,5.17,Diesel,108,4,2019,Rohit Menon,80,1798 CC,74 bhp,135 Nm,18
+XUV500,Kasba,Behala,8.57,Diesel,98,4,2021,Priya Sen,142,1798 CC,74 bhp,203 Nm,22
+Hyundai i10,Kasba,Esplanade,6.16,LPG,108,6,2015,Vikram Sinha,150,1798 CC,83 bhp,236 Nm,22
+Honda City,Kasba,Shyambazar,10.44,Petrol,95,4,2020,Priya Sen,120,1591 CC,140 bhp,206 Nm,18
+Hyundai i10,Kasba,Lake Town,9.74,Diesel,95,7,2018,Vikram Sinha,185,1591 CC,74 bhp,171 Nm,22
+Creta,Kasba,Barasat,24.2,Diesel,99,6,2017,Aarav Singh,293,1591 CC,99 bhp,180 Nm,22
+XUV500,Kasba,Baguiati,11.12,Diesel,95,7,2022,Priya Sen,134,1248 CC,99 bhp,137 Nm,22
+Swift Dzire,Kasba,Newtown,12.58,Diesel,108,6,2022,Vikram Sinha,186,1493 CC,140 bhp,144 Nm,20
+XUV500,Kasba,Cossipore,12.44,Diesel,99,7,2018,Vikram Sinha,191,1248 CC,110 bhp,182 Nm,15
+Creta,Kasba,Alipore,5.82,Petrol,108,4,2015,Rohit Menon,135,1248 CC,99 bhp,166 Nm,15
+Honda City,Kasba,Kankurgachi,5.88,Diesel,98,7,2015,Priya Sen,75,1197 CC,140 bhp,143 Nm,20
+WagonR,Kasba,Sodepur,19.98,LPG,98,7,2021,Priya Sen,265,1493 CC,140 bhp,130 Nm,18
+Swift Dzire,Kasba,Baranagar,15.69,CNG,108,4,2016,Rohit Menon,223,1798 CC,125 bhp,153 Nm,22
+Hyundai i10,Kasba,Bandel,44.83,Petrol,108,7,2020,Aarav Singh,460,1591 CC,110 bhp,213 Nm,15
+WagonR,Kasba,Serampore,26.24,CNG,98,6,2015,Vikram Sinha,290,1197 CC,74 bhp,185 Nm,15
+Creta,Kasba,Beliaghata,4.77,CNG,95,4,2016,Vikram Sinha,121,1591 CC,140 bhp,156 Nm,18
+XUV500,Barasat,Ballygunge,24.71,Petrol,108,7,2019,Neha Patel,265,1248 CC,83 bhp,146 Nm,18
+WagonR,Barasat,Dumdum,10.52,LPG,108,5,2020,Rohit Menon,233,1248 CC,125 bhp,178 Nm,20
+Swift Dzire,Barasat,Garia,30.98,CNG,98,7,2020,Neha Patel,359,1197 CC,99 bhp,203 Nm,18
+Creta,Barasat,Howrah,22.78,Petrol,99,4,2013,Priya Sen,282,1493 CC,83 bhp,202 Nm,18
+WagonR,Barasat,Salt Lake,15.36,Petrol,108,5,2016,Rohit Menon,203,1197 CC,99 bhp,211 Nm,15
+Honda City,Barasat,Park Street,22.87,LPG,99,6,2021,Aarav Singh,330,1197 CC,140 bhp,165 Nm,15
+Creta,Barasat,Jadavpur,27.53,CNG,108,7,2012,Vikram Sinha,272,1798 CC,83 bhp,147 Nm,22
+XUV500,Barasat,Tollygunge,28.18,Diesel,95,5,2020,Neha Patel,345,1248 CC,99 bhp,221 Nm,18
+Hyundai i10,Barasat,Behala,30.15,Petrol,99,7,2020,Aarav Singh,250,1248 CC,110 bhp,148 Nm,20
+Swift Dzire,Barasat,Esplanade,21.96,LPG,108,6,2012,Vikram Sinha,279,1197 CC,125 bhp,134 Nm,18
+Hyundai i10,Barasat,Shyambazar,16.23,LPG,95,5,2018,Neha Patel,205,1197 CC,99 bhp,141 Nm,22
+WagonR,Barasat,Lake Town,14.89,LPG,108,5,2015,Sneha Das,223,1798 CC,110 bhp,161 Nm,18
+Honda City,Barasat,Kasba,24.2,LPG,108,7,2015,Neha Patel,226,1197 CC,140 bhp,158 Nm,15
+Swift Dzire,Barasat,Baguiati,13.09,Petrol,98,7,2021,Vikram Sinha,228,1197 CC,110 bhp,233 Nm,15
+XUV500,Barasat,Newtown,13.88,Diesel,95,7,2012,Vikram Sinha,186,1798 CC,140 bhp,140 Nm,22
+Hyundai i10,Barasat,Cossipore,15.79,Petrol,99,6,2015,Aarav Singh,249,1798 CC,74 bhp,211 Nm,22
+XUV500,Barasat,Alipore,25.43,Diesel,108,6,2012,Aarav Singh,325,1248 CC,125 bhp,164 Nm,15
+WagonR,Barasat,Kankurgachi,19.16,LPG,95,4,2019,Neha Patel,220,1493 CC,99 bhp,133 Nm,15
+Hyundai i10,Barasat,Sodepur,11.25,CNG,95,6,2020,Priya Sen,181,1197 CC,83 bhp,157 Nm,15
+Honda City,Barasat,Baranagar,12.31,Diesel,108,7,2020,Vikram Sinha,182,1798 CC,83 bhp,207 Nm,15
+Honda City,Barasat,Bandel,24.59,Diesel,99,7,2014,Neha Patel,272,1798 CC,74 bhp,155 Nm,20
+XUV500,Barasat,Serampore,14.65,LPG,99,7,2020,Neha Patel,227,1591 CC,83 bhp,189 Nm,20
+Hyundai i10,Barasat,Beliaghata,19.69,CNG,98,6,2016,Priya Sen,263,1493 CC,110 bhp,233 Nm,22
+Honda City,Baguiati,Ballygunge,11.64,CNG,99,5,2017,Priya Sen,193,1248 CC,83 bhp,158 Nm,22
+Honda City,Baguiati,Dumdum,2.65,CNG,98,5,2020,Neha Patel,99,1591 CC,99 bhp,152 Nm,20
+Hyundai i10,Baguiati,Garia,18.31,CNG,95,6,2014,Vikram Sinha,212,1798 CC,140 bhp,199 Nm,20
+WagonR,Baguiati,Howrah,12.34,Petrol,98,6,2014,Aarav Singh,196,1798 CC,110 bhp,185 Nm,20
+XUV500,Baguiati,Salt Lake,3.32,Petrol,98,7,2021,Aarav Singh,55,1493 CC,140 bhp,179 Nm,18
+Honda City,Baguiati,Park Street,10.34,Diesel,95,6,2017,Vikram Sinha,158,1591 CC,83 bhp,231 Nm,15
+Creta,Baguiati,Jadavpur,14.44,LPG,108,7,2021,Neha Patel,191,1197 CC,99 bhp,240 Nm,15
+XUV500,Baguiati,Tollygunge,15.21,Diesel,108,6,2015,Sneha Das,235,1591 CC,140 bhp,200 Nm,15
+Swift Dzire,Baguiati,Behala,17.53,CNG,95,7,2018,Sneha Das,163,1493 CC,140 bhp,152 Nm,20
+WagonR,Baguiati,Esplanade,9.64,Petrol,108,7,2022,Aarav Singh,123,1493 CC,83 bhp,231 Nm,18
+Hyundai i10,Baguiati,Shyambazar,5.56,LPG,108,6,2015,Sneha Das,124,1591 CC,83 bhp,146 Nm,15
+XUV500,Baguiati,Lake Town,2.52,CNG,108,5,2013,Rohit Menon,68,1493 CC,110 bhp,194 Nm,15
+WagonR,Baguiati,Kasba,11.12,CNG,95,7,2019,Sneha Das,146,1248 CC,125 bhp,141 Nm,20
+XUV500,Baguiati,Barasat,13.09,Diesel,98,4,2016,Aarav Singh,127,1248 CC,83 bhp,239 Nm,18
+WagonR,Baguiati,Newtown,5.67,LPG,99,6,2019,Sneha Das,112,1197 CC,74 bhp,153 Nm,15
+Swift Dzire,Baguiati,Cossipore,6.93,CNG,108,4,2019,Priya Sen,172,1493 CC,125 bhp,200 Nm,18
+Honda City,Baguiati,Alipore,12.89,CNG,99,5,2019,Neha Patel,245,1248 CC,74 bhp,237 Nm,15
+Creta,Baguiati,Kankurgachi,6.34,Diesel,95,6,2017,Vikram Sinha,84,1493 CC,140 bhp,230 Nm,20
+XUV500,Baguiati,Sodepur,11.08,LPG,108,6,2022,Vikram Sinha,161,1248 CC,74 bhp,141 Nm,20
+XUV500,Baguiati,Baranagar,7.27,CNG,108,4,2020,Sneha Das,99,1197 CC,125 bhp,145 Nm,15
+Hyundai i10,Baguiati,Bandel,34.75,Petrol,98,7,2015,Aarav Singh,388,1248 CC,110 bhp,138 Nm,18
+Hyundai i10,Baguiati,Serampore,17.78,CNG,98,4,2021,Aarav Singh,198,1493 CC,140 bhp,160 Nm,22
+Swift Dzire,Baguiati,Beliaghata,6.64,Petrol,98,7,2021,Aarav Singh,89,1798 CC,125 bhp,225 Nm,15
+Honda City,Newtown,Ballygunge,13.76,Petrol,98,7,2020,Sneha Das,186,1493 CC,74 bhp,167 Nm,22
+Swift Dzire,Newtown,Dumdum,5.52,CNG,95,7,2013,Aarav Singh,128,1591 CC,99 bhp,194 Nm,18
+Honda City,Newtown,Garia,17.71,LPG,108,4,2017,Rohit Menon,260,1493 CC,110 bhp,135 Nm,18
+Creta,Newtown,Howrah,17.38,LPG,99,4,2013,Sneha Das,272,1197 CC,140 bhp,240 Nm,22
+Honda City,Newtown,Salt Lake,8.62,Diesel,108,7,2019,Vikram Sinha,190,1591 CC,74 bhp,246 Nm,18
+XUV500,Newtown,Park Street,14.04,LPG,108,4,2012,Priya Sen,133,1248 CC,99 bhp,238 Nm,20
+Creta,Newtown,Jadavpur,15.89,CNG,108,7,2021,Sneha Das,180,1197 CC,125 bhp,236 Nm,15
+Hyundai i10,Newtown,Tollygunge,17.56,Petrol,108,6,2012,Vikram Sinha,269,1591 CC,83 bhp,207 Nm,22
+Swift Dzire,Newtown,Behala,20.55,Petrol,95,6,2019,Aarav Singh,268,1798 CC,83 bhp,213 Nm,20
+Hyundai i10,Newtown,Esplanade,13.69,Diesel,108,6,2019,Vikram Sinha,213,1248 CC,140 bhp,174 Nm,18
+Creta,Newtown,Shyambazar,11.05,CNG,108,5,2018,Priya Sen,131,1248 CC,140 bhp,143 Nm,22
+WagonR,Newtown,Lake Town,7.81,Petrol,95,5,2021,Neha Patel,148,1248 CC,99 bhp,194 Nm,22
+Swift Dzire,Newtown,Kasba,12.58,Petrol,98,7,2018,Rohit Menon,135,1197 CC,83 bhp,221 Nm,18
+Creta,Newtown,Barasat,13.88,Petrol,108,7,2019,Rohit Menon,179,1197 CC,125 bhp,189 Nm,15
+WagonR,Newtown,Baguiati,5.67,Petrol,95,6,2019,Sneha Das,140,1197 CC,140 bhp,130 Nm,15
+Swift Dzire,Newtown,Cossipore,12.59,Petrol,95,4,2020,Neha Patel,200,1493 CC,110 bhp,196 Nm,15
+Honda City,Newtown,Alipore,16.33,CNG,99,6,2014,Aarav Singh,188,1248 CC,83 bhp,235 Nm,18
+Honda City,Newtown,Kankurgachi,10.11,Petrol,95,7,2021,Vikram Sinha,203,1591 CC,125 bhp,226 Nm,22
+Creta,Newtown,Sodepur,15.87,LPG,99,6,2019,Rohit Menon,186,1248 CC,99 bhp,177 Nm,18
+Hyundai i10,Newtown,Baranagar,12.59,Diesel,95,5,2014,Neha Patel,170,1591 CC,74 bhp,219 Nm,20
+Swift Dzire,Newtown,Bandel,37.7,Petrol,98,7,2016,Priya Sen,384,1591 CC,125 bhp,191 Nm,22
+WagonR,Newtown,Serampore,22.41,LPG,95,7,2020,Aarav Singh,256,1197 CC,83 bhp,168 Nm,22
+Hyundai i10,Newtown,Beliaghata,9.6,Diesel,108,6,2016,Neha Patel,151,1493 CC,110 bhp,146 Nm,18
+WagonR,Cossipore,Ballygunge,11.94,Diesel,108,7,2012,Aarav Singh,143,1197 CC,99 bhp,212 Nm,20
+Swift Dzire,Cossipore,Dumdum,8.3,Petrol,99,7,2012,Neha Patel,111,1248 CC,140 bhp,195 Nm,15
+Creta,Cossipore,Garia,20.65,Petrol,99,5,2021,Neha Patel,266,1591 CC,99 bhp,243 Nm,22
+Hyundai i10,Cossipore,Howrah,6.99,Diesel,95,4,2021,Priya Sen,133,1197 CC,74 bhp,247 Nm,20
+WagonR,Cossipore,Salt Lake,4.32,LPG,98,6,2013,Rohit Menon,164,1197 CC,125 bhp,185 Nm,22
+WagonR,Cossipore,Park Street,8.56,Diesel,108,5,2021,Neha Patel,96,1197 CC,74 bhp,164 Nm,22
+WagonR,Cossipore,Jadavpur,14.96,LPG,108,4,2021,Rohit Menon,226,1591 CC,99 bhp,130 Nm,22
+Creta,Cossipore,Tollygunge,14.37,LPG,95,5,2020,Neha Patel,186,1248 CC,83 bhp,245 Nm,22
+WagonR,Cossipore,Behala,15.32,CNG,95,5,2017,Rohit Menon,211,1798 CC,74 bhp,156 Nm,18
+Hyundai i10,Cossipore,Esplanade,7.44,CNG,98,4,2019,Aarav Singh,103,1248 CC,83 bhp,215 Nm,15
+WagonR,Cossipore,Shyambazar,2.14,LPG,98,7,2016,Vikram Sinha,133,1591 CC,74 bhp,133 Nm,22
+Hyundai i10,Cossipore,Lake Town,4.99,Diesel,95,6,2014,Priya Sen,138,1591 CC,125 bhp,215 Nm,20
+Honda City,Cossipore,Kasba,12.44,LPG,98,5,2022,Rohit Menon,187,1248 CC,125 bhp,151 Nm,22
+Swift Dzire,Cossipore,Barasat,15.79,Diesel,98,4,2013,Sneha Das,180,1197 CC,110 bhp,230 Nm,22
+WagonR,Cossipore,Baguiati,6.93,Diesel,98,6,2015,Sneha Das,187,1798 CC,74 bhp,207 Nm,18
+WagonR,Cossipore,Newtown,12.59,Petrol,108,5,2021,Aarav Singh,160,1798 CC,99 bhp,241 Nm,22
+Swift Dzire,Cossipore,Alipore,10.8,Petrol,95,7,2014,Rohit Menon,229,1591 CC,125 bhp,174 Nm,20
+Swift Dzire,Cossipore,Kankurgachi,6.67,LPG,95,6,2020,Rohit Menon,165,1197 CC,140 bhp,180 Nm,22
+Swift Dzire,Cossipore,Sodepur,7.85,LPG,108,4,2021,Vikram Sinha,103,1591 CC,99 bhp,191 Nm,18
+Honda City,Cossipore,Baranagar,3.92,CNG,95,5,2013,Rohit Menon,142,1493 CC,99 bhp,201 Nm,15
+XUV500,Cossipore,Bandel,32.77,Petrol,108,7,2013,Vikram Sinha,325,1248 CC,110 bhp,224 Nm,18
+XUV500,Cossipore,Serampore,13.81,Petrol,108,7,2016,Priya Sen,222,1248 CC,83 bhp,130 Nm,15
+Hyundai i10,Cossipore,Beliaghata,8.04,Diesel,99,6,2017,Sneha Das,157,1197 CC,110 bhp,247 Nm,22
+Hyundai i10,Alipore,Ballygunge,4.12,Diesel,108,6,2022,Sneha Das,88,1591 CC,140 bhp,215 Nm,18
+Honda City,Alipore,Dumdum,15.5,LPG,99,5,2015,Neha Patel,152,1798 CC,110 bhp,150 Nm,18
+XUV500,Alipore,Garia,12.48,CNG,98,7,2012,Vikram Sinha,248,1591 CC,110 bhp,185 Nm,15
+Honda City,Alipore,Howrah,6.38,Diesel,98,6,2012,Rohit Menon,115,1798 CC,110 bhp,202 Nm,20
+Swift Dzire,Alipore,Salt Lake,10.09,Diesel,95,5,2015,Sneha Das,125,1591 CC,83 bhp,172 Nm,15
+Honda City,Alipore,Park Street,2.56,Petrol,108,6,2018,Neha Patel,117,1591 CC,140 bhp,239 Nm,18
+XUV500,Alipore,Jadavpur,5.82,LPG,95,6,2014,Priya Sen,112,1591 CC,125 bhp,236 Nm,18
+Swift Dzire,Alipore,Tollygunge,3.9,CNG,98,6,2022,Sneha Das,63,1248 CC,74 bhp,148 Nm,18
+XUV500,Alipore,Behala,4.73,Diesel,95,7,2015,Aarav Singh,78,1493 CC,110 bhp,130 Nm,18
+Hyundai i10,Alipore,Esplanade,3.5,LPG,108,5,2019,Aarav Singh,81,1248 CC,99 bhp,180 Nm,15
+Hyundai i10,Alipore,Shyambazar,9.48,CNG,95,5,2015,Rohit Menon,113,1798 CC,74 bhp,232 Nm,18
+Swift Dzire,Alipore,Lake Town,10.64,Petrol,95,4,2019,Rohit Menon,157,1798 CC,110 bhp,137 Nm,20
+WagonR,Alipore,Kasba,5.82,Diesel,108,5,2014,Aarav Singh,174,1493 CC,83 bhp,220 Nm,20
+Swift Dzire,Alipore,Barasat,25.43,Diesel,99,6,2022,Rohit Menon,265,1798 CC,110 bhp,162 Nm,22
+XUV500,Alipore,Baguiati,12.89,Petrol,98,5,2014,Sneha Das,188,1591 CC,140 bhp,247 Nm,15
+Honda City,Alipore,Newtown,16.33,Petrol,98,7,2021,Rohit Menon,210,1197 CC,110 bhp,196 Nm,15
+Creta,Alipore,Cossipore,10.8,CNG,108,5,2012,Priya Sen,212,1798 CC,110 bhp,223 Nm,18
+XUV500,Alipore,Kankurgachi,6.56,CNG,98,4,2017,Vikram Sinha,184,1197 CC,83 bhp,133 Nm,15
+Honda City,Alipore,Sodepur,18.61,Diesel,98,5,2018,Neha Patel,214,1493 CC,74 bhp,203 Nm,20
+Honda City,Alipore,Baranagar,14.66,Diesel,95,4,2012,Priya Sen,214,1493 CC,125 bhp,228 Nm,15
+Honda City,Alipore,Bandel,43.4,LPG,108,6,2021,Aarav Singh,423,1493 CC,110 bhp,147 Nm,20
+Hyundai i10,Alipore,Serampore,24.07,LPG,108,4,2014,Vikram Sinha,243,1798 CC,99 bhp,138 Nm,15
+Hyundai i10,Alipore,Beliaghata,6.74,LPG,99,5,2022,Aarav Singh,179,1798 CC,83 bhp,151 Nm,20
+WagonR,Kankurgachi,Ballygunge,5.76,CNG,108,6,2018,Rohit Menon,139,1197 CC,125 bhp,208 Nm,20
+Swift Dzire,Kankurgachi,Dumdum,8.98,LPG,95,6,2017,Sneha Das,126,1248 CC,140 bhp,183 Nm,18
+Hyundai i10,Kankurgachi,Garia,14.02,Diesel,99,6,2017,Vikram Sinha,186,1591 CC,83 bhp,184 Nm,20
+XUV500,Kankurgachi,Howrah,7.78,Diesel,95,5,2013,Vikram Sinha,98,1798 CC,110 bhp,197 Nm,20
+XUV500,Kankurgachi,Salt Lake,3.92,CNG,98,7,2021,Vikram Sinha,56,1798 CC,99 bhp,155 Nm,15
+Swift Dzire,Kankurgachi,Park Street,4.06,Petrol,98,5,2020,Aarav Singh,71,1493 CC,74 bhp,131 Nm,20
+XUV500,Kankurgachi,Jadavpur,8.78,Diesel,99,4,2021,Sneha Das,137,1591 CC,83 bhp,247 Nm,18
+Honda City,Kankurgachi,Tollygunge,9.02,Diesel,108,5,2012,Aarav Singh,132,1798 CC,74 bhp,245 Nm,22
+Hyundai i10,Kankurgachi,Behala,11.19,Diesel,99,5,2017,Vikram Sinha,198,1197 CC,140 bhp,187 Nm,22
+WagonR,Kankurgachi,Esplanade,3.58,Petrol,99,6,2015,Neha Patel,144,1591 CC,83 bhp,233 Nm,20
+Creta,Kankurgachi,Shyambazar,4.6,CNG,108,4,2018,Aarav Singh,136,1248 CC,74 bhp,150 Nm,22
+WagonR,Kankurgachi,Lake Town,4.27,LPG,99,4,2017,Rohit Menon,84,1798 CC,99 bhp,190 Nm,20
+WagonR,Kankurgachi,Kasba,5.88,Petrol,98,7,2017,Vikram Sinha,138,1493 CC,83 bhp,219 Nm,15
+Hyundai i10,Kankurgachi,Barasat,19.16,CNG,95,7,2012,Sneha Das,190,1493 CC,74 bhp,217 Nm,20
+Creta,Kankurgachi,Baguiati,6.34,Diesel,99,4,2013,Sneha Das,134,1197 CC,110 bhp,245 Nm,15
+Creta,Kankurgachi,Newtown,10.11,Diesel,98,6,2012,Priya Sen,122,1493 CC,83 bhp,250 Nm,20
+Honda City,Kankurgachi,Cossipore,6.67,CNG,99,6,2020,Priya Sen,121,1591 CC,83 bhp,200 Nm,15
+Creta,Kankurgachi,Alipore,6.56,Petrol,99,4,2015,Sneha Das,184,1591 CC,110 bhp,245 Nm,15
+XUV500,Kankurgachi,Sodepur,14.11,CNG,108,5,2017,Vikram Sinha,178,1798 CC,74 bhp,171 Nm,20
+Creta,Kankurgachi,Baranagar,9.82,Diesel,99,7,2022,Neha Patel,127,1591 CC,99 bhp,222 Nm,18
+WagonR,Kankurgachi,Bandel,38.97,CNG,99,6,2013,Rohit Menon,372,1493 CC,110 bhp,204 Nm,18
+Hyundai i10,Kankurgachi,Serampore,20.41,LPG,99,5,2012,Neha Patel,172,1591 CC,74 bhp,231 Nm,18
+Hyundai i10,Kankurgachi,Beliaghata,1.44,Diesel,108,7,2022,Priya Sen,100,1493 CC,99 bhp,201 Nm,15
+Honda City,Sodepur,Ballygunge,19.68,Diesel,108,4,2022,Rohit Menon,245,1248 CC,140 bhp,185 Nm,22
+WagonR,Sodepur,Dumdum,10.35,CNG,98,5,2015,Aarav Singh,150,1493 CC,140 bhp,228 Nm,20
+Creta,Sodepur,Garia,28.08,Petrol,108,4,2020,Rohit Menon,254,1248 CC,140 bhp,208 Nm,22
+WagonR,Sodepur,Howrah,13.87,LPG,108,7,2012,Aarav Singh,164,1248 CC,74 bhp,236 Nm,22
+Honda City,Sodepur,Salt Lake,10.62,Diesel,98,7,2012,Vikram Sinha,170,1248 CC,140 bhp,161 Nm,20
+Swift Dzire,Sodepur,Park Street,16.41,Diesel,98,7,2015,Aarav Singh,201,1248 CC,125 bhp,179 Nm,15
+Honda City,Sodepur,Jadavpur,22.72,LPG,95,5,2017,Aarav Singh,230,1248 CC,83 bhp,139 Nm,20
+Creta,Sodepur,Tollygunge,22.22,CNG,98,6,2018,Aarav Singh,338,1197 CC,140 bhp,142 Nm,22
+Hyundai i10,Sodepur,Behala,23.03,CNG,98,5,2020,Rohit Menon,235,1591 CC,83 bhp,239 Nm,18
+WagonR,Sodepur,Esplanade,15.29,LPG,108,5,2016,Priya Sen,247,1197 CC,140 bhp,235 Nm,18
+Honda City,Sodepur,Shyambazar,9.6,Petrol,98,5,2018,Neha Patel,175,1591 CC,99 bhp,144 Nm,15
+Hyundai i10,Sodepur,Lake Town,10.81,LPG,108,7,2018,Priya Sen,224,1197 CC,74 bhp,237 Nm,15
+XUV500,Sodepur,Kasba,19.98,LPG,98,6,2021,Priya Sen,226,1798 CC,110 bhp,131 Nm,15
+Hyundai i10,Sodepur,Barasat,11.25,Diesel,98,6,2016,Aarav Singh,131,1591 CC,74 bhp,163 Nm,15
+Swift Dzire,Sodepur,Baguiati,11.08,Diesel,98,6,2016,Sneha Das,239,1591 CC,99 bhp,236 Nm,22
+XUV500,Sodepur,Newtown,15.87,CNG,108,6,2022,Neha Patel,184,1248 CC,99 bhp,234 Nm,20
+Swift Dzire,Sodepur,Cossipore,7.85,LPG,98,5,2015,Vikram Sinha,98,1798 CC,99 bhp,178 Nm,18
+WagonR,Sodepur,Alipore,18.61,CNG,99,4,2014,Sneha Das,282,1493 CC,125 bhp,142 Nm,15
+Swift Dzire,Sodepur,Kankurgachi,14.11,Diesel,98,6,2018,Sneha Das,186,1798 CC,140 bhp,171 Nm,15
+Creta,Sodepur,Baranagar,4.3,Petrol,95,6,2018,Rohit Menon,104,1248 CC,83 bhp,217 Nm,22
+Hyundai i10,Sodepur,Bandel,24.94,LPG,95,7,2013,Neha Patel,248,1493 CC,74 bhp,185 Nm,18
+Honda City,Sodepur,Serampore,6.7,Petrol,108,5,2022,Neha Patel,174,1591 CC,110 bhp,249 Nm,18
+Creta,Sodepur,Beliaghata,15.31,LPG,99,5,2015,Neha Patel,233,1197 CC,125 bhp,235 Nm,20
+XUV500,Baranagar,Ballygunge,15.44,LPG,108,6,2015,Neha Patel,157,1248 CC,99 bhp,228 Nm,22
+Honda City,Baranagar,Dumdum,7.3,Petrol,95,7,2019,Rohit Menon,154,1248 CC,125 bhp,168 Nm,18
+WagonR,Baranagar,Garia,23.78,LPG,95,4,2013,Neha Patel,272,1798 CC,99 bhp,185 Nm,22
+WagonR,Baranagar,Howrah,10.7,CNG,108,7,2015,Aarav Singh,197,1493 CC,74 bhp,233 Nm,18
+XUV500,Baranagar,Salt Lake,6.34,LPG,98,5,2022,Aarav Singh,100,1591 CC,83 bhp,167 Nm,15
+Swift Dzire,Baranagar,Park Street,12.34,LPG,99,6,2013,Vikram Sinha,172,1798 CC,125 bhp,137 Nm,22
+Swift Dzire,Baranagar,Jadavpur,18.49,Diesel,108,7,2014,Neha Patel,237,1197 CC,125 bhp,182 Nm,15
+Creta,Baranagar,Tollygunge,18.14,LPG,108,4,2012,Aarav Singh,202,1798 CC,125 bhp,132 Nm,20
+Hyundai i10,Baranagar,Behala,19.23,CNG,99,6,2014,Vikram Sinha,249,1798 CC,74 bhp,134 Nm,15
+WagonR,Baranagar,Esplanade,11.24,CNG,98,4,2013,Sneha Das,186,1798 CC,99 bhp,153 Nm,15
+XUV500,Baranagar,Shyambazar,5.37,CNG,108,5,2013,Vikram Sinha,81,1493 CC,83 bhp,228 Nm,18
+WagonR,Baranagar,Lake Town,6.59,LPG,108,5,2017,Rohit Menon,114,1591 CC,74 bhp,162 Nm,20
+Hyundai i10,Baranagar,Kasba,15.69,CNG,95,6,2012,Neha Patel,194,1493 CC,83 bhp,244 Nm,20
+Hyundai i10,Baranagar,Barasat,12.31,Petrol,108,7,2017,Priya Sen,197,1798 CC,74 bhp,214 Nm,18
+Honda City,Baranagar,Baguiati,7.27,LPG,95,4,2013,Priya Sen,156,1591 CC,74 bhp,245 Nm,20
+Swift Dzire,Baranagar,Newtown,12.59,Petrol,95,6,2012,Neha Patel,184,1798 CC,140 bhp,242 Nm,18
+Creta,Baranagar,Cossipore,3.92,Petrol,108,7,2014,Priya Sen,110,1798 CC,110 bhp,241 Nm,15
+Swift Dzire,Baranagar,Alipore,14.66,Petrol,98,6,2016,Sneha Das,163,1591 CC,125 bhp,150 Nm,22
+Hyundai i10,Baranagar,Kankurgachi,9.82,Petrol,108,7,2022,Vikram Sinha,173,1248 CC,110 bhp,206 Nm,20
+Swift Dzire,Baranagar,Sodepur,4.3,Diesel,108,5,2022,Neha Patel,159,1493 CC,110 bhp,217 Nm,15
+WagonR,Baranagar,Bandel,29.17,CNG,95,4,2020,Rohit Menon,342,1248 CC,99 bhp,203 Nm,22
+Swift Dzire,Baranagar,Serampore,10.84,CNG,108,6,2020,Rohit Menon,202,1798 CC,125 bhp,197 Nm,20
+Swift Dzire,Baranagar,Beliaghata,11.01,CNG,98,7,2012,Neha Patel,186,1493 CC,110 bhp,234 Nm,22
+Creta,Bandel,Ballygunge,44.61,LPG,98,7,2015,Aarav Singh,384,1591 CC,99 bhp,196 Nm,15
+Hyundai i10,Bandel,Dumdum,32.91,LPG,95,4,2012,Aarav Singh,324,1248 CC,110 bhp,216 Nm,18
+WagonR,Bandel,Garia,52.78,CNG,98,5,2016,Priya Sen,549,1493 CC,125 bhp,193 Nm,18
+Hyundai i10,Bandel,Howrah,37.97,Petrol,99,6,2015,Rohit Menon,447,1197 CC,140 bhp,244 Nm,20
+Creta,Bandel,Salt Lake,35.28,Diesel,98,7,2019,Rohit Menon,400,1591 CC,140 bhp,219 Nm,20
+XUV500,Bandel,Park Street,41.31,CNG,99,5,2022,Priya Sen,462,1798 CC,140 bhp,250 Nm,18
+WagonR,Bandel,Jadavpur,47.65,Diesel,108,5,2019,Sneha Das,474,1591 CC,125 bhp,236 Nm,22
+WagonR,Bandel,Tollygunge,47.1,Petrol,99,4,2021,Neha Patel,430,1591 CC,74 bhp,243 Nm,18
+Hyundai i10,Bandel,Behala,47.59,Petrol,95,4,2020,Priya Sen,472,1591 CC,125 bhp,217 Nm,20
+XUV500,Bandel,Esplanade,40.18,Diesel,95,4,2017,Priya Sen,509,1493 CC,110 bhp,185 Nm,15
+Creta,Bandel,Shyambazar,34.53,LPG,108,4,2020,Priya Sen,392,1591 CC,125 bhp,147 Nm,22
+Hyundai i10,Bandel,Lake Town,35.29,CNG,108,6,2014,Priya Sen,395,1248 CC,140 bhp,192 Nm,18
+WagonR,Bandel,Kasba,44.83,Diesel,99,4,2018,Priya Sen,425,1248 CC,99 bhp,188 Nm,20
+Hyundai i10,Bandel,Barasat,24.59,Diesel,95,5,2022,Vikram Sinha,341,1493 CC,83 bhp,205 Nm,20
+Honda City,Bandel,Baguiati,34.75,LPG,98,7,2022,Rohit Menon,306,1248 CC,83 bhp,159 Nm,20
+XUV500,Bandel,Newtown,37.7,Diesel,98,5,2022,Rohit Menon,333,1248 CC,99 bhp,201 Nm,20
+Creta,Bandel,Cossipore,32.77,Diesel,95,5,2020,Vikram Sinha,358,1248 CC,99 bhp,217 Nm,20
+Honda City,Bandel,Alipore,43.4,Diesel,98,7,2020,Aarav Singh,471,1248 CC,110 bhp,154 Nm,20
+Hyundai i10,Bandel,Kankurgachi,38.97,Petrol,108,5,2022,Rohit Menon,300,1493 CC,140 bhp,174 Nm,15
+XUV500,Bandel,Sodepur,24.94,Diesel,108,5,2021,Sneha Das,297,1197 CC,83 bhp,193 Nm,20
+Hyundai i10,Bandel,Baranagar,29.17,LPG,98,6,2015,Aarav Singh,339,1248 CC,125 bhp,243 Nm,18
+Hyundai i10,Bandel,Serampore,19.54,LPG,108,4,2015,Vikram Sinha,199,1248 CC,140 bhp,202 Nm,15
+Swift Dzire,Bandel,Beliaghata,40.09,LPG,99,5,2018,Vikram Sinha,503,1798 CC,140 bhp,176 Nm,15
+WagonR,Serampore,Ballygunge,25.74,Petrol,108,7,2012,Sneha Das,246,1798 CC,110 bhp,188 Nm,20
+Hyundai i10,Serampore,Dumdum,16.91,Diesel,98,5,2012,Aarav Singh,227,1591 CC,140 bhp,168 Nm,18
+XUV500,Serampore,Garia,34.43,CNG,108,7,2022,Rohit Menon,358,1798 CC,140 bhp,130 Nm,15
+XUV500,Serampore,Howrah,18.45,Petrol,108,4,2015,Rohit Menon,222,1493 CC,125 bhp,231 Nm,18
+Swift Dzire,Serampore,Salt Lake,17.16,Diesel,95,6,2012,Neha Patel,229,1798 CC,110 bhp,238 Nm,15
+WagonR,Serampore,Park Street,22.15,LPG,95,6,2012,Neha Patel,245,1197 CC,140 bhp,183 Nm,20
+Hyundai i10,Serampore,Jadavpur,28.74,Diesel,95,7,2017,Aarav Singh,325,1798 CC,110 bhp,175 Nm,18
+Hyundai i10,Serampore,Tollygunge,27.87,LPG,98,5,2017,Sneha Das,347,1197 CC,110 bhp,211 Nm,18
+Swift Dzire,Serampore,Behala,28.12,LPG,108,4,2018,Neha Patel,287,1493 CC,125 bhp,155 Nm,18
+Creta,Serampore,Esplanade,21.01,Petrol,98,5,2012,Priya Sen,182,1798 CC,99 bhp,224 Nm,15
+Honda City,Serampore,Shyambazar,15.81,CNG,95,6,2012,Priya Sen,227,1798 CC,125 bhp,155 Nm,22
+Hyundai i10,Serampore,Lake Town,17.42,Diesel,108,6,2018,Sneha Das,208,1591 CC,125 bhp,153 Nm,15
+XUV500,Serampore,Kasba,26.24,Petrol,108,4,2020,Neha Patel,269,1248 CC,74 bhp,198 Nm,22
+Hyundai i10,Serampore,Barasat,14.65,CNG,95,7,2022,Priya Sen,200,1798 CC,74 bhp,188 Nm,22
+Hyundai i10,Serampore,Baguiati,17.78,Petrol,98,6,2015,Sneha Das,168,1798 CC,83 bhp,132 Nm,20
+Hyundai i10,Serampore,Newtown,22.41,CNG,108,6,2016,Neha Patel,284,1798 CC,99 bhp,137 Nm,15
+WagonR,Serampore,Cossipore,13.81,LPG,98,4,2020,Aarav Singh,195,1197 CC,74 bhp,144 Nm,20
+WagonR,Serampore,Alipore,24.07,LPG,108,5,2020,Rohit Menon,220,1493 CC,110 bhp,167 Nm,20
+Hyundai i10,Serampore,Kankurgachi,20.41,Petrol,98,5,2014,Rohit Menon,182,1248 CC,83 bhp,137 Nm,15
+Swift Dzire,Serampore,Sodepur,6.7,Diesel,99,4,2021,Rohit Menon,95,1591 CC,125 bhp,171 Nm,22
+Honda City,Serampore,Baranagar,10.84,LPG,99,4,2020,Priya Sen,107,1248 CC,99 bhp,228 Nm,18
+WagonR,Serampore,Bandel,19.54,LPG,95,5,2014,Aarav Singh,205,1248 CC,140 bhp,247 Nm,15
+Swift Dzire,Serampore,Beliaghata,21.7,Petrol,99,5,2015,Neha Patel,206,1493 CC,83 bhp,133 Nm,15
+Honda City,Beliaghata,Ballygunge,5.02,Petrol,108,4,2013,Neha Patel,169,1798 CC,83 bhp,155 Nm,20
+Creta,Beliaghata,Dumdum,9.29,LPG,99,6,2020,Vikram Sinha,140,1197 CC,74 bhp,158 Nm,15
+Hyundai i10,Beliaghata,Garia,12.77,Diesel,98,7,2022,Vikram Sinha,187,1798 CC,99 bhp,205 Nm,22
+WagonR,Beliaghata,Howrah,8.96,LPG,99,4,2019,Neha Patel,147,1591 CC,125 bhp,216 Nm,18
+Hyundai i10,Beliaghata,Salt Lake,4.84,Petrol,108,6,2020,Sneha Das,111,1248 CC,99 bhp,155 Nm,22
+Honda City,Beliaghata,Park Street,4.47,Diesel,99,7,2016,Aarav Singh,109,1591 CC,125 bhp,211 Nm,22
+Swift Dzire,Beliaghata,Jadavpur,7.92,Petrol,95,5,2014,Priya Sen,198,1591 CC,83 bhp,250 Nm,15
+XUV500,Beliaghata,Tollygunge,8.59,Diesel,108,4,2012,Sneha Das,128,1798 CC,125 bhp,158 Nm,20
+Honda City,Beliaghata,Behala,11.14,CNG,95,5,2015,Rohit Menon,209,1248 CC,140 bhp,239 Nm,18
+Hyundai i10,Beliaghata,Esplanade,4.33,Diesel,99,6,2020,Aarav Singh,95,1591 CC,140 bhp,216 Nm,18
+Creta,Beliaghata,Shyambazar,5.93,CNG,99,4,2018,Sneha Das,134,1591 CC,125 bhp,135 Nm,18
+Honda City,Beliaghata,Lake Town,4.98,CNG,99,5,2016,Rohit Menon,151,1798 CC,83 bhp,210 Nm,15
+Hyundai i10,Beliaghata,Kasba,4.77,Petrol,108,6,2014,Sneha Das,131,1798 CC,140 bhp,130 Nm,18
+Creta,Beliaghata,Barasat,19.69,Petrol,98,7,2013,Aarav Singh,238,1798 CC,140 bhp,191 Nm,22
+Hyundai i10,Beliaghata,Baguiati,6.64,LPG,108,5,2014,Aarav Singh,131,1197 CC,74 bhp,160 Nm,15
+Creta,Beliaghata,Newtown,9.6,Petrol,99,6,2020,Priya Sen,190,1248 CC,74 bhp,134 Nm,22
+XUV500,Beliaghata,Cossipore,8.04,Petrol,99,5,2015,Rohit Menon,134,1197 CC,110 bhp,158 Nm,15
+XUV500,Beliaghata,Alipore,6.74,CNG,99,4,2012,Rohit Menon,96,1197 CC,74 bhp,137 Nm,15
+WagonR,Beliaghata,Kankurgachi,1.44,Diesel,108,4,2015,Neha Patel,64,1197 CC,83 bhp,228 Nm,18
+Swift Dzire,Beliaghata,Sodepur,15.31,Diesel,95,4,2019,Priya Sen,238,1591 CC,99 bhp,215 Nm,20
+Swift Dzire,Beliaghata,Baranagar,11.01,CNG,98,4,2018,Rohit Menon,224,1798 CC,83 bhp,239 Nm,20
+Swift Dzire,Beliaghata,Bandel,40.09,LPG,108,7,2019,Sneha Das,337,1493 CC,140 bhp,226 Nm,22
+XUV500,Beliaghata,Serampore,21.7,Diesel,98,6,2020,Vikram Sinha,239,1197 CC,125 bhp,210 Nm,20

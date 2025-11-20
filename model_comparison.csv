@@ -1,0 +1,6 @@
+Model,Train_R2,Test_R2,Train_MAE,Test_MAE,Train_RMSE,Test_RMSE
+Linear Regression,0.0017,-0.0032,25.76,25.18,29.5,29.08
+Ridge Regression (α=1.0),0.0017,-0.0032,25.76,25.18,29.5,29.08
+Lasso Regression (α=0.1),0.0017,-0.0029,25.76,25.18,29.5,29.07
+Random Forest (200 trees),0.5338,-0.0212,17.32,25.35,20.16,29.34
+Gradient Boosting (100 trees),0.221,-0.0418,22.42,25.52,26.06,29.63
