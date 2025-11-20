@@ -10,7 +10,7 @@ from datetime import time, datetime, date as date_module, timedelta
 import numpy as np
 
 # ---- API Key for OpenRouteService -----
-ORS_API_KEY = "eyJvcmciOiI1YjNjZTM1OTc4NTExMTAwMDFjZjYyNDgiLCJpZCI6ImJkZDEyN2FlMGNmMzQ5MWFiZDRiYzczYTA2Y2E2OWRlIiwiaCI6Im11cm11cjY0In0="
+ORS_API_KEY = st.secrets["ORS_API_KEY"]
 
 
 # ---- Load model/encoders/data ----
