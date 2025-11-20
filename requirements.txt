@@ -3,4 +3,6 @@ pandas
 folium
 streamlit-folium
 openrouteservice
-sklearn
+scikit-learn
+
+
